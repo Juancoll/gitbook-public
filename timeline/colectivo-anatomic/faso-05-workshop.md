@@ -22,15 +22,14 @@ La página de Laafi es www.laafi.com. Seguimos trabajando con ellos por la conti
 
 ## Fotos
 
-<img src="../../.gitbook/assets/faso-1-.jpg" width="320px" />
-
-![](../../.gitbook/assets/faso-2-.jpg)
 ![](../../.gitbook/assets/faso-3-.jpg)
 ![](../../.gitbook/assets/faso-4-.jpg)
 ![](../../.gitbook/assets/faso-5-.jpg)
 ![](../../.gitbook/assets/faso-6-.jpg)
 ![](../../.gitbook/assets/faso-7-.jpg)
 ![](../../.gitbook/assets/faso-8-.jpg)
+![](../../.gitbook/assets/faso-2-.jpg)
+![](../../.gitbook/assets/faso-1-.jpg)
 
 
 
