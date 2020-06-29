@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Home](README.md)
+* [Juan Coll](README.md)
 * [Timeline](concept-a/README.md)
   * [Colectivo Anatomic \(Project\)](concept-a/sub-a.md)
   * [Emotique S.L.](concept-a/emotique-s.l./README.md)
