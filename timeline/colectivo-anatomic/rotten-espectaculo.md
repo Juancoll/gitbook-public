@@ -20,6 +20,8 @@ Las actrices Caro Pastor y Marta Pelegrina, la Inconsciencia y la Consciencia re
 
 El Colectivo Anatomic ha presentado ROTTEN en Barcelona, París, Amsterdam, Burgos, Lleida y Santiago de Chile.
 
+### Fotos
+
 ### Videos TV
 
 {% embed url="https://www.youtube.com/watch?v=lzX4uUTXsSE" %}
@@ -29,8 +31,6 @@ El Colectivo Anatomic ha presentado ROTTEN en Barcelona, París, Amsterdam, Burg
 {% embed url="https://www.youtube.com/watch?v=tECoLAsMRu4" %}
 
 
-
-### Fotos
 
 ![](../../.gitbook/assets/rotten-chile-1-.jpg) ![](../../.gitbook/assets/rotten-chile-2-.jpg) ![](../../.gitbook/assets/rotten-chile-3-.jpg) ![](../../.gitbook/assets/rotten-chile-4-.jpg) ![](../../.gitbook/assets/rotten-chile-5-.jpg) ![](../../.gitbook/assets/rotten-chile-6-.jpg) ![](../../.gitbook/assets/rotten-chile-7-.jpg) ![](../../.gitbook/assets/rotten-chile-8-.jpg) ![](../../.gitbook/assets/rotten-chile-9-.jpg)
 
