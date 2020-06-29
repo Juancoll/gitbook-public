@@ -27,7 +27,7 @@ Nacido en 1978, de padre físico teórico y madre asistente social, con estudios
 **Proyectos importantes**
 
 *  Primera discoteca en un avión comercial . \([ver más](concept-a/emotique-s.l./sub-b.md)\)
-*  Proyección de la Cúpula del World Trade Center Brasil ****\(80 x 50 metros\). [link](https://www.youtube.com/watch?v=rlVgLma0hws)
+*  Proyección de proyección de la Cúpula del World Trade Center Brasil ****\(80 x 50 metros\). [link](https://www.youtube.com/watch?v=rlVgLma0hws)
 *  Video Wall Interactivo mas grade del Mundo. [video](https://vimeo.com/291501766) 
 *  Nexwarp, software de mapping hackeando el s.o. \([ver más](programming/nexwarp.md)\)
 
