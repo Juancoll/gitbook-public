@@ -13,9 +13,9 @@ Alain Wergifosse, ruidista profesional, compone la atmósfera acústica. Las per
 
 ![](../../.gitbook/assets/raw-chile-1-.jpg)
 ![](../../.gitbook/assets/raw-chile-2-.jpg)
-![](../../.gitbook/assets/raw-chile-3-.jpg)
 ![](../../.gitbook/assets/raw-chile-4-.jpg)
 ![](../../.gitbook/assets/raw-chile-5-.jpg)
+![](../../.gitbook/assets/raw-chile-3-.jpg)
 
 
 
