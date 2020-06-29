@@ -11,7 +11,6 @@ description: 14 de julio de 2007
 Convertimos un Airbus 320 en una discoteca aérea con el DJ francés David Guetta para el vuelo Paris-Ibiza de Vueling. Guetta estuvo tocando 45 minutos para los 180 pasajeros con destino a la isla. Nosotros nos ocupamos de la primera edición.
 
 ![](../../.gitbook/assets/imgp0312_low.jpg)
-
 ![](../../.gitbook/assets/imgp0182_low.jpg)
 
 {% embed url="https://www.youtube.com/watch?v=YSVz3-1c8Lo" %}
