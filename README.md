@@ -26,14 +26,14 @@ Nacido en 1978, de padre físico teórico y madre asistente social, con estudios
 
 **Proyectos importantes**
 
-*  Primera discoteca en un avión comercial . \([ver más](concept-a/emotique-s.l./sub-b.md)\)
+*  Primera discoteca en un avión comercial . \([ver más](timeline/emotique-s.l./sub-b.md)\)
 *  Proyección de proyección de la Cúpula del World Trade Center Brasil ****\(80 x 50 metros\). [link](https://www.youtube.com/watch?v=rlVgLma0hws)
 *  Video Wall Interactivo mas grade del Mundo. [video](https://vimeo.com/291501766) 
 *  Nexwarp, software de mapping hackeando el s.o. \([ver más](programming/nexwarp.md)\)
 
 ### **2017 –  actual** - Shine
 
-Nodall Systems es una startup que se crea junto al group Hotelero español Hotusa S.A. \(70%\),  dedicada a la conceptualización y creación del producto Shine, un sistema audiovisual que transforma las habitaciones en SMART ROOMS . \([ver más](concept-a/nodall-systems-hotusa.md), o ir a la [web](http://www.shinesmartroom.com/)\)
+Nodall Systems es una startup que se crea junto al group Hotelero español Hotusa S.A. \(70%\),  dedicada a la conceptualización y creación del producto Shine, un sistema audiovisual que transforma las habitaciones en SMART ROOMS . \([ver más](timeline/nodall-systems-hotusa.md), o ir a la [web](http://www.shinesmartroom.com/)\)
 
 ![](.gitbook/assets/anotacion-2020-06-29-135258.jpg)
 
