@@ -27,7 +27,7 @@
   * [Shine](programming/shine.md)
   * [web](programming/web.md)
   * [quant](programming/quant.md)
-* [Blog](concept-b.md)
+* [Blog](blog.md)
 * [Resources](resources/README.md)
   * [books](resources/books.md)
   * [medias](resources/medias.md)
