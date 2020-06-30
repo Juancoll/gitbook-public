@@ -12,9 +12,9 @@ Nacido en 1978, de padre físico teórico y madre asistente social, con estudios
 
 **Desarrollos destacados**
 
-* Música y control del espectáculo por PDA's \(3 años antes de que saliera el iPhone\)
-* El ojo como distorsión de la guitarra.
-* Air Guitar.
+* Música y control del espectáculo por PDA's o agendas electrónicas \(3 años antes del iPhone\)
+* El ojo como pedal de distorsión de guitarra.
+* El Air Guitar.
 
 ### **2004 – 2017** Fundador o co-fundador de varias Empresas de software y contenidos
 
@@ -29,8 +29,8 @@ Nacido en 1978, de padre físico teórico y madre asistente social, con estudios
   * Proyección de una de las cúpulas mas grandes del Mundo \(WTC Sao Paulo\) 
 * Nexcommunity S.L.
   * Primer Mapping de la Puerta del Sol
-  * Mapping Palacio Real de Madrid en el día de la hispanidad retransmitido en Directo. 
-  * Video Wall Interactivo mas grande del Mundo. [video](https://vimeo.com/291501766) 
+  * Primer Mapping del Palacio Real de Madrid en el día de la hispanidad retransmitido en Directo. 
+  * El Video Wall Interactivo mas grande del Mundo \(en su momento\). [video](https://vimeo.com/291501766) 
 * Nexcode S.L.
   * Nexwarp v0, software de mapping hackeando el s.o. \([ver más](programming/nexwarp.md)\)
   * Nexwarp v1, software de mapping y gestión de contenidos junto con Panasonic
