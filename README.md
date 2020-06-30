@@ -36,8 +36,6 @@ Nacido en 1978, de padre físico teórico y madre asistente social, con estudios
 
 Nodall Systems es una startup que se crea junto al group Hotelero español Hotusa S.A. \(70%\),  dedicada a la conceptualización y creación del producto Shine, un sistema audiovisual que transforma las habitaciones en SMART ROOMS . \([ver más](timeline/nodall-systems-hotusa.md), o ir a la [web](http://www.shinesmartroom.com/)\)
 
-![](.gitbook/assets/anotacion-2020-06-29-135258.jpg)
-
 
 
 

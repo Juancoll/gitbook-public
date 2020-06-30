@@ -1,2 +1,0 @@
-# POZEGA - workshop
-

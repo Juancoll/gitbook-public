@@ -1,2 +1,0 @@
-# enanas - espectáculo
-
