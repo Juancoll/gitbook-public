@@ -21,22 +21,23 @@ Nacido en 1978, de padre físico teórico y madre asistente social, con estudios
 **Empresas**
 
 * Emotique S.L. 
+  * "ooo", software de programación visual al estilo de [PureData](https://puredata.info/), [MaxMSP ](https://cycling74.com/)o [vvvv](https://vvvv.org/).
+  * Primera discoteca en un avión comercial . \([ver más](timeline/emotique-s.l./david-guetta.md)\)
+  * proyectos europeos junto con el Franhoffer 2006 y 2007
 * MediaFlow Software S.L.
+  * Software de mapping de alto rendimiento 
+  * Proyección de una de las cúpulas mas grandes del Mundo \(WTC Sao Paulo\) 
 * Nexcommunity S.L.
+  * Primer Mapping de la Puerta del Sol
+  * Mapping Palacio Real de Madrid en el día de la hispanidad retransmitido en Directo. 
+  * Video Wall Interactivo mas grande del Mundo. [video](https://vimeo.com/291501766) 
 * Nexcode S.L.
-
-**Proyectos importantes**
-
-*  Primera discoteca en un avión comercial . \([ver más](timeline/emotique-s.l./david-guetta.md)\)
-*  Proyección de proyección de la Cúpula del World Trade Center Brasil ****\(80 x 50 metros\). [link](https://www.youtube.com/watch?v=rlVgLma0hws)
-*  Video Wall Interactivo mas grade del Mundo. [video](https://vimeo.com/291501766) 
-*  Nexwarp, software de mapping hackeando el s.o. \([ver más](programming/nexwarp.md)\)
+  * Nexwarp v0, software de mapping hackeando el s.o. \([ver más](programming/nexwarp.md)\)
+  * Nexwarp v1, software de mapping y gestión de contenidos junto con Panasonic
 
 ### **2017 –  actual** - Shine
 
 Nodall Systems es una startup que se crea junto al group Hotelero español Hotusa S.A. \(70%\),  dedicada a la conceptualización y creación del producto Shine, un sistema audiovisual que transforma las habitaciones en SMART ROOMS . \([ver más](timeline/nodall-systems-hotusa.md), o ir a la [web](http://www.shinesmartroom.com/)\)
-
-
 
 
 

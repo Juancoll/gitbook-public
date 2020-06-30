@@ -1,2 +1,0 @@
-# Nexgroup S.L
-

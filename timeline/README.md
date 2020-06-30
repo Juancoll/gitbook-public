@@ -25,7 +25,7 @@ Al finalizar los estudios en la escuela Massana, entro a trabajar de ayudante de
 
 ## Empresas de Eventos \(Software y Contenidos\)
 
-Durante nuestra aventura en el mundo del arte y la tecnología aparece Olivier Sepulcre que nos ofrece la posibilidad de trabajar para el sector de los Eventos en la edición del Sonar. Aquí empieza la aventura del video mapping. 
+Durante nuestra aventura en el mundo del arte y la tecnología aparece Olivier Sepulcre que nos ofrece la posibilidad de trabajar para el sector de los Eventos en la edición del Sonar. Aquí empieza la transformación de empresa artística a empresa comercial. 
 
 * [Emotique S.L.](emotique-s.l./) -  La empresa fue participada por la caja de ahorros de Navarra en mas de un 20%. Con la Crisis de 2008-2009 se tuvo que cerrar la empresa.
 * [MediaFlow Software S.L.](mediaflow-software.md) - 

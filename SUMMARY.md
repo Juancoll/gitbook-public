@@ -18,7 +18,6 @@
     * [David Guetta](timeline/emotique-s.l./david-guetta.md)
     * [Andalucía en Movimiento](timeline/emotique-s.l./andalucia-en-movimiento.md)
   * [MediaFlow Software S.L.](timeline/mediaflow-software.md)
-  * [Nexgroup S.L](timeline/nexgroup.md)
   * [Nexcommunity Media S.L.](timeline/nexcommunity.md)
   * [Nexcode S.L.](timeline/nexcode.md)
   * [Nodall Systems \(Hotusa\) S.L.](timeline/nodall-systems-hotusa.md)
@@ -39,6 +38,4 @@
   * [books](resources/books.md)
   * [medias](resources/medias.md)
   * [hightlights](resources/hightlights.md)
-
-## Espectáculos
 
