@@ -12,6 +12,14 @@
 ### fotos - \(Iglesia "La Ostia", Barcelona\)
 
 ![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-1-.jpg)
+![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-2-.jpg)
+![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-3-.jpg)
+![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-4-.jpg)
+![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-5-.jpg)
+![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-6-.jpg)
+![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-7-.jpg)
+![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-8-.jpg)
+![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-9-.jpg)
 
 ## 2006 \(Junio\) Barcelona, Festival Sonar
 
