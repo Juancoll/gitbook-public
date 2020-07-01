@@ -36,7 +36,7 @@ Durante nuestra aventura en el mundo del arte y la tecnología aparece Olivier S
 * Se especializa en interacción y multimedia aplicada al mundo del evento.
 * La empresa fue participada por la caja de ahorros de Navarra en mas de un 20%. Con la Crisis de 2008-2009 se tuvo que cerrar la empresa.
 
-### [MediaFlow Events S.L.](mediaflow-software.md)
+### [MediaFlow Events S.L.](mediaflow-software/)
 
 Mi socio se muda a Brasil en plena crisis en España, y decidimos seguir con la actividad de desarrollo en España y empezar a trabajar en Brasil. MediaFlow se especializa en Mapping y grandes proyecciones con el desarrollo de su software del mismo nombre MediaFlow Software.  
 
@@ -46,7 +46,7 @@ Mi socio se muda a Brasil en plena crisis en España, y decidimos seguir con la 
 * Primero desarrollos del Nexwarp \(Software de Mapping para retail\)
 * Necesidad de separar Desarrollo \(Software\) y Producción/Contenidos en los eventos. Creación  de las 2 empresas con socios diferentes de Nexcode y Nexcommunity.
 
-### [Nexcommunity Media S.L.](nexcommunity.md)
+### [Nexcommunity Media S.L.](nexcommunity/)
 
 {% embed url="http://nexcommunity.com/" %}
 
