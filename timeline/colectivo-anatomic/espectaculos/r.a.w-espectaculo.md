@@ -97,7 +97,13 @@ EN EL CENTRO FUNDACION TELEFONICA LIMA realizaron Talleres de Arte y Nuevas Tecn
 
 ## 2006 \(Diciembre\) Concierto Apolo
 
-{% embed url="https://youtu.be/-cLWtIBTMjQ" caption="" %}
+Fiesta final de la GiraInternacional2006.
+
+. El 14 de diciembre, tras sus actuaciones en Australia, Brasil, Colombia, Chile, Perú, Italia, Holanda, Francia, Croacia y Burkina Faso, el Colectivo Anatomic presentó en la Sala Apolo el espectáculo musical multimedia e interactivo RAW.
+
+![](../../../.gitbook/assets/ca-2006-12-raw-bcn-apolo-1-.jpg)
+
+![](../../../.gitbook/assets/ca-2006-12-raw-bcn-apolo-2-.jpg)
 
 {% embed url="https://youtu.be/MVz06ZS5KZY" caption="" %}
 
