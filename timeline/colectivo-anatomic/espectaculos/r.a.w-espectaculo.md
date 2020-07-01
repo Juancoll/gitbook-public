@@ -11,9 +11,23 @@
 * BARCELONA, España, Iglesia “La Ostia” 
 * BARCELONA, España, Can Golferichs SABADELL, España, 30 Nits Festival
 
+### fotos - \(Iglesia "La Ostia", Barcelona\)
+
+
+
+
+
 ## 2006 \(Junio\) Barcelona, Festival Sonar
 
 ### Entrevista Allain Vergifosse
+
+{% embed url="https://youtu.be/Zfg9ZbWq0nQ" %}
+
+### fotos
+
+![](../../../.gitbook/assets/ca-2006-06-bcn-sonar-2-%20%281%29.jpg)
+
+
 
 
 
