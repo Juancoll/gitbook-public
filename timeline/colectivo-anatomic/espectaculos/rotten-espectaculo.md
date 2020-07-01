@@ -2,6 +2,8 @@
 
 ## Overview
 
+![](../../../.gitbook/assets/ca-rotten-foto-1-.jpg)
+
 {% embed url="https://youtu.be/O1r4l8oCkVU" caption="" %}
 
 {% embed url="https://youtu.be/Hilth1fJv7k" caption="" %}

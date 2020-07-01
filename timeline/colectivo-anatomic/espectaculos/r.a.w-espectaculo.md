@@ -47,23 +47,15 @@ Junto a las funciones impartieron talleres y conferencias.
 
 ### Bogota
 
-![](../../../.gitbook/assets/ca-2006-09-raw-colombia-bogota-1-.jpg)
-![](../../../.gitbook/assets/ca-2006-09-raw-colombia-bogota-2-.jpg)
-![](../../../.gitbook/assets/ca-2006-09-raw-colombia-bogota-3-.jpg)
-![](../../../.gitbook/assets/ca-2006-09-raw-colombia-bogota-4-.jpg)
+![](../../../.gitbook/assets/ca-2006-09-raw-colombia-bogota-1-.jpg) ![](../../../.gitbook/assets/ca-2006-09-raw-colombia-bogota-2-.jpg) ![](../../../.gitbook/assets/ca-2006-09-raw-colombia-bogota-3-.jpg) ![](../../../.gitbook/assets/ca-2006-09-raw-colombia-bogota-4-.jpg)
 
 ### Medellin
 
-![](../../../.gitbook/assets/ca-2006-09-raw-colombia-medellin-1-.jpg)
-![](../../../.gitbook/assets/ca-2006-09-raw-colombia-medellin-2-.jpg)
-![](../../../.gitbook/assets/ca-2006-09-raw-colombia-medellin-3-.jpg)
+![](../../../.gitbook/assets/ca-2006-09-raw-colombia-medellin-1-.jpg) ![](../../../.gitbook/assets/ca-2006-09-raw-colombia-medellin-2-.jpg) ![](../../../.gitbook/assets/ca-2006-09-raw-colombia-medellin-3-.jpg)
 
 ### Extras
 
-![](../../../.gitbook/assets/ca-gira-colombia-1-.jpg)
-![](../../../.gitbook/assets/ca-gira-colombia-2-.jpg)
-![](../../../.gitbook/assets/ca-gira-colombia-3-.jpg)
-![](../../../.gitbook/assets/ca-gira-colombia-4-.jpg)
+![](../../../.gitbook/assets/ca-gira-colombia-1-.jpg) ![](../../../.gitbook/assets/ca-gira-colombia-2-.jpg) ![](../../../.gitbook/assets/ca-gira-colombia-3-.jpg) ![](../../../.gitbook/assets/ca-gira-colombia-4-.jpg)
 
 ## 2006 \(Septiembre\) Australia - Sydney, Canberra, Newcastle
 
@@ -75,6 +67,20 @@ RAW se ha presentado en Barcelona, Tortosa, Pozega \(Croacia\), Koudougou \(Burk
 | :--- | :--- |
 | Caro ante la Ópera de Sidney | Marta, Joan \(con la banda de gala de los Tunos de Sants\), Alain \(con extraños objetos en sus manos\), Caro, Alister y su mujer \(nuestros anfitriones\). |
 
+## 2006 \(Octubre\) Brasil
+
+### Festival Riocenacontemporanea. Rio de Janeiro.
+
+RAW se estrenó en mayo de 2005 en Barcelona. Joan Coll y Álvaro Uña idearon la dramaturgia y la dirección.
+
+Las performers e intérpretes de los instrumentos interactivos fueron Caro Pastor y Marta Pelegrina. Joan Coll tocó la guitarra eléctrica y la guitarra eléctrica virtual. Álvaro Uña manipuló los ordenadores y la guitarra eléctrica virtual.
+
+![Al fondo: Manolo, Marta, Lorena y Caro. En primer plano: Pedro, del Festival Riosescena, y &#xC1;lvaro.](../../../.gitbook/assets/ca-2006-10-raw-brasil-1-.jpg)
+
+### MobileFest. Teatro da Federaçao do Comercio FECOM. Sao Paolo
+
+Junto a las funciones, completa la gira internacional los talleres y conferencias que los miembros del Colectivo Anatomic imparten en teatros y universidades. En Sao Paolo participarón en el MobileFest, festival de tecnología móvil.
+
 ## 2006 \(Diciembre\) Concierto Apolo
 
 {% embed url="https://youtu.be/-cLWtIBTMjQ" caption="" %}
@@ -84,6 +90,20 @@ RAW se ha presentado en Barcelona, Tortosa, Pozega \(Croacia\), Koudougou \(Burk
 {% embed url="https://youtu.be/GUf9pLqKmd0" caption="" %}
 
 {% embed url="https://youtu.be/4psF1Z7r-xc" caption="" %}
+
+## 2006 \(Noviembre\) Madrid
+
+El jueves 2 de noviembre el Colectivo Anatomic actuó en el CHESTERFIELD CAFE \(c/Serrano Jover 5, esquina Alberto Aguilera\).
+
+![](../../../.gitbook/assets/ca-2006-11-raw-madrid-1-.jpg)
+
+## 2006 \(Noviembre\) Perú
+
+El Colectivo Anatomic regresó de Perú. Han trabajado con el Centro Fundación Telefónica y el Centro Cultural de España en Lima.
+
+EN EL CENTRO FUNDACION TELEFONICA LIMA realizaron Talleres de Arte y Nuevas Tecnologías, y la Conferencia-Concierto. Presentaron RAW en el Auditorio Telefonica. EN EL CENTRO CULTURAL DE ESPAÑA EN LIMA mostraron la Conferencia-Concierto y celebraron encuentros con artistas locales.
+
+
 
 ## 2007
 
