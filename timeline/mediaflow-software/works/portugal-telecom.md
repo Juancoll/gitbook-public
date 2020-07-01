@@ -1,5 +1,5 @@
 ---
-description: noviembre 2010
+description: 'Brasil, noviembre 2010'
 ---
 
 # Portugal Telecom
