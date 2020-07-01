@@ -20,7 +20,7 @@ Toda mi formación se ha visto influenciada e interrumpida por la dualidad Arte 
 
 Al finalizar los estudios en la escuela Massana, entro a trabajar de ayudante de programación para [Marceli Antunez](http://www.marceliantunez.com/) \(ex Fura dels Baus\), en el [espectáculo Pol](http://www.marceliantunez.com/work/pol/). Ahí, me encuentro a [Alvaro Uña Resa](https://www.linkedin.com/in/alvaro-u%C3%B1a-resa-b33669195/), el que sera mi mentor y compañero de viaje durante casi 10 años. Nos lanzamos en los siguientes proyectos de arte y tecnología
 
-* [Emotique S.L.](emotique-s.l./) - nuestra primera empresa como productora de espectáculos y desarrollo de software visual. 
+* [Emotique S.L.](emotique-sl/) - nuestra primera empresa como productora de espectáculos y desarrollo de software visual. 
 * [El colectivo anatomic](colectivo-anatomic/) - Agrupaciones de artistas al rededor de la productora Emotique S.L. para la creación de una serie de espectáculos.
 
 ## Empresas de Eventos \(Software y Contenidos\)
@@ -29,14 +29,14 @@ Al finalizar los estudios en la escuela Massana, entro a trabajar de ayudante de
 
 Durante nuestra aventura en el mundo del arte y la tecnología aparece Olivier Sepulcre que nos ofrece la posibilidad de trabajar para el sector de los Eventos en la edición del Sonar 2005 para el Stand de San Miguel.. Aquí empieza la transformación de empresa artística a empresa comercial. 
 
-### [Emotique S.L.](emotique-s.l./) 
+### [Emotique S.L.](emotique-sl/) 
 
 * Se desarrolla el Software "ooo" un sistema de programación visual como base de toda la tecnología de la empresa.  
 * Se presentan 2 Proyectos Europeos \(con el[ Fraunhofer-Gesellschaft](https://www.fraunhofer.de/en.html)\) al rededor de nuestro software.
 * Se especializa en interacción y multimedia aplicada al mundo del evento.
 * La empresa fue participada por la caja de ahorros de Navarra en mas de un 20%. Con la Crisis de 2008-2009 se tuvo que cerrar la empresa.
 
-### [MediaFlow Events S.L.](mediaflow-software/)
+### [MediaFlow Events S.L.](mediaflow-events-sl/)
 
 Mi socio se muda a Brasil en plena crisis en España, y decidimos seguir con la actividad de desarrollo en España y empezar a trabajar en Brasil. MediaFlow se especializa en Mapping y grandes proyecciones con el desarrollo de su software del mismo nombre MediaFlow Software.  
 

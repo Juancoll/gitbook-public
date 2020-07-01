@@ -2,7 +2,7 @@
 description: 2004 - 2010
 ---
 
-# Emotique S.L.
+# Emotique SL
 
 ## Prototipos
 

@@ -1,2 +1,2 @@
-# Nodall Systems S.L.
+# Nodall Systems SL
 

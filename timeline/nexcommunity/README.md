@@ -1,2 +1,2 @@
-# Nexcommunity Media S.L.
+# Nexcommunity SL
 
