@@ -47,15 +47,23 @@ Junto a las funciones impartieron talleres y conferencias.
 
 ### Bogota
 
+![](../../../.gitbook/assets/ca-2006-09-raw-colombia-bogota-1-.jpg)
 ![](../../../.gitbook/assets/ca-2006-09-raw-colombia-bogota-2-.jpg)
+![](../../../.gitbook/assets/ca-2006-09-raw-colombia-bogota-3-.jpg)
+![](../../../.gitbook/assets/ca-2006-09-raw-colombia-bogota-4-.jpg)
 
 ### Medellin
 
 ![](../../../.gitbook/assets/ca-2006-09-raw-colombia-medellin-1-.jpg)
+![](../../../.gitbook/assets/ca-2006-09-raw-colombia-medellin-2-.jpg)
+![](../../../.gitbook/assets/ca-2006-09-raw-colombia-medellin-3-.jpg)
 
 ### Extras
 
 ![](../../../.gitbook/assets/ca-gira-colombia-1-.jpg)
+![](../../../.gitbook/assets/ca-gira-colombia-2-.jpg)
+![](../../../.gitbook/assets/ca-gira-colombia-3-.jpg)
+![](../../../.gitbook/assets/ca-gira-colombia-4-.jpg)
 
 ## 2006 \(Septiembre\) Australia - Sydney, Canberra, Newcastle
 
