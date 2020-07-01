@@ -1,2 +1,2 @@
-# Nodall Systems \(Hotusa\) S.L.
+# Nodall Systems S.L.
 

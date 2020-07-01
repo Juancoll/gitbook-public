@@ -6,7 +6,7 @@ description: works sequence
 
 ## Formación
 
-Toda mi formación se ha visto influenciada e interrumpida  por la dualidad Arte \(Música y pintura\) y Ciencia. 
+Toda mi formación se ha visto influenciada e interrumpida por la dualidad Arte \(Música y pintura\) y Ciencia. 
 
 * Primer y segundo año de matemáticas en Paris, Jussieu
 * Primer Año de [ECV](https://www.ecv.fr/) \(Ecole de communication visuelle\) - Preparación a las escuelas de Arte Nacionales
@@ -25,14 +25,47 @@ Al finalizar los estudios en la escuela Massana, entro a trabajar de ayudante de
 
 ## Empresas de Eventos \(Software y Contenidos\)
 
-Durante nuestra aventura en el mundo del arte y la tecnología aparece Olivier Sepulcre que nos ofrece la posibilidad de trabajar para el sector de los Eventos en la edición del Sonar. Aquí empieza la transformación de empresa artística a empresa comercial. 
+{% file src="../.gitbook/assets/2016\_02\_25-curriculum-media-flow.pdf" caption="CV \(actualizado hasta 2005\)" %}
 
-* [Emotique S.L.](emotique-s.l./) -  La empresa fue participada por la caja de ahorros de Navarra en mas de un 20%. Con la Crisis de 2008-2009 se tuvo que cerrar la empresa.
-* [MediaFlow Software S.L.](mediaflow-software.md) - 
-* [Nexcommunity Media S.L.](nexcommunity.md) - 
-* [Nexcode S.L.](nexcode.md) - co-fundador con Pau Vivancos, especialista en programación visual. Nace de la necesidad de separar la parte informática del contenido y gestión de eventos con la intención de crear productos en el sector av.
+Durante nuestra aventura en el mundo del arte y la tecnología aparece Olivier Sepulcre que nos ofrece la posibilidad de trabajar para el sector de los Eventos en la edición del Sonar 2005 para el Stand de San Miguel.. Aquí empieza la transformación de empresa artística a empresa comercial. 
 
-## El Producto
+### [Emotique S.L.](emotique-s.l./) 
+
+* Se desarrolla el Software "ooo" un sistema de programación visual como base de toda la tecnología de la empresa.  
+* Se presentan 2 Proyectos Europeos \(con el[ Fraunhofer-Gesellschaft](https://www.fraunhofer.de/en.html)\) al rededor de nuestro software.
+* Se especializa en interacción y multimedia aplicada al mundo del evento.
+* La empresa fue participada por la caja de ahorros de Navarra en mas de un 20%. Con la Crisis de 2008-2009 se tuvo que cerrar la empresa.
+
+### [MediaFlow Events S.L.](mediaflow-software.md)
+
+Mi socio se muda a Brasil en plena crisis en España, y decidimos seguir con la actividad de desarrollo en España y empezar a trabajar en Brasil. MediaFlow se especializa en Mapping y grandes proyecciones con el desarrollo de su software del mismo nombre MediaFlow Software.  
+
+* Muchos trabajos en brasil en su primera fase.
+* Mapping de una de las cúpulas mas grandes del mundo. El WTC de Sao Paulo \(80 x 50 metros\)
+* Cuando empieza a abrirse de nuevo el mercado español, mediaflow ofrece su espacio y trabajos a un conjunto de profesionales independientes. Empieza lo que se convertirá en La Nexcommunity.
+* Primero desarrollos del Nexwarp \(Software de Mapping para retail\)
+* Necesidad de separar Desarrollo \(Software\) y Producción/Contenidos en los eventos. Creación  de las 2 empresas con socios diferentes de Nexcode y Nexcommunity.
+
+### [Nexcommunity Media S.L.](nexcommunity.md)
+
+{% embed url="http://nexcommunity.com/" %}
+
+Junto con Tomeu Fiol y Jorge Lopez Gay, se crea la empresa para gestionar toda la parte de producción \(artística y técnica\) y creación de contenidos de los eventos de MediaFlow Events S.L..
+
+* Mapping de la Puerta del Sol
+* Mapping del Dia de la Hispanidad \(retransmisión en directo\)
+* Video Wall Interactivo mas grande del Mundo
+* Participamos en el Show Room Inditex
+
+### [Nexcode](nexcode.md)
+
+Centraliza todo el desarrollo de software de MediaFlow Events y añade toda la parte de servicio de Interactivos 3D con Unity de la Mano de Pau Vivancos, mi socio en esta empresa.
+
+* Servicios de Interactivos 
+* Reprogramacion del software de Mapping y Gestion de Multipantallas Led MediaFlow
+* Programacion del Nexwarp \(Junto con Panasonic\) como solucion de Retail de mapping
+
+## De Servicio a Producto - Shine
 
 * [Hotusa Nodall Systems - Shine ](nodall-systems-hotusa.md)
 

@@ -10,3 +10,17 @@ description: Desarrollos para el colectivo anatomic
 
 ## Air Guitar 
 
+{% embed url="https://youtu.be/UeUpmwHie9g" %}
+
+{% embed url="https://youtu.be/qr-yr3T6-i0" %}
+
+
+
+## Cabeza 3D en tiempo real \(2004\)
+
+{% embed url="https://youtu.be/y-sjJzZ6WB4" %}
+
+
+
+
+

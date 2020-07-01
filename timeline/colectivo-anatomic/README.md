@@ -2,7 +2,7 @@
 description: El proyecto artístico
 ---
 
-# Colectivo Anatomic \(Project\)
+# Colectivo Anatomic
 
 
 

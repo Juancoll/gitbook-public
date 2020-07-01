@@ -1,2 +1,2 @@
-# tradin.io \(Project\)
+# tradin.io
 
