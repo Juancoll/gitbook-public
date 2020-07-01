@@ -20,9 +20,18 @@
 
 ### Fotos \(Mercat de les flors\)
 
+![](../../../.gitbook/assets/ca-2005-02-rotten-bcn-mercat-de-las-flors-1-.jpg)
+![](../../../.gitbook/assets/ca-2005-02-rotten-bcn-mercat-de-las-flors-2-.jpg)
+![](../../../.gitbook/assets/ca-2005-02-rotten-bcn-mercat-de-las-flors-3-.jpg)
+![](../../../.gitbook/assets/ca-2005-02-rotten-bcn-mercat-de-las-flors-4-.jpg)
+![](../../../.gitbook/assets/ca-2005-02-rotten-bcn-mercat-de-las-flors-5-.jpg)
+![](../../../.gitbook/assets/ca-2005-02-rotten-bcn-mercat-de-las-flors-6-.jpg)
+![](../../../.gitbook/assets/ca-2005-02-rotten-bcn-mercat-de-las-flors-7-.jpg)
+![](../../../.gitbook/assets/ca-2005-02-rotten-bcn-mercat-de-las-flors-8-.jpg)
+![](../../../.gitbook/assets/ca-2005-02-rotten-bcn-mercat-de-las-flors-9-.jpg)
+![](../../../.gitbook/assets/ca-2005-02-rotten-bcn-mercat-de-las-flors-10-.jpg)
 ![](../../../.gitbook/assets/ca-2005-02-rotten-bcn-mercat-de-las-flors-11-.jpg)
-
-
+![](../../../.gitbook/assets/ca-2005-02-rotten-bcn-mercat-de-las-flors-12-.jpg)
 
 ## 2006 - Santiago de Chile, Julio
 
@@ -38,15 +47,17 @@ El Colectivo Anatomic ha presentado ROTTEN en Barcelona, París, Amsterdam, Burg
 
 ### Fotos
 
+![](../../../.gitbook/assets/rotten-chile-1-.jpg) 
+![](../../../.gitbook/assets/rotten-chile-2-.jpg) 
+![](../../../.gitbook/assets/rotten-chile-3-.jpg) 
+![](../../../.gitbook/assets/rotten-chile-4-.jpg) 
+![](../../../.gitbook/assets/rotten-chile-5-.jpg) 
+![](../../../.gitbook/assets/rotten-chile-6-.jpg) 
+![](../../../.gitbook/assets/rotten-chile-7-.jpg) 
+![](../../../.gitbook/assets/rotten-chile-8-.jpg) 
+![](../../../.gitbook/assets/rotten-chile-9-.jpg)
+
 ### Videos TV
 
 {% embed url="https://www.youtube.com/watch?v=lzX4uUTXsSE" %}
-
-
-
 {% embed url="https://www.youtube.com/watch?v=tECoLAsMRu4" %}
-
-
-
-![](../../../.gitbook/assets/rotten-chile-1-.jpg) ![](../../../.gitbook/assets/rotten-chile-2-.jpg) ![](../../../.gitbook/assets/rotten-chile-3-.jpg) ![](../../../.gitbook/assets/rotten-chile-4-.jpg) ![](../../../.gitbook/assets/rotten-chile-5-.jpg) ![](../../../.gitbook/assets/rotten-chile-6-.jpg) ![](../../../.gitbook/assets/rotten-chile-7-.jpg) ![](../../../.gitbook/assets/rotten-chile-8-.jpg) ![](../../../.gitbook/assets/rotten-chile-9-.jpg)
-
