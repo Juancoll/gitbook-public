@@ -23,6 +23,10 @@
 
 ![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-1-.jpg) ![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-2-.jpg) ![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-3-.jpg) ![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-4-.jpg) ![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-5-.jpg) ![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-6-.jpg) ![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-7-.jpg) ![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-8-.jpg) ![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-9-.jpg)
 
+## 2006 - La gira \(folleto\)
+
+![gira 2007 - 2008 ](../../../.gitbook/assets/ca-2006-xx-raw-folleto-gira.jpg)
+
 ## 2006 \(Junio\) Barcelona, Festival Sonar
 
 ### Entrevista Allain Vergifosse
@@ -101,7 +105,7 @@ Fiesta final de la GiraInternacional2006.
 
 . El 14 de diciembre, tras sus actuaciones en Australia, Brasil, Colombia, Chile, Perú, Italia, Holanda, Francia, Croacia y Burkina Faso, el Colectivo Anatomic presentó en la Sala Apolo el espectáculo musical multimedia e interactivo RAW.
 
-![](../../../.gitbook/assets/ca-2006-12-raw-bcn-apolo-1-.jpg) 
+![](../../../.gitbook/assets/ca-2006-12-raw-bcn-apolo-1-.jpg)
 
 ![](../../../.gitbook/assets/ca-2006-12-raw-bcn-apolo-2-.jpg)
 
@@ -111,7 +115,11 @@ Fiesta final de la GiraInternacional2006.
 
 {% embed url="https://youtu.be/4psF1Z7r-xc" caption="" %}
 
-## 2007
+## 2007 \(Abril\) Marruecos \(Tetuan, Casablanca y Tager\)
 
-![gira 2007 - 2008 ](../../../.gitbook/assets/ca-2006-xx-raw-folleto-gira.jpg)
+![](../../../.gitbook/assets/ca-2007-04-raw-marruecos-1-.jpg)
+
+
+
+
 
