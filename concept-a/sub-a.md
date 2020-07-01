@@ -1,2 +1,0 @@
-# Colectivo Anatomic \(Project\)
-
