@@ -118,6 +118,11 @@ Fiesta final de la GiraInternacional2006.
 ## 2007 \(Abril\) Marruecos \(Tetuan, Casablanca y Tager\)
 
 ![](../../../.gitbook/assets/ca-2007-04-raw-marruecos-1-.jpg)
+![](../../../.gitbook/assets/ca-2007-04-raw-marruecos-2-.jpg)
+![](../../../.gitbook/assets/ca-2007-04-raw-marruecos-3-.jpg)
+![](../../../.gitbook/assets/ca-2007-04-raw-marruecos-4-.jpg)
+![](../../../.gitbook/assets/ca-2007-04-raw-marruecos-5-.jpg)
+![](../../../.gitbook/assets/ca-2007-04-raw-marruecos-6-.jpg)
 
 
 
