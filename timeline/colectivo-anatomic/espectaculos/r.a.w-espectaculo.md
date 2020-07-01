@@ -93,9 +93,7 @@ El Colectivo Anatomic regresó de Perú. Han trabajado con el Centro Fundación 
 
 EN EL CENTRO FUNDACION TELEFONICA LIMA realizaron Talleres de Arte y Nuevas Tecnologías, y la Conferencia-Concierto. Presentaron RAW en el Auditorio Telefonica. EN EL CENTRO CULTURAL DE ESPAÑA EN LIMA mostraron la Conferencia-Concierto y celebraron encuentros con artistas locales.
 
-![](../../../.gitbook/assets/ca-2006-11-raw-peru-1-.jpg)
-![](../../../.gitbook/assets/ca-2006-11-raw-peru-2-.jpg)
-![](../../../.gitbook/assets/ca-2006-11-raw-peru-3-.jpg)
+![](../../../.gitbook/assets/ca-2006-11-raw-peru-1-.jpg) ![](https://github.com/Juancoll/gitbook-public/tree/cab16e7d222ed1937a57f9bb87d6da50c2620355/.gitbook/assets/ca-2006-11-raw-peru-2-.jpg) ![](https://github.com/Juancoll/gitbook-public/tree/cab16e7d222ed1937a57f9bb87d6da50c2620355/.gitbook/assets/ca-2006-11-raw-peru-3-.jpg)
 
 ## 2006 \(Diciembre\) Concierto Apolo
 
