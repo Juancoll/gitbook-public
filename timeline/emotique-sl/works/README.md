@@ -4,7 +4,7 @@
 
 {% embed url="https://youtu.be/sMfcqSK\_9BQ" caption="" %}
 
-[EMOTIQUE - 2007 05 - Andalucía en movimiento](andalucia-en-movimiento.md)
+* [EMOTIQUE - 2007 05 - Andalucía en movimiento](andalucia-en-movimiento.md)
 
 {% embed url="https://youtu.be/\_rfEaaZgPq8" caption="" %}
 
@@ -22,7 +22,7 @@
 
 {% embed url="https://youtu.be/G9wn49jvqUE" caption="" %}
 
-[EMOTIQUE - 2008 05 - VUELING David Guetta ](david-guetta.md)
+* [EMOTIQUE - 2008 05 - VUELING David Guetta ](david-guetta.md)
 
 {% embed url="https://youtu.be/MG-UBBU8hvc" caption="" %}
 
