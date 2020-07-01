@@ -18,6 +18,12 @@
 * Robodock Festival BARCELONA, España, L’Antic Teatre 
 * LLEIDA, ESPAÑA, Teatre Municipal de L’Escorxador
 
+### Fotos \(Mercat de les flors\)
+
+![](../../../.gitbook/assets/ca-2005-02-rotten-bcn-mercat-de-las-flors-11-.jpg)
+
+
+
 ## 2006 - Santiago de Chile, Julio
 
 Centro Cultural Matucana100, Santiago de Chile. Julio 2006. ROTTEN se presentó en el Centro Cultural Matucana100 de Santiago de Chile en julio de 2006.
