@@ -19,7 +19,9 @@
 
 ### fotos
 
-![](../../../.gitbook/assets/ca-2006-06-bcn-sonar-1-.jpg) ![](../../../.gitbook/assets/ca-2006-06-bcn-sonar-2-.jpg) ![](https://github.com/Juancoll/gitbook-public/tree/499b92e5fdaaaf3a586650e9e270274663d095e7/.gitbook/assets/ca-2006-06-bcn-sonar-3-.jpg)
+![](../../../.gitbook/assets/ca-2006-06-bcn-sonar-1-.jpg) 
+![](../../../.gitbook/assets/ca-2006-06-bcn-sonar-2-.jpg) 
+![](../../../.gitbook/assets/ca-2006-06-bcn-sonar-3-.jpg)
 
 ## 2006  \(Agosto\) Parque Cultural Ex-Cárcel, Valparaíso, Chile
 
