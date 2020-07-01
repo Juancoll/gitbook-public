@@ -43,6 +43,33 @@ Alain Wergifosse, ruidista profesional, compone la atmósfera acústica. Las per
 
 ![](../../../.gitbook/assets/ca-2006-08-raw-chile-valparaiso-1-.jpg) ![](../../../.gitbook/assets/ca-2006-08-raw-chile-valparaiso-2-.jpg) ![](../../../.gitbook/assets/ca-2006-08-raw-chile-valparaiso-4-.jpg) ![](../../../.gitbook/assets/ca-2006-08-raw-chile-valparaiso-5-.jpg) ![](../../../.gitbook/assets/ca-2006-08-raw-chile-valparaiso-3-.jpg)
 
+## 2006 \(Septiembre\) Colombia
+
+Las performers e intérpretes de los instrumentos interactivos fueron Caro Pastor y Marta Pelegrina. Joan Coll tocó la guitarra eléctrica. Álvaro Uña manipuló los ordenadores y tocó la guitarra eléctrica virtual. Más de cuatro mil espectadores presenciaron RAW.
+
+Junto a las funciones impartieron talleres y conferencias.
+
+### Bogota
+
+
+
+### Medellin
+
+
+
+### Extras
+
+
+
+## 2006 \(Septiembre\) Australia - Sydney, Canberra, Newcastle
+
+Las performers e intérpretes de los instrumentos interactivos fueron Caro Pastor y Marta Pelegrina. Joan Coll tocó la guitarra eléctrica y la guitarra eléctrica virtual. El ruidista Alain Wergifosse manipuló los ordenadores.  
+
+
+RAW se ha presentado en Barcelona, Tortosa, Pozega \(Croacia\), Koudougou \(Burkina Faso\), Torino \(Italia\), Santiago de Chile y Valparaíso \(Chile\), Bogotá, Medellín, Cali y Manizales \(Colombia\).
+
+![](../../../.gitbook/assets/ca-2006-09-raw-australia-1-.jpg)
+
 ## 2006 \(Diciembre\) Concierto Apolo
 
 {% embed url="https://youtu.be/-cLWtIBTMjQ" %}
