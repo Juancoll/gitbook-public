@@ -1,6 +1,20 @@
 # R.A.W
 
-## Trailers
+## Medias
+
+### Trailer
+
+{% embed url="https://youtu.be/CEJCdGzCeUA" %}
+
+
+
+### Entrevistas
+
+{% embed url="https://youtu.be/0cQsV8tRcks" %}
+
+{% embed url="https://youtu.be/B3fm4PX\_wKk" %}
+
+
 
 ## 2005
 
@@ -11,15 +25,7 @@
 
 ### fotos - \(Iglesia "La Ostia", Barcelona\)
 
-![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-1-.jpg)
-![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-2-.jpg)
-![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-3-.jpg)
-![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-4-.jpg)
-![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-5-.jpg)
-![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-6-.jpg)
-![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-7-.jpg)
-![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-8-.jpg)
-![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-9-.jpg)
+![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-1-.jpg) ![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-2-.jpg) ![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-3-.jpg) ![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-4-.jpg) ![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-5-.jpg) ![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-6-.jpg) ![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-7-.jpg) ![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-8-.jpg) ![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-9-.jpg)
 
 ## 2006 \(Junio\) Barcelona, Festival Sonar
 
@@ -36,6 +42,20 @@
 Alain Wergifosse, ruidista profesional, compone la atmósfera acústica. Las performers e intérpretes de los instrumentos interactivos son Caro Pastor y Marta Pelegrina. Joan Coll toca la guitarra eléctrica. La iluminación y las fotos son de Jordi Torra.
 
 ![](../../../.gitbook/assets/raw-chile-1-.jpg) ![](../../../.gitbook/assets/raw-chile-2-.jpg) ![](../../../.gitbook/assets/raw-chile-4-.jpg) ![](../../../.gitbook/assets/raw-chile-5-.jpg) ![](../../../.gitbook/assets/raw-chile-3-.jpg)
+
+## 2006 \(Diciembre\) Concierto Apolo
+
+{% embed url="https://youtu.be/-cLWtIBTMjQ" %}
+
+{% embed url="https://youtu.be/MVz06ZS5KZY" %}
+
+{% embed url="https://youtu.be/GUf9pLqKmd0" %}
+
+{% embed url="https://youtu.be/4psF1Z7r-xc" %}
+
+
+
+
 
 ## 2007
 
