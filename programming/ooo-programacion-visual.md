@@ -8,7 +8,7 @@ description: Software de programación visual
 
 Tony Cabello fue uno de los socios fundadores de Emotique. Llevaba varios años desarrollando el  software de programación visual, iGlue, el motor de nuestro primer espectaculo.
 
-{% file src="../.gitbook/assets/iglue.v3.pdf" %}
+{% file src="../.gitbook/assets/emotique-iglue.v3.pdf" %}
 
 {% embed url="https://youtu.be/1FPBpyhbXYc" %}
 
