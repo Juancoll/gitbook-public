@@ -6,6 +6,10 @@ description: octubre 2011
 
 ## vídeos
 
+{% embed url="https://youtu.be/wksUpvnPkTc" %}
+
+{% embed url="https://youtu.be/nGqJpj2pmiQ" %}
+
 
 
 ## fotos
