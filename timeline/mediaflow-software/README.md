@@ -2,7 +2,7 @@
 description: Video Mapping & Contenidos (2011 - 2018)
 ---
 
-# MediaFlow Events S.L.
+# MediaFlow Events SL
 
 ## Overview
 
