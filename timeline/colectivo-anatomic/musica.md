@@ -4,7 +4,11 @@ description: Alain Wergifosse & Emotique
 
 # Musica
 
+## Online listening
+
 [SoundCloud](https://soundcloud.com/emotique)
+
+## Files
 
 {% file src="../../.gitbook/assets/audio1.mp3" %}
 
