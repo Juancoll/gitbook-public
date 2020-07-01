@@ -6,11 +6,15 @@ description: 'Sao Paulo, marzo 2013'
 
 ## vídeos
 
-{% embed url="https://youtu.be/5H3NV1EJIao" caption="" %}
+{% embed url="https://youtu.be/5H3NV1EJIao" %}
 
-{% embed url="https://youtu.be/delWWjWdStA" caption="" %}
 
-{% embed url="https://youtu.be/0\_acEqp3gqw" caption="" %}
+
+{% embed url="https://youtu.be/delWWjWdStA" %}
+
+{% embed url="https://youtu.be/0\_acEqp3gqw" %}
+
+
 
 ## fotos
 

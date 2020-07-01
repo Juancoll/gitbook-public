@@ -6,9 +6,11 @@ description: 'Brasil, octubre 2011'
 
 ## vídeos
 
-{% embed url="https://youtu.be/wksUpvnPkTc" caption="" %}
+{% embed url="https://youtu.be/wksUpvnPkTc" %}
 
-{% embed url="https://youtu.be/nGqJpj2pmiQ" caption="" %}
+{% embed url="https://youtu.be/nGqJpj2pmiQ" %}
+
+
 
 ## fotos
 
