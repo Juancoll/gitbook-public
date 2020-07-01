@@ -4,7 +4,7 @@ description: Diciembre 2005
 
 # FASO 05 - workshop
 
-{% embed url="https://www.laafi.com/" %}
+{% embed url="https://www.laafi.com/" caption="" %}
 
 El pasado mes de diciembre de 2005 viajamos a la región de Koudougou, en Burkina Faso, para colaborar con la asociación Laafi en la organización del festival FASO05.
 

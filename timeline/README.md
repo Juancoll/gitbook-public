@@ -6,7 +6,7 @@ description: works sequence
 
 ## Formación
 
-Toda mi formación se ha visto influenciada e interrumpida por la dualidad Arte \(Música y pintura\) y Ciencia. 
+Toda mi formación se ha visto influenciada e interrumpida por la dualidad Arte \(Música y pintura\) y Ciencia.
 
 * Primer y segundo año de matemáticas en Paris, Jussieu
 * Primer Año de [ECV](https://www.ecv.fr/) \(Ecole de communication visuelle\) - Preparación a las escuelas de Arte Nacionales
@@ -27,9 +27,9 @@ Al finalizar los estudios en la escuela Massana, entro a trabajar de ayudante de
 
 {% file src="../.gitbook/assets/2016\_02\_25-curriculum-media-flow.pdf" caption="CV \(actualizado hasta 2005\)" %}
 
-Durante nuestra aventura en el mundo del arte y la tecnología aparece Olivier Sepulcre que nos ofrece la posibilidad de trabajar para el sector de los Eventos en la edición del Sonar 2005 para el Stand de San Miguel.. Aquí empieza la transformación de empresa artística a empresa comercial. 
+Durante nuestra aventura en el mundo del arte y la tecnología aparece Olivier Sepulcre que nos ofrece la posibilidad de trabajar para el sector de los Eventos en la edición del Sonar 2005 para el Stand de San Miguel.. Aquí empieza la transformación de empresa artística a empresa comercial.
 
-### [Emotique S.L.](emotique-sl/) 
+### [Emotique S.L.](emotique-sl/)
 
 * Se desarrolla el Software "ooo" un sistema de programación visual como base de toda la tecnología de la empresa.  
 * Se presentan 2 Proyectos Europeos \(con el[ Fraunhofer-Gesellschaft](https://www.fraunhofer.de/en.html)\) al rededor de nuestro software.
@@ -38,7 +38,7 @@ Durante nuestra aventura en el mundo del arte y la tecnología aparece Olivier S
 
 ### [MediaFlow Events S.L.](mediaflow-events-sl/)
 
-Mi socio se muda a Brasil en plena crisis en España, y decidimos seguir con la actividad de desarrollo en España y empezar a trabajar en Brasil. MediaFlow se especializa en Mapping y grandes proyecciones con el desarrollo de su software del mismo nombre MediaFlow Software.  
+Mi socio se muda a Brasil en plena crisis en España, y decidimos seguir con la actividad de desarrollo en España y empezar a trabajar en Brasil. MediaFlow se especializa en Mapping y grandes proyecciones con el desarrollo de su software del mismo nombre MediaFlow Software.
 
 * Muchos trabajos en brasil en su primera fase.
 * Mapping de una de las cúpulas mas grandes del mundo. El WTC de Sao Paulo \(80 x 50 metros\)
@@ -48,7 +48,7 @@ Mi socio se muda a Brasil en plena crisis en España, y decidimos seguir con la 
 
 ### [Nexcommunity Media S.L.](nexcommunity-sl/)
 
-{% embed url="http://nexcommunity.com/" %}
+{% embed url="http://nexcommunity.com/" caption="" %}
 
 Junto con Tomeu Fiol y Jorge Lopez Gay, se crea la empresa para gestionar toda la parte de producción \(artística y técnica\) y creación de contenidos de los eventos de MediaFlow Events S.L..
 
@@ -69,11 +69,7 @@ Centraliza todo el desarrollo de software de MediaFlow Events y añade toda la p
 
 * [Hotusa Nodall Systems - Shine ](nodall-systems-sl.md)
 
-## Nuevos Horizontes - las finanzas 
+## Nuevos Horizontes - las finanzas
 
 * [tradin.io](tradin.io.md)
-
-
-
-
 

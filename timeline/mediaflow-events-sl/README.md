@@ -6,5 +6,5 @@ description: Video Mapping & Contenidos (2011 - 2018)
 
 ## Overview
 
-{% embed url="https://youtu.be/wFvrTP3uC7M" %}
+{% embed url="https://youtu.be/wFvrTP3uC7M" caption="" %}
 

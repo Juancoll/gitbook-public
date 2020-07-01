@@ -6,9 +6,9 @@ description: Overview
 
 Nacido en 1978, de padre físico teórico y madre asistente social, con estudios entre París y Barcelona de Matemática, Informática, Arte \(Pintura\) y Música. ​
 
-### 2002-2005 - Profesor de física en la escuela de ingeniería La Salle \(Barcelona\)​
+## 2002-2005 - Profesor de física en la escuela de ingeniería La Salle \(Barcelona\)​
 
-### **2003-2007** - Compañía de teatro de arte y tecnología – El colectivo Anatomic.
+## **2003-2007** - Compañía de teatro de arte y tecnología – El colectivo Anatomic.
 
 **Desarrollos destacados**
 
@@ -16,13 +16,13 @@ Nacido en 1978, de padre físico teórico y madre asistente social, con estudios
 * El ojo como pedal de distorsión de guitarra.
 * El Air Guitar.
 
-### **2004 – 2017** Fundador o co-fundador de varias Empresas de software y contenidos
+## **2004 – 2017** Fundador o co-fundador de varias Empresas de software y contenidos
 
 **Empresas**
 
 * Emotique S.L. 
   * "ooo", software de programación visual al estilo de [PureData](https://puredata.info/), [MaxMSP ](https://cycling74.com/)o [vvvv](https://vvvv.org/).
-  * Primera discoteca en un avión comercial . \([ver más]()\)
+  * Primera discoteca en un avión comercial . \([ver más](./)\)
   * proyectos europeos junto con el Franhoffer 2006 y 2007
 * MediaFlow Software S.L.
   * Software de mapping de alto rendimiento 
@@ -35,9 +35,7 @@ Nacido en 1978, de padre físico teórico y madre asistente social, con estudios
   * Nexwarp v0, software de mapping hackeando el s.o. \([ver más](programming/nexwarp.md)\)
   * Nexwarp v1, software de mapping y gestión de contenidos junto con Panasonic
 
-### **2017 –  actual** - Shine
+## **2017 –  actual** - Shine
 
-Nodall Systems es una startup que se crea junto al group Hotelero español Hotusa S.A. \(70%\),  dedicada a la conceptualización y creación del producto Shine, un sistema audiovisual que transforma las habitaciones en SMART ROOMS . \([ver más](timeline/nodall-systems-sl.md), o ir a la [web](http://www.shinesmartroom.com/)\)
-
-
+Nodall Systems es una startup que se crea junto al group Hotelero español Hotusa S.A. \(70%\), dedicada a la conceptualización y creación del producto Shine, un sistema audiovisual que transforma las habitaciones en SMART ROOMS . \([ver más](timeline/nodall-systems-sl.md), o ir a la [web](http://www.shinesmartroom.com/)\)
 

@@ -2,13 +2,11 @@
 description: Junio 2007
 ---
 
-# Andalucía en Movimiento
+# Andalucía en movimiento
 
 ## vídeos
 
-{% embed url="https://youtu.be/bfJDUAO\_ywE" %}
-
-
+{% embed url="https://youtu.be/bfJDUAO\_ywE" caption="" %}
 
 ## fotos
 

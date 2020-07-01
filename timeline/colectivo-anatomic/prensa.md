@@ -10,13 +10,11 @@ description: Sobre Raw
 
 ## ROTTEN
 
-{% embed url="https://www.teatral.net/el-mercat-estrena-rotten-del-colectivo-anatomic/" %}
+{% embed url="https://www.teatral.net/el-mercat-estrena-rotten-del-colectivo-anatomic/" caption="" %}
 
-{% embed url="http://www.festival-emergences.info/2005/en/home-34085.php" %}
+{% embed url="http://www.festival-emergences.info/2005/en/home-34085.php" caption="" %}
 
-{% embed url="https://www.elnortedecastilla.es/pg060113/prensa/noticias/Cultura/200601/13/VAL-CUL-230.html" %}
-
-
+{% embed url="https://www.elnortedecastilla.es/pg060113/prensa/noticias/Cultura/200601/13/VAL-CUL-230.html" caption="" %}
 
 ## RAW
 
@@ -56,7 +54,7 @@ Todo tiene un objetivo: girar. Cuatro personas, tres ordenadores, una cámara y 
 
 La reacción del público no difiere demasiado de un lado a otro del Océano. «La gente, en general, se queda chocada», dice Carolina.«Al final, cuando se acaba, admiten quedar liberados. Es muy tenso», añade Marta. En todo caso, los que más disfrutan con el show, por lo general, «son los que no tienen nada que ver con el medio, los que no son expertos en ninguna de las materias», dice Coll, porque Raw pretende «lanzar preguntas al público, no respuestas». La clave, entonces, es «no buscar nada concreto», olvidar los tópicos de la ciencia ficción. Y dejarse sorprender.
 
- **Todo esto puede ser más sencillo**
+**Todo esto puede ser más sencillo**
 
 Cuando Alvaro y Joan se conocieron, el punto común entre ambos era la certeza de que, en realidad, todo podía ser más simple.Todo lo que ellos, entonces, sabían sobre tecnología, podía ser útil para el arte y no tenía porqué ser, solamente, una materia capaz de convertir en oro todo lo que toca.
 
@@ -66,39 +64,35 @@ Lo acabaron de descubrir cuando, con un ordenador añejo y un joystick, montaron
 
 © Mundinteractivos, S.A
 
-
-
 ### El Tiempo
 
-{% embed url="https://www.eltiempo.com/archivo/documento/CMS-3238284" %}
+{% embed url="https://www.eltiempo.com/archivo/documento/CMS-3238284" caption="" %}
 
 ### La Republica \(Perú\)
 
-{% embed url="https://larepublica.pe/espectaculos/264237-muestra-de-arte-multimedia/" %}
+{% embed url="https://larepublica.pe/espectaculos/264237-muestra-de-arte-multimedia/" caption="" %}
 
 ### Aquí muere hasta el apuntador
 
-{% embed url="https://aquimuerehastaelapuntador.blogspot.com/2007/01/programan-cuatro-funciones-de-teatro-en.html" %}
+{% embed url="https://aquimuerehastaelapuntador.blogspot.com/2007/01/programan-cuatro-funciones-de-teatro-en.html" caption="" %}
 
 ### Plaza Nueva
 
-{% embed url="https://www.plazanueva.com/content/print/teatro-y-musica-pasion-vega-en-tudela-para-febrero-y-marzo/2007012400000081482" %}
+{% embed url="https://www.plazanueva.com/content/print/teatro-y-musica-pasion-vega-en-tudela-para-febrero-y-marzo/2007012400000081482" caption="" %}
 
 ### Colombia \(Cali\)
 
-{% embed url="http://femevudu.blogspot.com/2006/08/raw.html" %}
+{% embed url="http://femevudu.blogspot.com/2006/08/raw.html" caption="" %}
 
 ### RUSIA
 
-{% embed url="https://newsnn.ru/news/society/08-04-2009/ispanskiy-teatr-performansa-colectivo-anatomic-predstavit-svoy-multimediynyy-spektakl-kontsert-raw-af35e639-98a9-4358-be5b-8008edb8e48e" %}
+{% embed url="https://newsnn.ru/news/society/08-04-2009/ispanskiy-teatr-performansa-colectivo-anatomic-predstavit-svoy-multimediynyy-spektakl-kontsert-raw-af35e639-98a9-4358-be5b-8008edb8e48e" caption="" %}
 
-{% embed url="http://www.vremyan.ru/news/ispanskij\_teatr\_performansa\_colectivo\_anatomic\_vystupit\_v\_n\_novgorode\_28\_marta.html" %}
+{% embed url="http://www.vremyan.ru/news/ispanskij\_teatr\_performansa\_colectivo\_anatomic\_vystupit\_v\_n\_novgorode\_28\_marta.html" caption="" %}
 
-{% embed url="http://www.longarms.ru/festival/longarms-movement-3/raw.php" %}
+{% embed url="http://www.longarms.ru/festival/longarms-movement-3/raw.php" caption="" %}
 
 ## Gala Loop Festival
 
-{% embed url="https://anaimation.design/web-projects/kbb/micro\_sites/austria\_correos/index.html" %}
-
-
+{% embed url="https://anaimation.design/web-projects/kbb/micro\_sites/austria\_correos/index.html" caption="" %}
 
