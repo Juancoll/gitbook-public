@@ -46,7 +46,7 @@ Mi socio se muda a Brasil en plena crisis en España, y decidimos seguir con la 
 * Primero desarrollos del Nexwarp \(Software de Mapping para retail\)
 * Necesidad de separar Desarrollo \(Software\) y Producción/Contenidos en los eventos. Creación  de las 2 empresas con socios diferentes de Nexcode y Nexcommunity.
 
-### [Nexcommunity Media S.L.](nexcommunity/)
+### [Nexcommunity Media S.L.](nexcommunity-sl/)
 
 {% embed url="http://nexcommunity.com/" %}
 
@@ -57,7 +57,7 @@ Junto con Tomeu Fiol y Jorge Lopez Gay, se crea la empresa para gestionar toda l
 * Video Wall Interactivo mas grande del Mundo
 * Participamos en el Show Room Inditex
 
-### [Nexcode](nexcode.md)
+### [Nexcode](nexcode-sl.md)
 
 Centraliza todo el desarrollo de software de MediaFlow Events y añade toda la parte de servicio de Interactivos 3D con Unity de la Mano de Pau Vivancos, mi socio en esta empresa.
 
@@ -67,7 +67,7 @@ Centraliza todo el desarrollo de software de MediaFlow Events y añade toda la p
 
 ## De Servicio a Producto - Shine
 
-* [Hotusa Nodall Systems - Shine ](nodall-systems-hotusa.md)
+* [Hotusa Nodall Systems - Shine ](nodall-systems-sl.md)
 
 ## Nuevos Horizontes - las finanzas 
 
