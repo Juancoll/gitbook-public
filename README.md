@@ -20,18 +20,18 @@ Nacido en 1978, de padre físico teórico y madre asistente social, con estudios
 
 **Empresas**
 
-* Emotique S.L. 
+* **Emotique S.L.** 
   * "ooo", software de programación visual al estilo de [PureData](https://puredata.info/), [MaxMSP ](https://cycling74.com/)o [vvvv](https://vvvv.org/).
   * Primera discoteca en un avión comercial . \([ver más](./)\)
   * proyectos europeos junto con el Franhoffer 2006 y 2007
-* MediaFlow Software S.L.
+* **MediaFlow Events S.L.**
   * Software de mapping de alto rendimiento 
   * Proyección de una de las cúpulas mas grandes del Mundo \(WTC Sao Paulo\) 
-* Nexcommunity S.L.
+* **Nexcommunity Media S.L.**
   * Primer Mapping de la Puerta del Sol
   * Primer Mapping del Palacio Real de Madrid en el día de la hispanidad retransmitido en Directo. 
   * El Video Wall Interactivo mas grande del Mundo \(en su momento\). [video](https://vimeo.com/291501766) 
-* Nexcode S.L.
+* **Nexcode S.L.**
   * Nexwarp v0, software de mapping hackeando el s.o. \([ver más](programming/nexwarp.md)\)
   * Nexwarp v1, software de mapping y gestión de contenidos junto con Panasonic
 
