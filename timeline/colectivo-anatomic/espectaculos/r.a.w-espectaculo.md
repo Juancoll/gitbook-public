@@ -81,16 +81,6 @@ Las performers e intérpretes de los instrumentos interactivos fueron Caro Pasto
 
 Junto a las funciones, completa la gira internacional los talleres y conferencias que los miembros del Colectivo Anatomic imparten en teatros y universidades. En Sao Paolo participarón en el MobileFest, festival de tecnología móvil.
 
-## 2006 \(Diciembre\) Concierto Apolo
-
-{% embed url="https://youtu.be/-cLWtIBTMjQ" caption="" %}
-
-{% embed url="https://youtu.be/MVz06ZS5KZY" caption="" %}
-
-{% embed url="https://youtu.be/GUf9pLqKmd0" caption="" %}
-
-{% embed url="https://youtu.be/4psF1Z7r-xc" caption="" %}
-
 ## 2006 \(Noviembre\) Madrid
 
 El jueves 2 de noviembre el Colectivo Anatomic actuó en el CHESTERFIELD CAFE \(c/Serrano Jover 5, esquina Alberto Aguilera\).
@@ -104,6 +94,18 @@ El Colectivo Anatomic regresó de Perú. Han trabajado con el Centro Fundación 
 EN EL CENTRO FUNDACION TELEFONICA LIMA realizaron Talleres de Arte y Nuevas Tecnologías, y la Conferencia-Concierto. Presentaron RAW en el Auditorio Telefonica. EN EL CENTRO CULTURAL DE ESPAÑA EN LIMA mostraron la Conferencia-Concierto y celebraron encuentros con artistas locales.
 
 ![](../../../.gitbook/assets/ca-2006-11-raw-peru-1-.jpg)
+![](../../../.gitbook/assets/ca-2006-11-raw-peru-2-.jpg)
+![](../../../.gitbook/assets/ca-2006-11-raw-peru-3-.jpg)
+
+## 2006 \(Diciembre\) Concierto Apolo
+
+{% embed url="https://youtu.be/-cLWtIBTMjQ" caption="" %}
+
+{% embed url="https://youtu.be/MVz06ZS5KZY" caption="" %}
+
+{% embed url="https://youtu.be/GUf9pLqKmd0" caption="" %}
+
+{% embed url="https://youtu.be/4psF1Z7r-xc" caption="" %}
 
 ## 2007
 
