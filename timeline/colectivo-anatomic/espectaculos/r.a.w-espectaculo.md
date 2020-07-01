@@ -25,11 +25,9 @@
 
 ### fotos
 
-![](../../../.gitbook/assets/ca-2006-06-bcn-sonar-2-%20%281%29.jpg)
-
-
-
-
+![](../../../.gitbook/assets/ca-2006-06-bcn-sonar-1-.jpg)
+![](../../../.gitbook/assets/ca-2006-06-bcn-sonar-2-.jpg)
+![](../../../.gitbook/assets/ca-2006-06-bcn-sonar-3-.jpg)
 
 ## 2006  \(Agosto\) Parque Cultural Ex-Cárcel, Valparaíso, Chile
 
