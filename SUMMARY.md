@@ -20,7 +20,7 @@
   * [Emotique SL](timeline/emotique-sl/README.md)
     * [protos](timeline/emotique-sl/protos.md)
     * [products](timeline/emotique-sl/products.md)
-    * [works emotique](timeline/emotique-sl/works/README.md)
+    * [works](timeline/emotique-sl/works/README.md)
       * [David Guetta](timeline/emotique-sl/works/david-guetta.md)    
       * [Andalucía en movimiento](timeline/emotique-sl/works/andalucia-en-movimiento.md)
   * [MediaFlow Events SL](timeline/mediaflow-events-sl/README.md)
