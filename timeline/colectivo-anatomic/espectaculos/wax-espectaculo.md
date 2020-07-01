@@ -1,6 +1,10 @@
+---
+description: 'Producción para las "30 nits", Sabadell'
+---
+
 # WAX
 
-## 2005
+## Julio 2005 
 
-* SABADELL, España, 30 Nits Festival
+\(encontrar imágenes\)
 
