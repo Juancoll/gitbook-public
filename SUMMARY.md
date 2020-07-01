@@ -53,6 +53,4 @@
   * [entry test](blog/entry-test.md)
 * [Resources](resources/README.md)
   * [books](resources/books.md)
-  * [medias](resources/medias.md)
-  * [hightlights](resources/hightlights.md)
 

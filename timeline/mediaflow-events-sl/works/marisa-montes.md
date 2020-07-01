@@ -14,11 +14,17 @@ description: 'Brasil, noviembre 2012'
 
 ## extractos
 
-{% embed url="https://youtu.be/f3k4RcT2i38" %}
+{% embed url="https://www.youtube.com/watch?v=NGeYzX25yFg" %}
 
-
+{% embed url="https://www.youtube.com/watch?v=OnKp6PvuSyw" %}
 
 ## entrevistas
+
+{% embed url="https://youtu.be/MYRe9AfnP-8" %}
+
+{% embed url="https://youtu.be/CnTo9QrIF6g" %}
+
+
 
 
 

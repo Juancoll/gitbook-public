@@ -16,7 +16,7 @@ Nacido en 1978, de padre físico teórico y madre asistente social, con estudios
 * El ojo como pedal de distorsión de guitarra.
 * El Air Guitar.
 
-## **2004 – 2017** Fundador o co-fundador de varias Empresas de software y contenidos
+## **2004 – 2017** Fundador y co-fundador de varias empresas de software y contenidos
 
 **Empresas**
 
