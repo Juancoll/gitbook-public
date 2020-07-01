@@ -14,6 +14,7 @@
       * [R.A.W](timeline/colectivo-anatomic/espectaculos/r.a.w-espectaculo.md)
       * [WAX](timeline/colectivo-anatomic/espectaculos/wax-espectaculo.md)
       * [enanas](timeline/colectivo-anatomic/espectaculos/enanas-espectaculo.md)
+    * [La gira](timeline/colectivo-anatomic/la-gira.md)
   * [Emotique S.L.](timeline/emotique-s.l./README.md)
     * [David Guetta](timeline/emotique-s.l./david-guetta.md)
     * [Andalucía en Movimiento](timeline/emotique-s.l./andalucia-en-movimiento.md)
