@@ -34,6 +34,7 @@
       * [Dome WTC](timeline/mediaflow-events-sl/works/dome-wtc.md)
       * [Marisa Montes](timeline/mediaflow-events-sl/works/marisa-montes.md)
   * [Nexcommunity SL](timeline/nexcommunity-sl/README.md)
+    * [Conferences](timeline/nexcommunity-sl/conferences.md)
     * [products](timeline/nexcommunity-sl/products/README.md)
       * [a](timeline/nexcommunity-sl/products/a.md)
     * [works](timeline/nexcommunity-sl/works.md)
