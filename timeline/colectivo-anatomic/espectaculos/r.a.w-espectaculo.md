@@ -67,8 +67,9 @@ Las performers e intérpretes de los instrumentos interactivos fueron Caro Pasto
 
 
 RAW se ha presentado en Barcelona, Tortosa, Pozega \(Croacia\), Koudougou \(Burkina Faso\), Torino \(Italia\), Santiago de Chile y Valparaíso \(Chile\), Bogotá, Medellín, Cali y Manizales \(Colombia\).
-
-![](../../../.gitbook/assets/ca-2006-09-raw-australia-1-.jpg)
+| ![](../../../.gitbook/assets/ca-2006-09-raw-australia-1-.jpg) | ![](../../../.gitbook/assets/ca-2006-09-raw-australia-2-.jpg)|
+|--|--|
+| Caro ante la Ópera de Sidney |Marta, Joan (con la banda de gala de los Tunos de Sants), Alain (con extraños objetos en sus manos), Caro, Alister y su mujer (nuestros anfitriones).  |
 
 ## 2006 \(Diciembre\) Concierto Apolo
 
