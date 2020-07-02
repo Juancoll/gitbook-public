@@ -14,7 +14,7 @@
 
 {% embed url="https://youtu.be/GMcoelNox7M" caption="" %}
 
-{% embed url="https://youtu.be/Xr5EOuejbYI" %}
+{% embed url="https://youtu.be/Xr5EOuejbYI" caption="" %}
 
 
 
