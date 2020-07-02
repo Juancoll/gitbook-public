@@ -20,19 +20,5 @@ description: El proyecto artístico
 
 {% file src="../../.gitbook/assets/ca-com-rotten-dosser-2-es.pdf" caption="ROTTEN - DOSSER v2 \(es\)" %}
 
-## equipo
-
-| Nombre | Actividad |
-| :--- | :--- |
-| Agnes Mateus | Performer |
-| Alberto Mila | Programador |
-| Alex Guevara | Programador |
-| Antonia Santos | Contabilidad y Produccíon |
-| Artur Marti Fun-sang |  |
-| Elvis Boçi | 3D |
-| Gabriel Font Rodriguez | Programador \(Photolife\) |
-| Guillermo Marin Getino | Motion |
-| Guillermo Patiño Posada |  |
-
 
 

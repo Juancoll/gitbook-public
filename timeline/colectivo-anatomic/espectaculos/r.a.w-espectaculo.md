@@ -1,5 +1,7 @@
 # R.A.W
 
+![](../../../.gitbook/assets/ca-2006-09-raw-colombia-medellin-2-.jpg)
+
 ## Medias
 
 ### Trailer

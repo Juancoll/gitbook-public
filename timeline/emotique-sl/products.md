@@ -4,7 +4,7 @@
 
 Presentado en el 3GSM 2007 en el pabellón de Barcelona.
 
-{% embed url="https://youtu.be/D8w8joe3sSo" %}
+{% embed url="https://youtu.be/D8w8joe3sSo" caption="" %}
 
 ## Expositor interactivo
 
@@ -12,9 +12,9 @@ Presentado en el 3GSM 2007 en el pabellón de Barcelona.
 
 {% file src="../../.gitbook/assets/mf-product-ficha-expositor.pdf" caption="Ficha \(pdf\)" %}
 
-{% embed url="https://youtu.be/tDFzd7E3v2o" %}
+{% embed url="https://youtu.be/tDFzd7E3v2o" caption="" %}
 
-{% embed url="https://youtu.be/v2PyGfzuM-M" %}
+{% embed url="https://youtu.be/v2PyGfzuM-M" caption="" %}
 
 ## Siluetas
 
@@ -32,19 +32,13 @@ Presentado en el 3GSM 2007 en el pabellón de Barcelona.
 
 {% file src="../../.gitbook/assets/emotique-product-esignage-cs-vaca-ficha.pdf" caption="FICHA \(pdf\)" %}
 
-{% embed url="https://youtu.be/ghXVv0AGPrM" %}
+{% embed url="https://youtu.be/ghXVv0AGPrM" caption="" %}
 
-{% embed url="https://youtu.be/h5Rjqu9VUw4" %}
-
-
+{% embed url="https://youtu.be/h5Rjqu9VUw4" caption="" %}
 
 ## Siluetas Mini
 
-![](../../.gitbook/assets/emotique-product-lightshape-1-.jpg)
-![](../../.gitbook/assets/emotique-product-lightshape-2-.jpg)
-![](../../.gitbook/assets/emotique-product-lightshape-3-.jpg)
-![](../../.gitbook/assets/emotique-product-lightshape-4-.jpg)
-![](../../.gitbook/assets/emotique-product-lightshape-5-.jpg)
+![](../../.gitbook/assets/emotique-product-lightshape-1-.jpg) ![](../../.gitbook/assets/emotique-product-lightshape-2-.jpg) ![](../../.gitbook/assets/emotique-product-lightshape-3-.jpg) ![](../../.gitbook/assets/emotique-product-lightshape-4-.jpg) ![](../../.gitbook/assets/emotique-product-lightshape-5-.jpg)
 
 ## Holocube
 
