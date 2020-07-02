@@ -16,7 +16,3 @@
 
 {% embed url="https://youtu.be/Xr5EOuejbYI" caption="" %}
 
-
-
-
-
