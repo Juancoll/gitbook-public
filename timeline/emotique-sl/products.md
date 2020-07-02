@@ -40,6 +40,10 @@ Presentado en el 3GSM 2007 en el pabellón de Barcelona.
 
 ## Siluetas Mini
 
+![](../../.gitbook/assets/emotique-product-lightshape-1-.jpg)
+![](../../.gitbook/assets/emotique-product-lightshape-2-.jpg)
+![](../../.gitbook/assets/emotique-product-lightshape-3-.jpg)
+![](../../.gitbook/assets/emotique-product-lightshape-4-.jpg)
 ![](../../.gitbook/assets/emotique-product-lightshape-5-.jpg)
 
 ## Holocube
