@@ -8,6 +8,8 @@ description: Sobre Raw
 
 {% file src="../../.gitbook/assets/ca-prensa-revista-adoz-32-pag131-.pdf" caption="REVISTA ADOZ - pag 131" %}
 
+{% file src="../../.gitbook/assets/ca-prensa-revista-cervantes.pdf" caption="REVISTA CERVANTES - pag 33" %}
+
 ## ROTTEN
 
 {% embed url="https://www.teatral.net/el-mercat-estrena-rotten-del-colectivo-anatomic/" caption="" %}
