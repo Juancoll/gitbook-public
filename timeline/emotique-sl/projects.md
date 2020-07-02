@@ -48,5 +48,9 @@ Aplicación de poemas para móviles \(en la época del mms\)
 
 {% file src="../../.gitbook/assets/emotique-project-shopping-experience.pdf" caption="PROJECT" %}
 
+## Cheetos
 
+![](../../.gitbook/assets/emotique-project-cheetos.jpg)
+
+{% file src="../../.gitbook/assets/emotique-project-cheetos.pdf" caption="PROPUESTA" %}
 

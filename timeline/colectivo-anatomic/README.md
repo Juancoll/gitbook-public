@@ -20,5 +20,7 @@ description: El proyecto artístico
 
 {% file src="../../.gitbook/assets/ca-com-rotten-dosser-2-es.pdf" caption="ROTTEN - DOSSER v2 \(es\)" %}
 
+{% file src="../../.gitbook/assets/mf-com-conferencia-brasil.pdf" caption="CONFERENCIA BRASIL" %}
+
 
 
