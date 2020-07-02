@@ -22,8 +22,6 @@
 
 ![](../../.gitbook/assets/emotique-2007-07-toyota-2-.jpg)
 
-![](../../.gitbook/assets/emotique-2007-07-toyota-3-.jpg)
-
 ## 2008
 
 ### Desfile Propter & Gamble
@@ -34,7 +32,11 @@
 
 {% embed url="https://youtu.be/rVFP-iOceuU" caption="" %}
 
-### Expo Zaragoza - Pabellón Aragoni
+![](../../.gitbook/assets/emotique-2008-04-expo-zaragoza-pabellon-arabia-saudi-2-.jpg)
+
+![](../../.gitbook/assets/emotique-2008-04-expo-zaragoza-pabellon-arabia-saudi-1-.jpg)
+
+### Expo Zaragoza - Pabellón Aragon
 
 {% embed url="https://youtu.be/vZFwsvD72is" caption="" %}
 
@@ -59,6 +61,12 @@ Convertimos un Airbus 320 en una discoteca aérea con el DJ francés David Guett
 {% embed url="https://www.youtube.com/watch?v=YSVz3-1c8Lo" caption="" %}
 
 {% embed url="https://www.youtube.com/watch?v=FN65GXlig4g" caption="" %}
+
+### Mesa OPEP
+
+![](../../.gitbook/assets/emotique-2008-06-mesa-opep-1-.jpg)
+
+![](../../.gitbook/assets/emotique-2008-06-mesa-opep-2-.jpg)
 
 ### Tienda Cortefiel
 
@@ -131,6 +139,10 @@ Convertimos un Airbus 320 en una discoteca aérea con el DJ francés David Guett
 ### Aeropuerto Barcelona \(Custo\)
 
 {% embed url="https://youtu.be/M8C6nRydTw0" caption="" %}
+
+{% embed url="https://youtu.be/CAXS8ysbjno" %}
+
+
 
 ### FIAT
 

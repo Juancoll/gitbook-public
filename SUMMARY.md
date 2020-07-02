@@ -2,7 +2,6 @@
 
 * [Juan Coll](README.md)
 * [Timeline](timeline/README.md)
-  * [team](timeline/equipo.md)
   * [Colectivo Anatomic](timeline/colectivo-anatomic/README.md)
     * [Musica](timeline/colectivo-anatomic/musica.md)
     * [Workshops](timeline/colectivo-anatomic/workshops/README.md)
@@ -42,6 +41,7 @@
   * [Nexcode SL](timeline/nexcode-sl.md)
   * [Nodall Systems SL](timeline/nodall-systems-sl.md)
   * [tradin.io](timeline/tradin.io.md)
+  * [team](timeline/equipo.md)
 * [Programming](programming/README.md)
   * [Arte y Tecnologia](programming/arte-y-tecnologia.md)
   * [ooo - programación visual](programming/ooo-programacion-visual.md)
