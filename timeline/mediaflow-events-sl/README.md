@@ -12,6 +12,11 @@ description: Video Mapping & Contenidos (2011 - 2018)
 
 ![](../../.gitbook/assets/mf-com-overview-face-b.jpg)
 
+## Socios
+
+* Alvaro Uña
+* Juan Coll
+
 ## Docs 
 
 {% file src="../../.gitbook/assets/2016\_02\_25-curriculum-media-flow.pdf" caption="CV \(hasta 2005\)" %}
