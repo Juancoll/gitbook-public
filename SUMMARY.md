@@ -18,6 +18,7 @@
     * [La gira](timeline/colectivo-anatomic/la-gira.md)
     * [Prensa](timeline/colectivo-anatomic/prensa.md)
   * [Emotique SL](timeline/emotique-sl/README.md)
+    * [projects](timeline/emotique-sl/projects.md)
     * [protos](timeline/emotique-sl/protos.md)
     * [products](timeline/emotique-sl/products.md)
     * [works](timeline/emotique-sl/works.md)

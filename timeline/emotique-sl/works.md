@@ -100,6 +100,8 @@ Convertimos un Airbus 320 en una discoteca aérea con el DJ francés David Guett
 
 {% embed url="https://youtu.be/Pk4ki5Afx8k" caption="" %}
 
+{% file src="../../.gitbook/assets/emotique-product-software-manual-velodromo.pdf" caption="MANUAL SOFTWARE" %}
+
 ### Verano Presidente
 
 {% embed url="https://youtu.be/RPF-911Nb28" caption="" %}

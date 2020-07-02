@@ -12,3 +12,13 @@ description: Media Flow Software - Multi screen manager
 
 ![](../../.gitbook/assets/mf-products-soft-ficha-3-.jpg)
 
+## Docs
+
+{% file src="../../.gitbook/assets/mf-product-manual.pdf" caption="Manual" %}
+
+## Fotos
+
+![](../../.gitbook/assets/mf-product-racks-2-.jpg)
+
+![](../../.gitbook/assets/mf-product-racks-1-.jpg)
+
