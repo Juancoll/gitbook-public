@@ -1,6 +1,6 @@
 # products
 
-## Mobile Face - Tecnología MMS
+## Mobile Face - Tecnología MMS \(2007\)
 
 Presentado en el 3GSM 2007 en el pabellón de Barcelona.
 
@@ -22,12 +22,6 @@ Presentado en el 3GSM 2007 en el pabellón de Barcelona.
 
 {% file src="../../.gitbook/assets/emotique-product-silueta\_holografica-ficha.pdf" caption="FICHA \(pdf\)" %}
 
-## Holocube
-
-![](../../.gitbook/assets/emotique-product-holocube-ficha.jpg)
-
-{% file src="../../.gitbook/assets/emotique-product-holocube-ficha.pdf" caption="FICHA \(pdf\)" %}
-
 ![](../../.gitbook/assets/emotique-product-esignage-cs-ficha.jpg)
 
 {% file src="../../.gitbook/assets/emotique-product-esignage-cs-ficha.pdf" caption="FICHA \(pdf\)" %}
@@ -37,4 +31,44 @@ Presentado en el 3GSM 2007 en el pabellón de Barcelona.
 ![](../../.gitbook/assets/emotique-product-esignage-cs-vaca-ficha-2-.jpg)
 
 {% file src="../../.gitbook/assets/emotique-product-esignage-cs-vaca-ficha.pdf" caption="FICHA \(pdf\)" %}
+
+{% embed url="https://youtu.be/ghXVv0AGPrM" %}
+
+{% embed url="https://youtu.be/h5Rjqu9VUw4" %}
+
+
+
+## Siluetas Mini
+
+![](../../.gitbook/assets/emotique-product-lightshape-5-.jpg)
+
+## Holocube
+
+![](../../.gitbook/assets/emotique-product-holocube-ficha.jpg)
+
+{% file src="../../.gitbook/assets/emotique-product-holocube-ficha.pdf" caption="FICHA \(pdf\)" %}
+
+## Multi Screens
+
+![](../../.gitbook/assets/emotique-prodcut-esys-multiscreen-ficha.jpg)
+
+{% file src="../../.gitbook/assets/emotique-prodcut-esys-multiscreen-ficha.pdf" caption="FICHA \(pdf\)" %}
+
+## Estantería
+
+![](../../.gitbook/assets/emotique-product-estanteria-ficha.jpg)
+
+{% file src="../../.gitbook/assets/emotique-product-estanteria-ficha.pdf" caption="FICHA \(pdf\)" %}
+
+## Mesa Multitouch
+
+![](../../.gitbook/assets/emotique-product-mesa-multitouch-ficha.jpg)
+
+{% file src="../../.gitbook/assets/emotique-product-mesa-multitouch-ficha.pdf" caption="Ficha \(pdf\)" %}
+
+## Para Hoteles
+
+![](../../.gitbook/assets/emotique-product-sistema-hoteles-ficha.jpg)
+
+{% file src="../../.gitbook/assets/emotique-product-sistema-hoteles-ficha.pdf" caption="FICHA \(pdf\)" %}
 
