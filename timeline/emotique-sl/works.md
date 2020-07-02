@@ -52,8 +52,6 @@ Convertimos un Airbus 320 en una discoteca aérea con el DJ francés David Guett
 
 {% embed url="https://www.youtube.com/watch?v=FN65GXlig4g" caption="" %}
 
-
-
 ### Tienda Cortefiel
 
 {% embed url="https://youtu.be/MG-UBBU8hvc" caption="" %}
@@ -70,43 +68,81 @@ Convertimos un Airbus 320 en una discoteca aérea con el DJ francés David Guett
 
 ## 2009
 
+### MOTO GP
+
 {% embed url="https://youtu.be/QSIh7cwBiNQ" caption="" %}
+
+### DC10 \(Discoteca\)
 
 {% embed url="https://youtu.be/Lu2lQsb0riU" caption="" %}
 
+### GT Club
+
 {% embed url="https://youtu.be/EZHwh-2izBY" caption="" %}
+
+### Moritz - Bar Velodromo
 
 {% embed url="https://youtu.be/Pk4ki5Afx8k" caption="" %}
 
+### Verano Presidente
+
 {% embed url="https://youtu.be/RPF-911Nb28" caption="" %}
+
+### Revista Meeting Point
 
 {% embed url="https://youtu.be/XYefcvro0mU" caption="" %}
 
+### Mediaedge
+
 {% embed url="https://youtu.be/MVKpIdLOpNA" caption="" %}
+
+### VAZ
 
 {% embed url="https://youtu.be/zWeSpMkBNdE" caption="" %}
 
+![](../../.gitbook/assets/emotique-2009-12-br-vaz.jpg)
+
+### FRIGO
+
 {% embed url="https://youtu.be/ghXVv0AGPrM" caption="" %}
 
+### Olimpiadas del Conocimiento \(Sao Paulo\)
+
 {% embed url="https://youtu.be/6QXU5UJTNKU" caption="" %}
+
+### Marco Aldany - Casa cor
 
 {% embed url="https://youtu.be/WZn-KxB3rQk" caption="" %}
 
 ## 2010
 
+### Spot Nike
+
 {% embed url="https://youtu.be/oqKKPfexNgQ" caption="" %}
+
+### Aeropuerto Barcelona \(Custo\)
 
 {% embed url="https://youtu.be/M8C6nRydTw0" caption="" %}
 
+### FIAT
+
 {% embed url="https://youtu.be/s9JDe6NpKvw" caption="" %}
 
+### Teatro Metropolitano, Medellín
+
 {% embed url="https://youtu.be/AX-z-hjq4LE" caption="" %}
+
+### ITEY
 
 {% embed url="https://youtu.be/kIxE-MHTXdU" caption="" %}
 
 ## 2011
 
+### Barcelona World Race
+
 {% embed url="https://youtu.be/1UIjv--0fqg" caption="" %}
+
+### New Port
 
 {% embed url="https://youtu.be/D0p8pbba3Fo" caption="" %}
 

@@ -16,3 +16,7 @@ description: 2004 - 2010
 
 {% file src="../../.gitbook/assets/emotique-presentacion-ficha.pdf" caption="FICHA \(pdf\)" %}
 
+Show Room \(Veribox\)SHOW 
+
+![](../../.gitbook/assets/emotique-com-showroom.jpg)
+
