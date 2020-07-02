@@ -8,6 +8,14 @@ description: transform windows 7 in Visual Mapping SO
 
 {% embed url="https://www.youtube.com/watch?v=57ni0kbWMwo" caption="" %}
 
+## Interface
+
+![](../.gitbook/assets/nexcode-nexwarp-ui-2-.jpg)
+
+![](../.gitbook/assets/nexcode-nexwarp-ui-1-.jpg)
+
+
+
 ## Tutorials
 
 {% embed url="https://www.youtube.com/watch?v=FBqrbX0puz8" caption="" %}

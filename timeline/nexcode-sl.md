@@ -1,5 +1,7 @@
 # Nexcode SL
 
+## Web Actual
+
 {% embed url="https://nexcode.io/" %}
 
 ## Socios
@@ -9,7 +11,7 @@
 
 ## Productos
 
-### Nexwarp
+### Nexwarp 2.0
 
 {% embed url="https://youtu.be/DvVH0ID-ndg" caption="Video Concept" %}
 
