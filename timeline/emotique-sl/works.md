@@ -1,5 +1,7 @@
 # works
 
+{% file src="../../.gitbook/assets/emotique-com-cv-hasta-2011.pdf" caption="LISTA DE TRABAJOS \(hasta 2011\)" %}
+
 ## 2007
 
 ### Fiesta Nordic & Burn
