@@ -134,6 +134,12 @@ Convertimos un Airbus 320 en una discoteca aérea con el DJ francés David Guett
 
 {% embed url="https://youtu.be/WZn-KxB3rQk" caption="" %}
 
+### MAPPING CIU \(BCN\)
+
+{% embed url="https://youtu.be/V-03l\_c0dNI" %}
+
+
+
 ## 2010
 
 ### Spot Nike
@@ -169,4 +175,6 @@ Convertimos un Airbus 320 en una discoteca aérea con el DJ francés David Guett
 ### New Port
 
 {% embed url="https://youtu.be/D0p8pbba3Fo" caption="" %}
+
+
 

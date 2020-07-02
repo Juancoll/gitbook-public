@@ -82,9 +82,7 @@
 
 ### SCREEN FESTIVAL\(Barcelona\)
 
-{% embed url="https://youtu.be/OTtbVfJ0Gqo" %}
-
-
+{% embed url="https://youtu.be/OTtbVfJ0Gqo" caption="" %}
 
 ### DOME WORLD TRADE CENTER SAO PAULO
 
@@ -150,13 +148,13 @@
 
 ### SIHH AP \(ALTA RELOJERÍA\)
 
-{% embed url="https://youtu.be/cetJHDY4hyA" %}
+{% embed url="https://youtu.be/cetJHDY4hyA" caption="" %}
 
 {% embed url="https://youtu.be/KxOTjiWDV0k" caption="" %}
 
 ### ISE ADWindow
 
-{% embed url="https://youtu.be/c7XkrA0B\_0o" %}
+{% embed url="https://youtu.be/c7XkrA0B\_0o" caption="" %}
 
 {% embed url="https://youtu.be/qDYvw4TWxy4" caption="" %}
 
@@ -178,14 +176,19 @@
 
 ### MEETIC BCN \(TECHDATA\)
 
-![](../../.gitbook/assets/mf-2015-05-bcn-meetic-lego-1-.jpg)
-![](../../.gitbook/assets/mf-2015-05-bcn-meetic-lego-2-.jpg)
-![](../../.gitbook/assets/mf-2015-05-bcn-meetic-lego-3-.jpg)
-![](../../.gitbook/assets/mf-2015-05-bcn-meetic-lego-4-.jpg)
-![](../../.gitbook/assets/mf-2015-05-bcn-meetic-lego-5-.jpg)
-![](../../.gitbook/assets/mf-2015-05-bcn-meetic-lego-6-.jpg)
+![](../../.gitbook/assets/mf-2015-05-bcn-meetic-lego-1-.jpg) ![](../../.gitbook/assets/mf-2015-05-bcn-meetic-lego-2-.jpg) ![](../../.gitbook/assets/mf-2015-05-bcn-meetic-lego-3-.jpg) ![](../../.gitbook/assets/mf-2015-05-bcn-meetic-lego-4-.jpg) ![](../../.gitbook/assets/mf-2015-05-bcn-meetic-lego-5-.jpg) ![](../../.gitbook/assets/mf-2015-05-bcn-meetic-lego-6-.jpg)
+
+### MUSEO DEL BARÇA \(BCN\)
+
+
 
 ### LINEA DIRECTA
 
 {% embed url="https://youtu.be/jv-14EdHAKY" caption="proyección en maqueta" %}
+
+## Sin Clasificar
+
+{% embed url="https://youtu.be/aYUZEAucW8A" %}
+
+
 

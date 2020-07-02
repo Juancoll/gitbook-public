@@ -4,8 +4,6 @@ description: transform windows 7 in Visual Mapping SO
 
 # nexwarp
 
-## Descripción
-
 ## Overview
 
 {% embed url="https://www.youtube.com/watch?v=57ni0kbWMwo" caption="" %}
@@ -19,4 +17,10 @@ description: transform windows 7 in Visual Mapping SO
 {% embed url="https://www.youtube.com/watch?v=d2PyzfYOAUU" caption="" %}
 
 {% embed url="https://www.youtube.com/watch?v=CMXrBpVaZmQ" caption="" %}
+
+## New Concept 2.0
+
+{% embed url="https://youtu.be/DvVH0ID-ndg" %}
+
+
 
