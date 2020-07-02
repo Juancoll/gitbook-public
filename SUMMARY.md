@@ -26,8 +26,6 @@
     * [products](timeline/mediaflow-events-sl/products.md)
     * [projects](timeline/mediaflow-events-sl/projects.md)
     * [works](timeline/mediaflow-events-sl/works/README.md)
-      * [Portugal Telecom](timeline/mediaflow-events-sl/works/portugal-telecom.md)
-      * [DVD Fernando e Sorocaba](timeline/mediaflow-events-sl/works/dvd-fernando-e-sorocaba.md)
       * [CAIXA CULTURAL](timeline/mediaflow-events-sl/works/caixa-cultural.md)
       * [Coca Cola](timeline/mediaflow-events-sl/works/coca-cola.md)
       * [Volvo](timeline/mediaflow-events-sl/works/volvo.md)

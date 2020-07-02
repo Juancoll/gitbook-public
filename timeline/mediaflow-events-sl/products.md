@@ -4,7 +4,9 @@ description: Media Flow Software - Multi screen manager
 
 # products
 
-## Fichas Antiguas
+## Fichas 
+
+![](../../.gitbook/assets/mf-com-overview-face-a.jpg)
 
 ![](../../.gitbook/assets/mf-products-soft-ficha-1-.jpg)
 
@@ -21,4 +23,6 @@ description: Media Flow Software - Multi screen manager
 ![](../../.gitbook/assets/mf-product-racks-2-.jpg)
 
 ![](../../.gitbook/assets/mf-product-racks-1-.jpg)
+
+![](../../.gitbook/assets/mf-com-setups.jpg)
 
