@@ -16,6 +16,14 @@
 
 {% embed url="https://youtu.be/\_rfEaaZgPq8" caption="" %}
 
+### Toyota 
+
+![](../../.gitbook/assets/emotique-2007-07-toyota-1-.jpg)
+
+![](../../.gitbook/assets/emotique-2007-07-toyota-2-.jpg)
+
+![](../../.gitbook/assets/emotique-2007-07-toyota-3-.jpg)
+
 ## 2008
 
 ### Desfile Propter & Gamble
