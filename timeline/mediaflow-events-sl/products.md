@@ -4,7 +4,9 @@ description: Media Flow Software - Multi screen manager
 
 # products
 
-## Fichas 
+## SOFTWARE
+
+### Fichas 
 
 ![](../../.gitbook/assets/mf-com-overview-face-a.jpg)
 
@@ -14,15 +16,21 @@ description: Media Flow Software - Multi screen manager
 
 ![](../../.gitbook/assets/mf-products-soft-ficha-3-.jpg)
 
-## Docs
+### Docs
 
 {% file src="../../.gitbook/assets/mf-product-manual.pdf" caption="Manual" %}
 
-## Fotos
+### Fotos
 
 ![](../../.gitbook/assets/mf-product-racks-2-.jpg)
 
 ![](../../.gitbook/assets/mf-product-racks-1-.jpg)
 
 ![](../../.gitbook/assets/mf-com-setups.jpg)
+
+## Expositor Proyectado
+
+![](../../.gitbook/assets/mf-product-expositor-panasonic-road-show.jpg)
+
+![](../../.gitbook/assets/mf-2014-03-ise-adwindow.jpg)
 

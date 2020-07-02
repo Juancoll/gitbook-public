@@ -27,8 +27,6 @@
     * [projects](timeline/mediaflow-events-sl/projects.md)
     * [works](timeline/mediaflow-events-sl/works/README.md)
       * [Coca Cola](timeline/mediaflow-events-sl/works/coca-cola.md)
-      * [Volvo](timeline/mediaflow-events-sl/works/volvo.md)
-      * [Marisa Montes](timeline/mediaflow-events-sl/works/marisa-montes.md)
   * [Nexcommunity SL](timeline/nexcommunity-sl/README.md)
     * [Conferences](timeline/nexcommunity-sl/conferences.md)
     * [products](timeline/nexcommunity-sl/products/README.md)
