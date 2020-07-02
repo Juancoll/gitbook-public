@@ -18,5 +18,7 @@ description: Video Mapping & Contenidos (2011 - 2018)
 
 {% file src="../../.gitbook/assets/mf-docs-2012-07-plan-de-inversion.pdf" caption="PLAN DE INVERSIÓN" %}
 
+{% file src="../../.gitbook/assets/mf-com-estudios-domos.pdf" caption="Domos - documento comercial" %}
+
 
 

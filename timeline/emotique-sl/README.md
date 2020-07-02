@@ -20,3 +20,11 @@ Show Room \(Veribox\)SHOW
 
 ![](../../.gitbook/assets/emotique-com-showroom.jpg)
 
+## Proyectos Europeos
+
+{% file src="../../.gitbook/assets/mf-eur-project-emocional.pdf" caption="eMotional \(Full\)" %}
+
+{% file src="../../.gitbook/assets/mf-eur-project-emocional.ppt" caption="eMotional \(ppt\)" %}
+
+{% file src="../../.gitbook/assets/mf-eur-project-arcdecomediaproject.pdf" caption="Arc Deco Media" %}
+
