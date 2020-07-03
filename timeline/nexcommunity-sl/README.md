@@ -2,31 +2,29 @@
 
 ## Web
 
-{% embed url="https://nexcommunity.com/" %}
+{% embed url="https://nexcommunity.com/" caption="" %}
 
 ## Reels
 
 ### Interactive systems
 
-{% embed url="https://youtu.be/LqnIX-EzgsU" %}
+{% embed url="https://youtu.be/LqnIX-EzgsU" caption="" %}
 
 ### Advanced Video Systems
 
-{% embed url="https://youtu.be/RpDiMWNtCm4" %}
+{% embed url="https://youtu.be/RpDiMWNtCm4" caption="" %}
 
 ### Mapping
 
-{% embed url="https://youtu.be/h7MgyIlb1r4" %}
+{% embed url="https://youtu.be/h7MgyIlb1r4" caption="" %}
 
-### Video Production 
+### Video Production
 
-{% embed url="https://youtu.be/TAjRQAs\_3iQ" %}
+{% embed url="https://youtu.be/TAjRQAs\_3iQ" caption="" %}
 
 ### Virtual Reality
 
-{% embed url="https://youtu.be/oISl9YjYVlE" %}
-
-
+{% embed url="https://youtu.be/oISl9YjYVlE" caption="" %}
 
 ## Socios
 
@@ -76,11 +74,13 @@
 
 ### Programación
 
-| ![](../.gitbook/assets/socios-pau-vivancos.jpg-100x100.jpg) | ![](../.gitbook/assets/socios-juan-coll-soler-2-.jpg-100x100.jpg) | 
-|--|--|
+| ![](https://github.com/Juancoll/gitbook-public/tree/e0ac285fdb9864b45230b461a70eae1dfd2f5641/timeline/.gitbook/assets/socios-pau-vivancos.jpg-100x100.jpg) | ![](https://github.com/Juancoll/gitbook-public/tree/e0ac285fdb9864b45230b461a70eae1dfd2f5641/timeline/.gitbook/assets/socios-juan-coll-soler-2-.jpg-100x100.jpg) |
+| :--- | :--- |
 | Pau Vivancos | Juan Coll \(hasta verano 2019\) |
 
 ## Docs
+
+{% file src="../../.gitbook/assets/nexcom-2017-12-com-curriculum.pdf" caption="CURRICULUM \(hasta diciembre 2017\)" %}
 
 {% file src="../../.gitbook/assets/mf-com-conferencia-panasonic-low.pdf" caption="CONFERENCIA PROYECCIÓN \(PANASONIC\)" %}
 
