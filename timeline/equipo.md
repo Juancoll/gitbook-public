@@ -16,27 +16,18 @@ Si falta alguno o si alguna persona no quisiera esta aquí enviarme un email a j
 
 ## artistas
 
-![](../.gitbook/assets/cc-team-alain-wergifosse.jpg-100x100.jpg)
-
-![](../.gitbook/assets/cc-team-agnes-mateus-i-ribiralta.jpg-100x100.jpg)
-
-![](../.gitbook/assets/cc-team-marta-pelegrina-danti.jpg-100x100.jpg)
-
-![](../.gitbook/assets/cc-team-francisca-fernandez-sanabria.jpg-100x100.jpg)
-
-![](../.gitbook/assets/cc-team-ester-garcia-forment.jpg-100x100.jpg)
-
-![](../.gitbook/assets/cc-team-caroline-pastor.jpg-100x100.jpg)
-
-![](../.gitbook/assets/cc-team-semolina-tomic.jpg-100x100.jpg)
-
-![](../.gitbook/assets/cc-team-jorge-raedo.jpg-100x100.jpg)
-
-![](../.gitbook/assets/cc-team-sergi-faustino.jpg-100x100.jpg)
-
-![](../.gitbook/assets/cc-team-joan-simo.jpg-100x100.jpg)
-
-![](../.gitbook/assets/cc-team-martin-capatinta.jpg-100x100.jpg)
+| ![](../.gitbook/assets/cc-team-alain-wergifosse.jpg-100x100.jpg) | Alain Wergifosse | [web](http://www.alainwergifosse.com/) |
+| -- | -- | -- |
+| ![](../.gitbook/assets/cc-team-agnes-mateus-i-ribiralta.jpg-100x100.jpg) | Agnes Mateus | [wikipedia](https://ca.wikipedia.org/wiki/Agn%C3%A8s_Mateus) |
+| ![](../.gitbook/assets/cc-team-marta-pelegrina-danti.jpg-100x100.jpg) | Marta Pelegrina | |
+| ![](../.gitbook/assets/cc-team-francisca-fernandez-sanabria.jpg-100x100.jpg) | Xesca Fernandez Sanabria | |
+| ![](../.gitbook/assets/cc-team-ester-garcia-forment.jpg-100x100.jpg) | Ester Forment | [web](estudio3.org/ester-forment/) |
+| ![](../.gitbook/assets/cc-team-caroline-pastor.jpg-100x100.jpg) | Caroline Pastor | [linkedin](https://www.nawak.com/book/caroline-pastor) |
+| ![](../.gitbook/assets/cc-team-semolina-tomic.jpg-100x100.jpg) | Semolina Tomic | [wikipedia](https://ca.wikipedia.org/wiki/Semolina_Tomic), [anticteatre](http://www.anticteatre.com/) |
+| ![](../.gitbook/assets/cc-team-jorge-raedo.jpg-100x100.jpg) | Jorge Raodo | [arqa](https://arqa.com/autores/jorge-raedo), [osamenor](http://osamenor10.blogspot.com/)  |
+| ![](../.gitbook/assets/cc-team-sergi-faustino.jpg-100x100.jpg) | Sergi Faustino | [lapoderosa](http://lapoderosa.es/es/artista/sergi-faustino) |
+| ![](../.gitbook/assets/cc-team-joan-simo.jpg-100x100.jpg) | Joan Simo | [video](https://www.youtube.com/watch?v=yjoSB9BoajA) , [video](https://www.youtube.com/watch?v=jLbCkXnOV6I) |
+| ![](../.gitbook/assets/cc-team-martin-capatinta.jpg-100x100.jpg) | Martin Capatinta | [facebook](https://www.facebook.com/lakino.bln/) |
 
 ## ¡el equipazo!
 
