@@ -4,6 +4,10 @@ description: Startup junto con Hotusa Ventures - Shine
 
 # Nodall Systems SL
 
+## El Proyecto
+
+Shine es el primer proyecto y producto de Nodall Systems.  
+
 {% embed url="http://www.shinesmartroom.com/" %}
 
 ### App Store
