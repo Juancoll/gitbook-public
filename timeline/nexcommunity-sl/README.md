@@ -1,6 +1,30 @@
 # Nexcommunity SL
 
+## Web
+
+{% embed url="https://nexcommunity.com/" %}
+
 ## Reels
+
+### Interactive systems
+
+{% embed url="https://youtu.be/LqnIX-EzgsU" %}
+
+### Advanced Video Systems
+
+{% embed url="https://youtu.be/RpDiMWNtCm4" %}
+
+### Mapping
+
+{% embed url="https://youtu.be/h7MgyIlb1r4" %}
+
+### Video Production 
+
+{% embed url="https://youtu.be/TAjRQAs\_3iQ" %}
+
+### Virtual Reality
+
+{% embed url="https://youtu.be/oISl9YjYVlE" %}
 
 
 
@@ -52,13 +76,9 @@
 
 ## Docs
 
-### Conferences
-
 {% file src="../../.gitbook/assets/mf-com-conferencia-panasonic-low.pdf" caption="CONFERENCIA PROYECCIÓN \(PANASONIC\)" %}
 
 ## Medias
-
-### headers
 
 ![](../../.gitbook/assets/nexcom-header-avs.jpg)
 
@@ -68,13 +88,9 @@
 
 ![](../../.gitbook/assets/nexcom-header-tecnics.jpg)
 
-### v2
-
 ![](../../.gitbook/assets/nexcom-com-v2-desktop_wallpaper.jpg)
 
 ![](../../.gitbook/assets/nexcom-com-v2-1-.jpg)
-
-### v1
 
 ![](../../.gitbook/assets/nexcom-com-nex_under.png)
 
