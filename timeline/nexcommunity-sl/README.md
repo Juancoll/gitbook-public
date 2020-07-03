@@ -18,3 +18,15 @@
 | :--- | :--- | :--- |
 | ![](../../.gitbook/assets/team-ale-martin.jpg-100x100.jpg) | Ale Marin | [linkedin](https://www.linkedin.com/in/alejandro-martin-ruiz-185882150/) |
 
+### Audio
+
+### Diseño
+
+### Técnica
+
+### Motion Grafics & 3D
+
+
+
+
+
