@@ -4,23 +4,19 @@
 
 ### Museo del Barça
 
-{% embed url="https://youtu.be/-U8L6GSOj9E" %}
-
-
+{% embed url="https://youtu.be/-U8L6GSOj9E" caption="" %}
 
 ## 2016
 
 ### Bestill
 
-{% embed url="https://youtu.be/c1RcI-Zp3Lc" %}
+{% embed url="https://youtu.be/c1RcI-Zp3Lc" caption="" %}
 
 ### CTS Mapping MNAC \(Mobile World Congress\)
 
 ![](../../.gitbook/assets/nexcom-2016-02-cts-mnac-mapping-1-.jpg)
 
 ![](../../.gitbook/assets/nexcom-2016-02-cts-mnac-mapping-2-.jpg)
-
-![](../../.gitbook/assets/nexcom-2016-02-cts-mnac-mapping-3-.jpg)
 
 ![](../../.gitbook/assets/nexcom-2016-02-cts-mnac-mapping-4-.jpg)
 
@@ -46,5 +42,15 @@
 
 ### Open Mutua Tenis \(Madrid\)
 
-{% embed url="https://youtu.be/enpWhCoft\_8" %}
+{% embed url="https://youtu.be/enpWhCoft\_8" caption="" %}
+
+## 2018
+
+### Showroom Trison \(BCN\)
+
+![](../../.gitbook/assets/nexcom-xxxx-xx-trison-showroom-3-.jpg)
+
+
+
+
 
