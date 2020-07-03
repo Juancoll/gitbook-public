@@ -14,6 +14,10 @@ description: Video Mapping & Contenidos (2011 - 2018)
 
 ## Socios
 
+![](../../.gitbook/assets/socios-alvaro-una-resa-2-.jpg)
+
+![](../../.gitbook/assets/socios-juan-coll-soler-2-.jpg)
+
 * Alvaro Uña
 * Juan Coll
 
