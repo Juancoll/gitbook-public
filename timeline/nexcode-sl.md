@@ -6,14 +6,9 @@
 
 ## Socios
 
-![](../.gitbook/assets/socios-juan-coll-soler-2-.jpg-100x100.jpg)
-
-
-
-![](../.gitbook/assets/socios-pau-vivancos.jpg-100x100.jpg)
-
-* Pau Vivancos
-* Juan Coll \(hasta verano 2019\)
+| ![](../.gitbook/assets/socios-pau-vivancos.jpg-100x100.jpg) | ![](../.gitbook/assets/socios-juan-coll-soler-2-.jpg-100x100.jpg) | 
+|--|--|
+| Pau Vivancos | Juan Coll \(hasta verano 2019\) |
 
 ## Productos
 
