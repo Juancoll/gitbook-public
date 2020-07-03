@@ -14,9 +14,8 @@
 * Realización y Producción de Vídeo 
 * Advanced Video Systems: Proyectos Relacionados con cualquier tipo de grabación o interacción de vídeo: realidad virtual, slow motion, Bullet Time, Drones, etc...
 * 
-![](../../.gitbook/assets/team-miquel-angel-raio.jpg-100x100.jpg)
 
-| ![](https://github.com/Juancoll/gitbook-public/tree/99428dc433b925214f2569514cd6ce69f6834be6/.gitbook/assets/team-miquel-angelraio.jpg-100x100.jpg) | Miquel Angel Raió.jpg | [linkedin](https://www.linkedin.com/in/miquel-%C3%A0ngel-rai%C3%B3-95420961/) |
+| ![](../../.gitbook/assets/team-miquel-angel-raio.jpg-100x100.jpg) | Miquel Angel Raió.jpg | [linkedin](https://www.linkedin.com/in/miquel-%C3%A0ngel-rai%C3%B3-95420961/) |
 | :--- | :--- | :--- |
 | ![](../../.gitbook/assets/team-daniel-marin-viciana.jpg-100x100.jpg) | Daniel Marin Viciana | [linkedin](https://www.linkedin.com/in/daniel-marin-viciana-81580540/) |
 | ![](../../.gitbook/assets/team-ale-martin.jpg-100x100.jpg) | Ale Marin | [linkedin](https://www.linkedin.com/in/alejandro-martin-ruiz-185882150/) |
@@ -25,29 +24,29 @@
 
 ### Audio
 
-![](../../.gitbook/assets/team-pablo-moreno-guerrero.jpg-100x100.jpg)
-
-![](../../.gitbook/assets/team-manel-ruiz.jpg-100x100.jpg)
+| ![](../../.gitbook/assets/team-pablo-moreno-guerrero.jpg-100x100.jpg) | Pablo Moreno Guerrero | [linkedin](https://www.linkedin.com/in/pablo-moreno-guerrero-44a059a8/) |
+| :--- | :--- | :--- |
+| ![](../../.gitbook/assets/team-manel-ruiz.jpg-100x100.jpg) | Manel Ruiz | [instagram](https://www.instagram.com/6tma/?hl=es) |
 
 ### Diseño
 
-![](../../.gitbook/assets/team-marta-mejias-guerrero.jpg-100x100.jpg)
-
-![](../../.gitbook/assets/team-eduardo-miravalles.jpg-100x100.jpg)
+| ![](../../.gitbook/assets/team-marta-mejias-guerrero.jpg-100x100.jpg) | Marta Mejías Guerrero | [linkedin](https://www.linkedin.com/in/marta-mejias/) |
+| :--- | :--- | :--- |
+| ![](../../.gitbook/assets/team-eduardo-miravalles.jpg-100x100.jpg) | Eduardo Miravalles (externo pero siempre presente) | [vamosestudio](http://www.vamosestudio.com/) |
 
 ### Técnica
 
-![](../../.gitbook/assets/team-cayetano-gomez-lucena.jpg-100x100.jpg)
-
-![](../../.gitbook/assets/socios-jorge-lopez-lopez-gay.jpg-100x100.jpg)
-
-![](../../.gitbook/assets/socios-bartolome-fiol-arguimbau-2-.jpg-100x100.jpg)
+| ![](../../.gitbook/assets/team-cayetano-gomez-lucena.jpg-100x100.jpg) |  Cayetano Gómez Lucena | [linkedin](https://www.linkedin.com/in/cayetano-g%C3%B3mez-lucena-6745b16a/)
+| :--- | :--- | :--- |
+| ![](../../.gitbook/assets/socios-jorge-lopez-lopez-gay.jpg-100x100.jpg) | Jorge Lopez Lopez-Gay |  [linkedin](https://www.linkedin.com/in/jorge-l%C3%B3pez-l%C3%B3pez-gay-b977103b/) |
+| ![](../../.gitbook/assets/socios-bartolome-fiol-arguimbau-2-.jpg-100x100.jpg) | Tomeu Fiol | [linkedin](https://www.linkedin.com/in/tomeu-fiol-arguimbau-5ab15a49/) |
 
 ### Motion Grafics & 3D
 
-![](../../.gitbook/assets/team-jorge-alia-olague.jpg-100x100.jpg)
 
-![](../../.gitbook/assets/team-alex-romero.jpg-100x100.jpg)
+| ![](../../.gitbook/assets/team-jorge-alia-olague.jpg-100x100.jpg) | Jorge Alia Olague | [flufa](https://flufa.bandcamp.com/) |
+| :--- | :--- | :--- |
+| ![](../../.gitbook/assets/team-alex-romero.jpg-100x100.jpg) | Alex Romero | [linkedin](https://www.linkedin.com/in/alex-romero-4149424b/) |
 
 ## Docs
 
