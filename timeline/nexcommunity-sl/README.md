@@ -74,6 +74,19 @@
 | :--- | :--- | :--- |
 | ![](../../.gitbook/assets/team-alex-romero.jpg-100x100.jpg) | Alex Romero | [linkedin](https://www.linkedin.com/in/alex-romero-4149424b/) |
 
+### Programación
+
+
+
+![](../../.gitbook/assets/socios-juan-coll-soler-2-.jpg-100x100.jpg)
+
+
+
+![](../../.gitbook/assets/socios-pau-vivancos.jpg-100x100.jpg)
+
+* Pau Vivancos
+* Juan Coll \(hasta verano 2019\)
+
 ## Docs
 
 {% file src="../../.gitbook/assets/mf-com-conferencia-panasonic-low.pdf" caption="CONFERENCIA PROYECCIÓN \(PANASONIC\)" %}
