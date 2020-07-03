@@ -6,17 +6,13 @@ Si falta alguno o si alguna persona no quisiera esta aquí enviarme un email a j
 
 ## socios
 
-![](../.gitbook/assets/socios-oscar-fernandez-barracel-1-.jpg-100x100.jpg)
-
-![](../.gitbook/assets/socios-tony-cabello-miguel.jpg-100x100.jpg)
-
-![](../.gitbook/assets/socios-alvaro-una-resa-2-.jpg-100x100.jpg)
-
-![](../.gitbook/assets/socios-pau-vivancos.jpg-100x100.jpg)
-
-![](../.gitbook/assets/socios-jorge-lopez-lopez-gay.jpg-100x100.jpg)
-
-![](../.gitbook/assets/socios-bartolome-fiol-arguimbau-2-.jpg-100x100.jpg)
+| ![](../.gitbook/assets/socios-oscar-fernandez-barracel-1-.jpg-100x100.jpg) | Orcar Fernandez Barracel | [lindedin](https://www.linkedin.com/in/barracel/) |
+| -- | -- | -- |
+| ![](../.gitbook/assets/socios-tony-cabello-miguel.jpg-100x100.jpg) | Tony Cabello | [linkedin](https://www.linkedin.com/in/tonycabello/) |
+| ![](../.gitbook/assets/socios-alvaro-una-resa-2-.jpg-100x100.jpg) |Alvaro Uña Resa | [linkedin](https://www.linkedin.com/in/alvaro-u%C3%B1a-resa-b33669195/) |
+| ![](../.gitbook/assets/socios-pau-vivancos.jpg-100x100.jpg) | Pau Vivancos | [linkedin](https://www.linkedin.com/in/pauvivancos/) |
+| ![](../.gitbook/assets/socios-jorge-lopez-lopez-gay.jpg-100x100.jpg) | Jorge López López-Gay | [linkedin](https://www.linkedin.com/in/jorge-l%C3%B3pez-l%C3%B3pez-gay-b977103b/) |
+| ![](../.gitbook/assets/socios-bartolome-fiol-arguimbau-2-.jpg-100x100.jpg) |Tomeu Fiol Arguimbau | [linkedin](https://www.linkedin.com/in/tomeu-fiol-arguimbau-5ab15a49/) |
 
 ## artistas
 
