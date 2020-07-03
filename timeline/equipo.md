@@ -31,73 +31,44 @@ Si falta alguno o si alguna persona no quisiera esta aquí enviarme un email a j
 
 ## ¡el equipazo!
 
-![](../.gitbook/assets/team-luciano-guallart-rodriguez.jpg-100x100.jpg)
+| ![](../.gitbook/assets/team-antonia-santos-hurtado.jpg-100x100.jpg) | Antonia Santos | La madre de todo los proyectos |
+| -- | -- | -- |
+| ![](../.gitbook/assets/team-pablo-baras-de-castro.jpg-100x100.jpg) | | |
+| ![](../.gitbook/assets/team-sergi-soley-soler.jpg-100x100.jpg) | Sergi Soley Soler | [linkedin](https://www.linkedin.com/in/sergisoley/) |
+| ![](../.gitbook/assets/team-rafael-conzalez-perez.jpg-100x100.jpg) | |  |
+| ![](../.gitbook/assets/team-elias-lozada-benavente-facal.jpg-100x100.jpg) | Elías Lozada-Benavente Facal | [linkedin](https://www.linkedin.com/in/eloben/) |
+| ![](../.gitbook/assets/team-peter-ernest-hone.jpg-100x100.jpg) | peter hone | [linkedin](https://www.linkedin.com/in/peter-hone-98705726/) |
+| ![](../.gitbook/assets/team-guillermo-patino-posada.jpg-100x100.jpg) |Guillermo Patiño | [linkedin](linkedin.com/in/guillermo-patiño-motiondesigner/) |
+| ![](../.gitbook/assets/team-dorata-m-rajkowska.jpg-100x100.jpg) | |  |
+| ![](../.gitbook/assets/team-alex-guevara-trivaldos.jpg-100x100.jpg) | https://www.linkedin.com/in/thealex/ | [linkedin](https://www.linkedin.com/in/thealex/) |
+| ![](../.gitbook/assets/team-artur-marti-fun-sang.jpg-100x100.jpg) | Artur Martí Fun-Sang | [linkedin]() |
+| ![](../.gitbook/assets/team-gabriel-font-rodriguez.jpg-100x100.jpg) | | [linkedin](https://www.linkedin.com/in/arturfunsang/) |
+| ![](../.gitbook/assets/team-cristina-toledo.jpg-100x100.jpg) | Cristina Toledo | [linkedin](https://www.linkedin.com/in/cristina-toledo-42a65730/),  |
+| ![](../.gitbook/assets/team-mariano-moscuzza.jpg-100x100.jpg) | Mariano Moscuzza | [linkedin](https://www.linkedin.com/in/mariano-moscuzza-b354321b/),  |
+| ![](../.gitbook/assets/team-marc-sturlese-gaya.jpg-100x100.jpg) |Marc Sturlese | [linkedin](https://www.linkedin.com/in/marcsturlese/) |
+| ![](../.gitbook/assets/team-nicolas-garcia-fernandez.jpg-100x100.jpg) | Nicolas Garcia| [linkedin](https://www.linkedin.com/in/nicolas-garcia-1a725118/), [lospajaros](lospajaros.cl) |
+| ![](../.gitbook/assets/team-alberto-esteban-mila-diaz.jpg-100x100.jpg) | Alberto Milá Díaz | [linkedin](https://www.linkedin.com/in/alberto-mil%C3%A1-d%C3%ADaz-6253b530/) |
+| ![](../.gitbook/assets/team-jaume-codinachs-garcia.jpg-100x100.jpg) | Jaume Codinachs Garcia | [linkedin](https://www.linkedin.com/in/jaumecodinachs/) |
+| ![](../.gitbook/assets/team-marc-martinez.jpg-100x100.jpg) | marc martínez | [linkedin](https://www.linkedin.com/in/marc-mart%C3%ADnez-57379b32/) |
+| ![](../.gitbook/assets/team-nestor-parrado-lloro.jpg-100x100.jpg) | Nestor Parrado | |
+| ![](../.gitbook/assets/team-kodomos-ilustrador.jpg-100x100.jpg) | Kodomos  | [linkedin](https://www.linkedin.com/in/kodomos-ilustrador-35603726/) |
+| ![](../.gitbook/assets/team-carlos-nogueras-rodriguez.jpg-100x100.jpg) | Carlos Nogueras Rodríguez | [linkedin](https://www.linkedin.com/in/carlosnogueras/) |
+| ![](../.gitbook/assets/team-phedile-decup.jpg-100x100.jpg) | Phedile Decup | [linkedin](https://www.linkedin.com/in/phedile-decup-4379b519b/) |
+| ![](../.gitbook/assets/team-ariel-bustamante.jpg-100x100.jpg) | Ariel Bustamante | [linkedin](https://www.linkedin.com/in/ariel-bustamante-b6719064/) |
+| ![](../.gitbook/assets/team-jordi-foto.jpg-100x100.jpg) | Jordi Foto | [linkedin](https://www.linkedin.com/in/jordifoto/) |
+| ![](../.gitbook/assets/team-sergio-linz.jpg-100x100.jpg) | Sergio Linz | [linkedin](https://www.linkedin.com/in/sergio-linz-a7701159/) |
+| ![](../.gitbook/assets/team-alex-romero.jpg-100x100%20%281%29.jpg) | Alex Romero | [linkedin](https://www.linkedin.com/in/alex-romero-4149424b/) |
+| ![](../.gitbook/assets/team-iban-arnau-palacios.jpg-100x100.jpg) | Iban Arnau Palacios | [linkedin](https://www.linkedin.com/in/iban-arnau-palacios/) |
+| ![](../.gitbook/assets/team-maxime-j.-drouard.jpg-100x100.jpg) | Maxime Drouard | [linkedin](https://www.linkedin.com/in/maxime-drouard-3005a2150/) |
+| ![](../.gitbook/assets/team-jaime-colomer-falguera.jpg-100x100.jpg) | jaume colomer falguera | [linkedin](https://www.linkedin.com/in/jaume-colomer-falguera-62173334/) |
+| ![](../.gitbook/assets/team-lorena-soria-rodon.jpg-100x100.jpg) | Lorena Soria Rodon | [linkedin](https://www.linkedin.com/in/lorenasoria/) |
+| ![](../.gitbook/assets/team-elvis-boci.jpg-100x100.jpg) | Elvis Boci | [linkedin](https://www.linkedin.com/in/elvis-boci-02835629/) |
+| ![](../.gitbook/assets/team-marti-freixes-coll.jpg-100x100.jpg) | Marti Freixes | El mejor de los programadores |
+| ![](../.gitbook/assets/team-ahmed-sabbabi-boumahdi.jpg-100x100.jpg) | Ahmed Sabbabi Boumahdi | [linkedin](https://www.linkedin.com/in/ahmed-sabbabi-boumahdi-6015172b/) |
+| ![](../.gitbook/assets/team-luciano-guallart-rodriguez.jpg-100x100.jpg) |Luciano Guallart Rodríguez | [linkedin](https://www.linkedin.com/in/luxmanvj/) |
+| | daniel ramirez centurion | [linkedin](https://www.linkedin.com/in/danield76/) |
+| | Jaume A | [linkedin](linkedin.com/in/jaumea/) |
 
-![](../.gitbook/assets/team-pablo-baras-de-castro.jpg-100x100.jpg)
-
-![](../.gitbook/assets/team-sergi-soley-soler.jpg-100x100.jpg)
-
-![](../.gitbook/assets/team-rafael-conzalez-perez.jpg-100x100.jpg)
-
-![](../.gitbook/assets/team-elias-lozada-benavente-facal.jpg-100x100.jpg)
-
-![](../.gitbook/assets/team-peter-ernest-hone.jpg-100x100.jpg)
-
-![](../.gitbook/assets/team-guillermo-patino-posada.jpg-100x100.jpg)
-
-![](../.gitbook/assets/team-dorata-m-rajkowska.jpg-100x100.jpg)
-
-![](../.gitbook/assets/team-alex-guevara-trivaldos.jpg-100x100.jpg)
-
-![](../.gitbook/assets/team-artur-marti-fun-sang.jpg-100x100.jpg)
-
-![](../.gitbook/assets/team-gabriel-font-rodriguez.jpg-100x100.jpg)
-
-![](../.gitbook/assets/team-cristina-toledo.jpg-100x100.jpg)
-
-![](../.gitbook/assets/team-mariano-moscuzza.jpg-100x100.jpg)
-
-![](../.gitbook/assets/team-marc-sturlese-gaya.jpg-100x100.jpg)
-
-![](../.gitbook/assets/team-nicolas-garcia-fernandez.jpg-100x100.jpg)
-
-![](../.gitbook/assets/team-alberto-esteban-mila-diaz.jpg-100x100.jpg)
-
-![](../.gitbook/assets/team-jaume-codinachs-garcia.jpg-100x100.jpg)
-
-![](../.gitbook/assets/team-antonia-santos-hurtado.jpg-100x100.jpg)
-
-![](../.gitbook/assets/team-marc-martinez.jpg-100x100.jpg)
-
-![](../.gitbook/assets/team-nestor-parrado-lloro.jpg-100x100.jpg)
-
-![](../.gitbook/assets/team-kodomos-ilustrador.jpg-100x100.jpg)
-
-![](../.gitbook/assets/team-carlos-nogueras-rodriguez.jpg-100x100.jpg)
-
-![](../.gitbook/assets/team-phedile-decup.jpg-100x100.jpg)
-
-![](../.gitbook/assets/team-ariel-bustamante.jpg-100x100.jpg)
-
-![](../.gitbook/assets/team-jordi-foto.jpg-100x100.jpg)
-
-![](../.gitbook/assets/team-sergio-linz.jpg-100x100.jpg)
-
-![](../.gitbook/assets/team-alex-romero.jpg-100x100%20%281%29.jpg)
-
-![](../.gitbook/assets/team-iban-arnau-palacios.jpg-100x100.jpg)
-
-![](../.gitbook/assets/team-maxime-j.-drouard.jpg-100x100.jpg)
-
-![](../.gitbook/assets/team-jaime-colomer-falguera.jpg-100x100.jpg)
-
-![](../.gitbook/assets/team-lorena-soria-rodon.jpg-100x100.jpg)
-
-![](../.gitbook/assets/team-elvis-boci.jpg-100x100.jpg)
-
-![](../.gitbook/assets/team-marti-freixes-coll.jpg-100x100.jpg)
-
-![](../.gitbook/assets/team-ahmed-sabbabi-boumahdi.jpg-100x100.jpg)
 
  
 
