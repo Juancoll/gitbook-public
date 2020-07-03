@@ -14,8 +14,6 @@ description: transform windows 7 in Visual Mapping SO
 
 ![](../.gitbook/assets/nexcode-nexwarp-ui-1-.jpg)
 
-
-
 ## Tutorials
 
 {% embed url="https://www.youtube.com/watch?v=FBqrbX0puz8" caption="" %}
@@ -28,7 +26,5 @@ description: transform windows 7 in Visual Mapping SO
 
 ## New Concept 2.0
 
-{% embed url="https://youtu.be/DvVH0ID-ndg" %}
-
-
+{% embed url="https://youtu.be/DvVH0ID-ndg" caption="" %}
 

@@ -18,13 +18,11 @@ description: 2004 - 2010
 
 {% embed url="https://youtu.be/GMcoelNox7M" caption="" %}
 
-{% embed url="https://youtu.be/Xr5EOuejbYI" %}
+{% embed url="https://youtu.be/Xr5EOuejbYI" caption="" %}
 
 ![](../../.gitbook/assets/emotique-product-lightshape-proto-2-.jpg)
 
 ![](../../.gitbook/assets/emotique-product-lightshape-proto-1-.jpg)
 
-{% embed url="https://youtu.be/ZAgFkaGd4xk" %}
-
-
+{% embed url="https://youtu.be/ZAgFkaGd4xk" caption="" %}
 

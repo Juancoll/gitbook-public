@@ -2,23 +2,17 @@
 
 ## Me llamo IBRAHIM \(VR\)
 
-{% embed url="https://youtu.be/gk7ptQ3uzec" %}
-
-
+{% embed url="https://youtu.be/gk7ptQ3uzec" caption="" %}
 
 ## BULLET TIME
 
-{% embed url="https://youtu.be/fdnZpTOr1-E" %}
+{% embed url="https://youtu.be/fdnZpTOr1-E" caption="" %}
 
-{% embed url="https://youtu.be/P\_fWHt9N4cM" %}
-
-
+{% embed url="https://youtu.be/P\_fWHt9N4cM" caption="" %}
 
 ## INTERACTIVE VIDEOWALL
 
-{% embed url="https://youtu.be/cxUPPiIjl3Y" %}
-
-
+{% embed url="https://youtu.be/cxUPPiIjl3Y" caption="" %}
 
 * GREAT INTERACTIVE FOR YOUR EVENTS
 * MESSAGES APPEARS ON TOP OF THE AUDIENCE
@@ -32,8 +26,6 @@
 ![](../../.gitbook/assets/nexcom-product-videowall-3-.jpg)
 
 ## NEX BUBBLES
-
-
 
 * GREAT INTERACTIVE FOR YOUR EVENTS
 * MESSAGES APPEARS ON TOP OF THE AUDIENCE

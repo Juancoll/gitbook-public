@@ -2,21 +2,19 @@
 
 ## EL NACIONAL
 
-{% embed url="https://youtu.be/N9PO7buwrkQ" %}
+{% embed url="https://youtu.be/N9PO7buwrkQ" caption="" %}
 
 ## MAGIC BOX
 
-{% embed url="https://youtu.be/GXyL7vWSl2A" %}
+{% embed url="https://youtu.be/GXyL7vWSl2A" caption="" %}
 
 ## EL Zeppelin
 
-{% embed url="https://youtu.be/S6di\_eF5vr8" %}
-
-
+{% embed url="https://youtu.be/S6di\_eF5vr8" caption="" %}
 
 ## INHOTIM
 
-{% embed url="https://youtu.be/5UjLW-pfwUI" %}
+{% embed url="https://youtu.be/5UjLW-pfwUI" caption="" %}
 
 {% file src="../../.gitbook/assets/mf-project-inhotim.pdf" caption="PROYECTO \(portugues\)" %}
 
@@ -70,13 +68,11 @@ Diseño técnico
 
 ## MAPPING REUS
 
-![](../../.gitbook/assets/mf-project-mapping-reus.jpg)
+![](../../.gitbook/assets/mf-project-mapping-reus%20%281%29.jpg)
 
 {% file src="../../.gitbook/assets/mf-project-mapping-reus.jpg" caption="STORYBOARD" %}
 
 ## WORLD MAPPING CHANNEL
-
-
 
 ![](../../.gitbook/assets/mf-project-world-mapping-channel.jpg)
 

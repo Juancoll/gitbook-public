@@ -164,15 +164,11 @@
 
 ### TUITERATURA
 
-{% embed url="https://www.designboom.com/art/tuiretarura-by-estudio-guto-requena-and-atelier-marko-brajovic-10-31-2013/" %}
+{% embed url="https://www.designboom.com/art/tuiretarura-by-estudio-guto-requena-and-atelier-marko-brajovic-10-31-2013/" caption="" %}
 
-{% embed url="https://youtu.be/zE-RsUX3J34" %}
+{% embed url="https://youtu.be/zE-RsUX3J34" caption="" %}
 
-{% embed url="https://youtu.be/c\_IgUfi8pCw" %}
-
-
-
-
+{% embed url="https://youtu.be/c\_IgUfi8pCw" caption="" %}
 
 ## 2014
 
@@ -196,7 +192,5 @@
 
 ## Sin Clasificar
 
-{% embed url="https://youtu.be/aYUZEAucW8A" %}
-
-
+{% embed url="https://youtu.be/aYUZEAucW8A" caption="" %}
 

@@ -28,7 +28,7 @@
 
 ## Socios
 
-| ![](../../.gitbook/assets/socios-bartolome-fiol-arguimbau-2-.jpg-100x100.jpg) | ![](../../.gitbook/assets/socios-jorge-lopez-lopez-gay.jpg-100x100.jpg) | ![](../../.gitbook/assets/socios-juan-coll-soler-2-.jpg-100x100.jpg) |
+| ![](../../.gitbook/assets/socios-bartolome-fiol-arguimbau-2-.jpg-100x100.jpg) | ![](../../.gitbook/assets/socios-jorge-lopez-lopez-gay.jpg-100x100%20%281%29.jpg) | ![](../../.gitbook/assets/socios-juan-coll-soler-2-.jpg-100x100.jpg) |
 | :---: | :---: | :---: |
 | Tomeu Fiol | Jorge Lopez Lopez-Gay | Juan Coll Soler |
 
@@ -64,7 +64,7 @@
 | ![](../../.gitbook/assets/team-cayetano-gomez-lucena.jpg-100x100.jpg) | Cayetano Gómez Lucena | [linkedin](https://www.linkedin.com/in/cayetano-g%C3%B3mez-lucena-6745b16a/) |
 | :--- | :--- | :--- |
 | ![](../../.gitbook/assets/socios-jorge-lopez-lopez-gay.jpg-100x100.jpg) | Jorge Lopez Lopez-Gay | [linkedin](https://www.linkedin.com/in/jorge-l%C3%B3pez-l%C3%B3pez-gay-b977103b/) |
-| ![](../../.gitbook/assets/socios-bartolome-fiol-arguimbau-2-.jpg-100x100.jpg) | Tomeu Fiol | [linkedin](https://www.linkedin.com/in/tomeu-fiol-arguimbau-5ab15a49/) |
+| ![](../../.gitbook/assets/socios-bartolome-fiol-arguimbau-2-.jpg-100x100%20%281%29.jpg) | Tomeu Fiol | [linkedin](https://www.linkedin.com/in/tomeu-fiol-arguimbau-5ab15a49/) |
 
 ### Motion Grafics & 3D
 
@@ -86,7 +86,7 @@
 
 ## Medias
 
-{% embed url="https://youtu.be/YZARZa6vUjQ" %}
+{% embed url="https://youtu.be/YZARZa6vUjQ" caption="" %}
 
 ![](../../.gitbook/assets/nexcom-header-avs.jpg)
 

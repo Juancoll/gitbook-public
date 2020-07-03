@@ -18,7 +18,7 @@
 
 {% embed url="https://youtu.be/\_rfEaaZgPq8" caption="" %}
 
-### Toyota 
+### Toyota
 
 ![](../../.gitbook/assets/emotique-2007-07-toyota-1-.jpg)
 
@@ -136,9 +136,7 @@ Convertimos un Airbus 320 en una discoteca aérea con el DJ francés David Guett
 
 ### MAPPING CIU \(BCN\)
 
-{% embed url="https://youtu.be/V-03l\_c0dNI" %}
-
-
+{% embed url="https://youtu.be/V-03l\_c0dNI" caption="" %}
 
 ## 2010
 
@@ -150,9 +148,7 @@ Convertimos un Airbus 320 en una discoteca aérea con el DJ francés David Guett
 
 {% embed url="https://youtu.be/M8C6nRydTw0" caption="" %}
 
-{% embed url="https://youtu.be/CAXS8ysbjno" %}
-
-
+{% embed url="https://youtu.be/CAXS8ysbjno" caption="" %}
 
 ### FIAT
 
@@ -175,6 +171,4 @@ Convertimos un Airbus 320 en una discoteca aérea con el DJ francés David Guett
 ### New Port
 
 {% embed url="https://youtu.be/D0p8pbba3Fo" caption="" %}
-
-
 

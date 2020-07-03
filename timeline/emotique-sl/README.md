@@ -10,15 +10,13 @@ description: 2004 - 2010
 | :--- | :--- | :--- | :--- |
 | Tony Cabello Miguel | Oscar Fernández Barracel | Alvaro Uña Resa | Juan Coll Soler |
 
-
-
 ## Presentación
 
 ![](../../.gitbook/assets/emotique-presentacion-ficha.jpg)
 
 {% file src="../../.gitbook/assets/emotique-presentacion-ficha.pdf" caption="FICHA \(pdf\)" %}
 
-## Show Room \(Veribox\)SHOW 
+## Show Room \(Veribox\)SHOW
 
 ![](../../.gitbook/assets/emotique-com-showroom.jpg)
 
@@ -39,6 +37,4 @@ description: 2004 - 2010
 {% file src="../../.gitbook/assets/emotique-com-plan-expansion-2004-2016.pdf" caption="Plan expansión 2004-2016" %}
 
 {% file src="../../.gitbook/assets/emotique-com-cv-hasta-2011.pdf" caption="CURRICULUM \(hasta 2011\)" %}
-
-
 

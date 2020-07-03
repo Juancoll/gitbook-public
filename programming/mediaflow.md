@@ -4,5 +4,3 @@
 
 {% file src="../.gitbook/assets/mf-product-manual.pdf" caption="MANUAL " %}
 
-
-

@@ -6,7 +6,7 @@ description: Media Flow Software - Multi screen manager
 
 ## SOFTWARE
 
-### Fichas 
+### Fichas
 
 ![](../../.gitbook/assets/mf-com-overview-face-a.jpg)
 
@@ -34,7 +34,5 @@ description: Media Flow Software - Multi screen manager
 
 ![](../../.gitbook/assets/mf-2014-03-ise-adwindow.jpg)
 
-{% embed url="https://youtu.be/LuNWjE3eVtM" %}
-
-
+{% embed url="https://youtu.be/LuNWjE3eVtM" caption="" %}
 

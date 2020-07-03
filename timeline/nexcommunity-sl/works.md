@@ -4,43 +4,37 @@
 
 ### Primavera Sound
 
-{% embed url="https://youtu.be/nb06eB6taBM" %}
+{% embed url="https://youtu.be/nb06eB6taBM" caption="" %}
 
 ### Festival Sitges
 
-{% embed url="https://youtu.be/IaAEIkJR-oo" %}
+{% embed url="https://youtu.be/IaAEIkJR-oo" caption="" %}
 
+### Mapping Puerta del Sol - Fin de Años
 
-
-### Mapping Puerta del Sol - Fin de Años 
-
-{% embed url="https://youtu.be/JWkKS0ZywBw" %}
+{% embed url="https://youtu.be/JWkKS0ZywBw" caption="" %}
 
 ## 2015
 
 ### COAC - MAPPING MAQUETA
 
-{% embed url="https://youtu.be/tsBt1Wo3aG0" %}
+{% embed url="https://youtu.be/tsBt1Wo3aG0" caption="" %}
 
-{% embed url="https://youtu.be/DqTtifmslQs" %}
-
-
+{% embed url="https://youtu.be/DqTtifmslQs" caption="" %}
 
 ### ZTE - Mobile World Congress
 
-{% embed url="https://youtu.be/fZzqB\_ZgaSo" %}
+{% embed url="https://youtu.be/fZzqB\_ZgaSo" caption="" %}
 
-{% embed url="https://youtu.be/LKKqRLB6ZNA" %}
+{% embed url="https://youtu.be/LKKqRLB6ZNA" caption="" %}
 
-{% embed url="https://youtu.be/PcyorWiz\_nY" %}
+{% embed url="https://youtu.be/PcyorWiz\_nY" caption="" %}
 
 ### Gira Mapping Botella Coca Cola
 
-{% embed url="https://youtu.be/dG87VMbmNXs" %}
+{% embed url="https://youtu.be/dG87VMbmNXs" caption="" %}
 
-{% embed url="https://youtu.be/9HZifrpC5-g" %}
-
-
+{% embed url="https://youtu.be/9HZifrpC5-g" caption="" %}
 
 ### Museo del Barça
 
@@ -58,37 +52,33 @@
 
 ### Laboratorios Estebe \(Experiencia VR\)
 
-{% embed url="https://youtu.be/wFJEpqqUpPI" %}
+{% embed url="https://youtu.be/wFJEpqqUpPI" caption="" %}
 
 ### Aniversario Bankinter \(50 años\)
 
-{% embed url="https://youtu.be/aQIS5bwMuMo" %}
+{% embed url="https://youtu.be/aQIS5bwMuMo" caption="" %}
 
 ![](../../.gitbook/assets/nexcom-2015-09-md-50-anos-bankinter-02.jpg)
 
 ### Expo Milano LS2
 
-{% embed url="https://youtu.be/\_dGFI1aANb0" %}
+{% embed url="https://youtu.be/\_dGFI1aANb0" caption="" %}
 
 ### Día de la Hispanidad - Mapping Palacio Real \(Madrid\)
 
-{% embed url="https://youtu.be/MERaByi2FGc" %}
+{% embed url="https://youtu.be/MERaByi2FGc" caption="" %}
 
-{% embed url="https://youtu.be/AVSbeGL6Oss" %}
-
-
+{% embed url="https://youtu.be/AVSbeGL6Oss" caption="" %}
 
 ## 2016
 
 ### Panasonic ISE \(Rodaje\)
 
-{% embed url="https://youtu.be/HHGVAxVIorg" %}
+{% embed url="https://youtu.be/HHGVAxVIorg" caption="" %}
 
 ### FOX Channel
 
-{% embed url="https://youtu.be/QQhHBMknB7s" %}
-
-
+{% embed url="https://youtu.be/QQhHBMknB7s" caption="" %}
 
 ### Bestill
 
@@ -122,19 +112,19 @@
 
 {% embed url="https://youtu.be/enpWhCoft\_8" caption="" %}
 
-{% embed url="https://youtu.be/mzqWHzn6fr4" %}
+{% embed url="https://youtu.be/mzqWHzn6fr4" caption="" %}
 
 ### Mapping Adidas \(Laser\)
 
-{% embed url="https://youtu.be/DUQo21c3R30" %}
+{% embed url="https://youtu.be/DUQo21c3R30" caption="" %}
 
 ### Producción VR Veranda
 
-{% embed url="https://youtu.be/Z9Rzaa\_7DGs" %}
+{% embed url="https://youtu.be/Z9Rzaa\_7DGs" caption="" %}
 
 ### SEAT LEON
 
-{% embed url="https://youtu.be/jetAsPqp61k" %}
+{% embed url="https://youtu.be/jetAsPqp61k" caption="" %}
 
 ![](../../.gitbook/assets/nexcom-2016-10-seat-leon-01.jpg)
 
@@ -144,17 +134,13 @@
 
 ### Slow Motion - BBK By Mini
 
-{% embed url="https://youtu.be/wxyblR0p-Fk" %}
-
-
+{% embed url="https://youtu.be/wxyblR0p-Fk" caption="" %}
 
 ### VIDEO WALL INTERACTIVO - RYATH \(Trison\)
 
-{% embed url="https://youtu.be/cxUPPiIjl3Y" %}
+{% embed url="https://youtu.be/cxUPPiIjl3Y" caption="" %}
 
-{% embed url="https://youtu.be/pDE5GCEjBhI" %}
-
-
+{% embed url="https://youtu.be/pDE5GCEjBhI" caption="" %}
 
 ![](../../.gitbook/assets/nexcom-2017-09-trison-ryat-0-.png)
 
@@ -166,15 +152,13 @@
 
 ### Coca Cola - Rotative Platform
 
-{% embed url="https://youtu.be/FPCYCngEtek" %}
-
-
+{% embed url="https://youtu.be/FPCYCngEtek" caption="" %}
 
 ## 2018
 
 ### Showroom Trison \(BCN\)
 
-{% embed url="https://youtu.be/WCVI7KnmbkE" %}
+{% embed url="https://youtu.be/WCVI7KnmbkE" caption="" %}
 
 ![](../../.gitbook/assets/nexcom-xxxx-xx-trison-showroom-2-.jpg)
 
@@ -191,6 +175,4 @@
 ### Centro comercial LAS ARENAS \(BCN\)
 
 ![](../../.gitbook/assets/mf-2018-xx-centro-comercial-las-arenas.jpg)
-
-
 

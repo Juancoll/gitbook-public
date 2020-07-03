@@ -67,13 +67,13 @@ Centraliza todo el desarrollo de software de MediaFlow Events y añade toda la p
 
 ## De servicio a producto - Shine
 
-Después de pasar mas de 10 años ofreciendo servicios audiovisuales e intentando transformar nuestros software en producto, aparece la oportunidad por parte del grupo  Hotusa, de trabajar sobre la conceptualización y desarrollo de una renovación de la experiencia en las habitaciones de hotel mediante la proyección. Poder volcar toda mis ideas y experiencia en un solo proyecto ! Asi nace la startup Nodall Systems.
+Después de pasar mas de 10 años ofreciendo servicios audiovisuales e intentando transformar nuestros software en producto, aparece la oportunidad por parte del grupo Hotusa, de trabajar sobre la conceptualización y desarrollo de una renovación de la experiencia en las habitaciones de hotel mediante la proyección. Poder volcar toda mis ideas y experiencia en un solo proyecto ! Asi nace la startup Nodall Systems.
 
-* [Hotusa Nodall Systems - Shine ](nodall-systems-sl.md)
+* [Hotusa Nodall Systems - Shine ](nodall-systems-sl/)
 
 ## Nuevos Horizontes - las finanzas
 
-Cada 10 años llegan las crisis que en mi caso corresponde a la de los 30, de los 40 y supongo que seguirán la de los 50, 60 y más. A cada crisis toca volver al principio, reinventarse, reestructurarse y sobretodo tener mucha energía con cada vez menos tiempo: familia, obligaciones, y alguna que otra perdida que hacen el día a día mas complicado. Por eso decidí empezar a estudiar algo de finanzas y especulación. Al final gran parte de nuestra actividad solamente se dedica a transformar tiempo dedicado a otros en dinero. ¿Porque no aprender como funciona la fuente? y resulta que  las finanzas son un mundo apasionante, técnico , científico, sociológico, que maneja grandes volúmenes de datos y en los cuales han participado muchas de las mentes mas brillantes de nuestro siglo.
+Cada 10 años llegan las crisis que en mi caso corresponde a la de los 30, de los 40 y supongo que seguirán la de los 50, 60 y más. A cada crisis toca volver al principio, reinventarse, reestructurarse y sobretodo tener mucha energía con cada vez menos tiempo: familia, obligaciones, y alguna que otra perdida que hacen el día a día mas complicado. Por eso decidí empezar a estudiar algo de finanzas y especulación. Al final gran parte de nuestra actividad solamente se dedica a transformar tiempo dedicado a otros en dinero. ¿Porque no aprender como funciona la fuente? y resulta que las finanzas son un mundo apasionante, técnico , científico, sociológico, que maneja grandes volúmenes de datos y en los cuales han participado muchas de las mentes mas brillantes de nuestro siglo.
 
-* [tradin.io]()
+* [tradin.io](./)
 

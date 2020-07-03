@@ -22,7 +22,7 @@ Si falta alguno o si alguna persona no quisiera esta aquí enviarme un email a j
 | ![](../.gitbook/assets/cc-team-marta-pelegrina-danti.jpg-100x100.jpg) | Marta Pelegrina |  |
 | ![](../.gitbook/assets/cc-team-francisca-fernandez-sanabria.jpg-100x100.jpg) | Xesca Fernandez Sanabria |  |
 | ![](../.gitbook/assets/cc-team-ester-garcia-forment.jpg-100x100.jpg) | Ester Forment | [web](https://github.com/Juancoll/gitbook-public/tree/48bb343f52a62335de3dffce7d684295bfe538f2/timeline/estudio3.org/ester-forment/README.md) |
-| ![](../.gitbook/assets/cc-team-caroline-pastor.jpg-100x100.jpg) | Caroline Pastor | [linkedin](https://www.nawak.com/book/caroline-pastor) |
+| ![](../.gitbook/assets/cc-team-caroline-pastor.jpg-100x100.jpg) | Caroline Pastor | [nawak](https://www.nawak.com/book/caroline-pastor) |
 | ![](../.gitbook/assets/cc-team-semolina-tomic.jpg-100x100.jpg) | Semolina Tomic | [wikipedia](https://ca.wikipedia.org/wiki/Semolina_Tomic), [anticteatre](http://www.anticteatre.com/) |
 | ![](../.gitbook/assets/cc-team-jorge-raedo.jpg-100x100.jpg) | Jorge Raodo | [arqa](https://arqa.com/autores/jorge-raedo), [osamenor](http://osamenor10.blogspot.com/) |
 | ![](../.gitbook/assets/cc-team-sergi-faustino.jpg-100x100.jpg) | Sergi Faustino | [lapoderosa](http://lapoderosa.es/es/artista/sergi-faustino) |
@@ -40,10 +40,10 @@ Si falta alguno o si alguna persona no quisiera esta aquí enviarme un email a j
 | ![](../.gitbook/assets/team-peter-ernest-hone.jpg-100x100.jpg) | peter hone | [linkedin](https://www.linkedin.com/in/peter-hone-98705726/) |
 | ![](../.gitbook/assets/team-guillermo-patino-posada.jpg-100x100.jpg) | Guillermo Patiño | [linkedin](https://github.com/Juancoll/gitbook-public/tree/48bb343f52a62335de3dffce7d684295bfe538f2/timeline/linkedin.com/in/guillermo-patiño-motiondesigner/README.md) |
 | ![](../.gitbook/assets/team-dorata-m-rajkowska.jpg-100x100.jpg) | Dorata Rajkowska |  |
-| ![](../.gitbook/assets/team-alex-guevara-trivaldos.jpg-100x100.jpg) | [https://www.linkedin.com/in/thealex/](https://www.linkedin.com/in/thealex/) | [linkedin](https://www.linkedin.com/in/thealex/) |
+| ![](../.gitbook/assets/team-alex-guevara-trivaldos.jpg-100x100.jpg) | Alex Guevara | [linkedin](https://www.linkedin.com/in/thealex/) |
 | ![](../.gitbook/assets/team-artur-marti-fun-sang.jpg-100x100.jpg) | Artur Martí Fun-Sang | [linkedin](equipo.md) |
 | ![](../.gitbook/assets/team-gabriel-font-rodriguez.jpg-100x100.jpg) | Gabriel Font | [linkedin](https://www.linkedin.com/in/arturfunsang/) |
-| ![](../.gitbook/assets/team-cristina-toledo.jpg-100x100.jpg) | Cristina Toledo | [linkedin](https://www.linkedin.com/in/cristina-toledo-42a65730/), |
+| ![](../.gitbook/assets/team-cristina-toledo.jpg-100x100.jpg) | Cristina Toledo | [linkedin](https://www.linkedin.com/in/cristina-toledo-42a65730/), [web](http://www.n-u-e-v-e.com/) |
 | ![](../.gitbook/assets/team-mariano-moscuzza.jpg-100x100.jpg) | Mariano Moscuzza | [linkedin](https://www.linkedin.com/in/mariano-moscuzza-b354321b/), |
 | ![](../.gitbook/assets/team-marc-sturlese-gaya.jpg-100x100.jpg) | Marc Sturlese | [linkedin](https://www.linkedin.com/in/marcsturlese/) |
 | ![](../.gitbook/assets/team-nicolas-garcia-fernandez.jpg-100x100.jpg) | Nicolas Garcia | [linkedin](https://www.linkedin.com/in/nicolas-garcia-1a725118/), [lospajaros](https://github.com/Juancoll/gitbook-public/tree/48bb343f52a62335de3dffce7d684295bfe538f2/timeline/lospajaros.cl) |
@@ -66,6 +66,6 @@ Si falta alguno o si alguna persona no quisiera esta aquí enviarme un email a j
 | ![](../.gitbook/assets/team-marti-freixes-coll.jpg-100x100.jpg) | Marti Freixes | El mejor de los programadores |
 | ![](../.gitbook/assets/team-ahmed-sabbabi-boumahdi.jpg-100x100.jpg) | Ahmed Sabbabi Boumahdi | [linkedin](https://www.linkedin.com/in/ahmed-sabbabi-boumahdi-6015172b/) |
 | ![](../.gitbook/assets/team-luciano-guallart-rodriguez.jpg-100x100.jpg) | Luciano Guallart Rodríguez | [linkedin](https://www.linkedin.com/in/luxmanvj/) |
-| ![](../.gitbook/assets/team-daniel-ramirez-centurion.jpg-100x100.jpg)  | daniel ramirez centurion | [linkedin](https://www.linkedin.com/in/danield76/) |
-| ![](../.gitbook/assets/team-jaume-a.jpg-100x100.jpg)  | Jaume A | [linkedin](https://github.com/Juancoll/gitbook-public/tree/48bb343f52a62335de3dffce7d684295bfe538f2/timeline/linkedin.com/in/jaumea/README.md) |
+| ![](../.gitbook/assets/team-daniel-ramirez-centurion.jpg-100x100.jpg) | daniel ramirez centurion | [linkedin](https://www.linkedin.com/in/danield76/) |
+| ![](../.gitbook/assets/team-jaume-a.jpg-100x100.jpg) | Jaume A | [linkedin](https://github.com/Juancoll/gitbook-public/tree/48bb343f52a62335de3dffce7d684295bfe538f2/timeline/linkedin.com/in/jaumea/README.md) |
 

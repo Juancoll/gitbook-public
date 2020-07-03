@@ -57,7 +57,7 @@ Junto a las funciones impartieron talleres y conferencias.
 
 ### Medellin
 
-![](../../../.gitbook/assets/ca-2006-09-raw-colombia-medellin-1-.jpg) ![](../../../.gitbook/assets/ca-2006-09-raw-colombia-medellin-2-.jpg) ![](../../../.gitbook/assets/ca-2006-09-raw-colombia-medellin-3-.jpg)
+![](../../../.gitbook/assets/ca-2006-09-raw-colombia-medellin-1-.jpg) ![](../../../.gitbook/assets/ca-2006-09-raw-colombia-medellin-2-%20%281%29.jpg) ![](../../../.gitbook/assets/ca-2006-09-raw-colombia-medellin-3-.jpg)
 
 ### Extras
 

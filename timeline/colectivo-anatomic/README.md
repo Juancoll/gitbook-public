@@ -22,5 +22,3 @@ description: El proyecto artístico
 
 {% file src="../../.gitbook/assets/mf-com-conferencia-brasil.pdf" caption="CONFERENCIA BRASIL" %}
 
-
-
