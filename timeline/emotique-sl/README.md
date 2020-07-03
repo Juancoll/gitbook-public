@@ -6,7 +6,7 @@ description: 2004 - 2010
 
 ## Socios Fundadores
 
-| ![](../../.gitbook/assets/emotique-admin-socios-tony.jpg) | ![](../../.gitbook/assets/emotique-admin-socios-oscar.jpg) | ![](../../.gitbook/assets/emotique-admin-socios-alvaro.jpg) | ![](../../.gitbook/assets/emotique-admin-socios-juan.jpg) |
+| ![](../../.gitbook/assets/socios-tony-cabello-miguel.jpg) | ![](../../.gitbook/assets/socios-oscar-fernandez-barracel-1-.jpg) | ![](../../.gitbook/assets/socios-alvaro-una-resa-1-.jpg) | ![](../../.gitbook/assets/socios-juan-coll-soler-1-.jpg) |
 | :--- | :--- | :--- | :--- |
 | Tony Cabello Miguel | Oscar Fernández Barracel | Alvaro Uña Resa | Juan Coll Soler |
 
