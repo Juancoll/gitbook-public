@@ -44,6 +44,12 @@
 
 {% embed url="https://youtu.be/enpWhCoft\_8" caption="" %}
 
+## 2017
+
+### VIDEO WALL INTERACTIVO - RYATH \(Trison\)
+
+![](../../.gitbook/assets/nexcom-2017-09-trison-ryat-0-.png)
+
 ## 2018
 
 ### Showroom Trison \(BCN\)
