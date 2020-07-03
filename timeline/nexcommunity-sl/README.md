@@ -47,16 +47,10 @@
 ### v1
 
 ![](../../.gitbook/assets/nexcom-com-nexsetup.jpg)
-
 ![](../../.gitbook/assets/nexcom-com-nexshooting_logo.jpg)
-
 ![](../../.gitbook/assets/nexcom-com-nexfrequency_logo.jpg)
-
 ![](../../.gitbook/assets/nexcom-com-nexcoding_logo.jpg)
-
 ![](../../.gitbook/assets/nexcom-com-nexframes_logo.jpg)
-
 ![](../../.gitbook/assets/nexcom-com-nexpixel_logo.jpg)
-
 ![](../../.gitbook/assets/nexcom-com-nex_under.png)
 
