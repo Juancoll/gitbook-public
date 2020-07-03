@@ -50,23 +50,23 @@
 
 ![](../../.gitbook/assets/nexcom-2017-09-trison-ryat-0-.png)
 
-![](../../.gitbook/assets/nexcom-2017-09-trison-ryat-1-.png)
+![](https://github.com/Juancoll/gitbook-public/tree/77a37d2c2af4adecd7b86e323a8dab9d213a5073/.gitbook/assets/nexcom-2017-09-trison-ryat-1-.png)
 
-![](../../.gitbook/assets/nexcom-2017-09-trison-ryat-2-.png)
+![](https://github.com/Juancoll/gitbook-public/tree/77a37d2c2af4adecd7b86e323a8dab9d213a5073/.gitbook/assets/nexcom-2017-09-trison-ryat-2-.png)
 
-![](../../.gitbook/assets/nexcom-2017-09-trison-ryat-4-.png)
+![](https://github.com/Juancoll/gitbook-public/tree/77a37d2c2af4adecd7b86e323a8dab9d213a5073/.gitbook/assets/nexcom-2017-09-trison-ryat-4-.png)
 
-![](../../.gitbook/assets/nexcom-2017-09-trison-ryat-5-.png)
+![](https://github.com/Juancoll/gitbook-public/tree/77a37d2c2af4adecd7b86e323a8dab9d213a5073/.gitbook/assets/nexcom-2017-09-trison-ryat-5-.png)
 
-![](../../.gitbook/assets/nexcom-2017-09-trison-ryat-6-.png)
+![](https://github.com/Juancoll/gitbook-public/tree/77a37d2c2af4adecd7b86e323a8dab9d213a5073/.gitbook/assets/nexcom-2017-09-trison-ryat-6-.png)
 
-![](../../.gitbook/assets/nexcom-2017-09-trison-ryat-7-.png)
+![](https://github.com/Juancoll/gitbook-public/tree/77a37d2c2af4adecd7b86e323a8dab9d213a5073/.gitbook/assets/nexcom-2017-09-trison-ryat-7-.png)
 
 ## 2018
 
 ### Showroom Trison \(BCN\)
 
-![](../../.gitbook/assets/nexcom-xxxx-xx-trison-showroom-1-.jpg)
+{% embed url="https://youtu.be/WCVI7KnmbkE" %}
 
 ![](../../.gitbook/assets/nexcom-xxxx-xx-trison-showroom-2-.jpg)
 
@@ -76,15 +76,7 @@
 
 ![](../../.gitbook/assets/nexcom-xxxx-xx-trison-showroom-5-.jpg)
 
-![](../../.gitbook/assets/nexcom-xxxx-xx-trison-showroom-6-.jpg)
-
 ![](../../.gitbook/assets/nexcom-xxxx-xx-trison-showroom-7-.jpg)
 
 ![](../../.gitbook/assets/nexcom-xxxx-xx-trison-showroom-8-.jpg)
-
-![](../../.gitbook/assets/nexcom-xxxx-xx-trison-showroom-9-.jpg)
-
-
-
-
 
