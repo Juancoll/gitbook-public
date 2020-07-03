@@ -86,6 +86,8 @@
 
 ## Medias
 
+{% embed url="https://youtu.be/YZARZa6vUjQ" %}
+
 ![](../../.gitbook/assets/nexcom-header-avs.jpg)
 
 ![](../../.gitbook/assets/nexcom-header-coding.jpg)

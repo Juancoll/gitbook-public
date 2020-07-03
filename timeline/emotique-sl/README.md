@@ -10,6 +10,8 @@ description: 2004 - 2010
 | :--- | :--- | :--- | :--- |
 | Tony Cabello Miguel | Oscar Fernández Barracel | Alvaro Uña Resa | Juan Coll Soler |
 
+
+
 ## Presentación
 
 ![](../../.gitbook/assets/emotique-presentacion-ficha.jpg)
