@@ -27,7 +27,6 @@
     * [projects](timeline/mediaflow-events-sl/projects.md)
     * [works](timeline/mediaflow-events-sl/works.md)
   * [Nexcommunity SL](timeline/nexcommunity-sl/README.md)
-    * [Conferences](timeline/nexcommunity-sl/conferences.md)
     * [products](timeline/nexcommunity-sl/products.md)
     * [works](timeline/nexcommunity-sl/works.md)
   * [Nexcode SL](timeline/nexcode-sl.md)

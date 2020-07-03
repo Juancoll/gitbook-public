@@ -15,7 +15,7 @@
 
 {% embed url="https://youtu.be/DvVH0ID-ndg" caption="Video Concept" %}
 
-
+{% file src="../.gitbook/assets/nexcode-nexwarp-software-description.pdf" caption="SOFTWARE DESCRIPTION" %}
 
 
 
