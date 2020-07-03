@@ -13,7 +13,6 @@
 * Dirección Audiovisual
 * Realización y Producción de Vídeo 
 * Advanced Video Systems: Proyectos Relacionados con cualquier tipo de grabación o interacción de vídeo: realidad virtual, slow motion, Bullet Time, Drones, etc...
-* 
 
 | ![](../../.gitbook/assets/team-miquel-angel-raio.jpg-100x100.jpg) | Miquel Angel Raió.jpg | [linkedin](https://www.linkedin.com/in/miquel-%C3%A0ngel-rai%C3%B3-95420961/) |
 | :--- | :--- | :--- |
@@ -32,17 +31,16 @@
 
 | ![](../../.gitbook/assets/team-marta-mejias-guerrero.jpg-100x100.jpg) | Marta Mejías Guerrero | [linkedin](https://www.linkedin.com/in/marta-mejias/) |
 | :--- | :--- | :--- |
-| ![](../../.gitbook/assets/team-eduardo-miravalles.jpg-100x100.jpg) | Eduardo Miravalles (externo pero siempre presente) | [vamosestudio](http://www.vamosestudio.com/) |
+| ![](../../.gitbook/assets/team-eduardo-miravalles.jpg-100x100.jpg) | Eduardo Miravalles \(externo pero siempre presente\) | [vamosestudio](http://www.vamosestudio.com/) |
 
 ### Técnica
 
-| ![](../../.gitbook/assets/team-cayetano-gomez-lucena.jpg-100x100.jpg) |  Cayetano Gómez Lucena | [linkedin](https://www.linkedin.com/in/cayetano-g%C3%B3mez-lucena-6745b16a/)
+| ![](../../.gitbook/assets/team-cayetano-gomez-lucena.jpg-100x100.jpg) | Cayetano Gómez Lucena | [linkedin](https://www.linkedin.com/in/cayetano-g%C3%B3mez-lucena-6745b16a/) |
 | :--- | :--- | :--- |
-| ![](../../.gitbook/assets/socios-jorge-lopez-lopez-gay.jpg-100x100.jpg) | Jorge Lopez Lopez-Gay |  [linkedin](https://www.linkedin.com/in/jorge-l%C3%B3pez-l%C3%B3pez-gay-b977103b/) |
+| ![](../../.gitbook/assets/socios-jorge-lopez-lopez-gay.jpg-100x100.jpg) | Jorge Lopez Lopez-Gay | [linkedin](https://www.linkedin.com/in/jorge-l%C3%B3pez-l%C3%B3pez-gay-b977103b/) |
 | ![](../../.gitbook/assets/socios-bartolome-fiol-arguimbau-2-.jpg-100x100.jpg) | Tomeu Fiol | [linkedin](https://www.linkedin.com/in/tomeu-fiol-arguimbau-5ab15a49/) |
 
 ### Motion Grafics & 3D
-
 
 | ![](../../.gitbook/assets/team-jorge-alia-olague.jpg-100x100.jpg) | Jorge Alia Olague | [flufa](https://flufa.bandcamp.com/) |
 | :--- | :--- | :--- |
@@ -54,7 +52,17 @@
 
 {% file src="../../.gitbook/assets/mf-com-conferencia-panasonic-low.pdf" caption="CONFERENCIA PROYECCIÓN \(PANASONIC\)" %}
 
-## Brands
+## Medias
+
+### headers
+
+![](../../.gitbook/assets/nexcom-header-avs.jpg)
+
+![](../../.gitbook/assets/nexcom-header-coding.jpg)
+
+![](../../.gitbook/assets/nexcom-header-audio.jpg)
+
+![](../../.gitbook/assets/nexcom-header-tecnics.jpg)
 
 ### v2
 
