@@ -47,7 +47,27 @@ Autores
 
 ## El Narrador
 
-![](../../../.gitbook/assets/shine-studies-theory-15-.jpg)
+![](../../../.gitbook/assets/shine-studies-theory-15-%20%281%29.jpg)
+
+## Apertura
+
+![](../../../.gitbook/assets/shine-studies-theory-21-.jpg)
+
+![](../../../.gitbook/assets/shine-studies-theory-22-.jpg)
+
+![](../../../.gitbook/assets/shine-studies-theory-23-.jpg)
+
+![](../../../.gitbook/assets/shine-studies-theory-24-.jpg)
 
 ## El Color
+
+![](../../../.gitbook/assets/shine-studies-theory-16-.jpg)
+
+![](../../../.gitbook/assets/shine-studies-theory-17-.jpg)
+
+![](../../../.gitbook/assets/shine-studies-theory-18-.jpg)
+
+![](../../../.gitbook/assets/shine-studies-theory-19-.jpg)
+
+![](../../../.gitbook/assets/shine-studies-theory-20-.jpg)
 
