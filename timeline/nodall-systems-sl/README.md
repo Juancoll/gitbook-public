@@ -4,6 +4,8 @@ description: Startup junto con Hotusa Ventures - Shine
 
 # Nodall Systems SL
 
+![](../../.gitbook/assets/shine-product-bcn-bcndesign-34-.jpg)
+
 ## El Proyecto
 
 Shine es el primer proyecto y producto de Nodall Systems.
