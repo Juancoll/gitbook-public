@@ -68,4 +68,12 @@ Si falta alguno o si alguna persona no quisiera esta aquí enviarme un email a j
 | ![](../.gitbook/assets/team-luciano-guallart-rodriguez.jpg-100x100.jpg) | Luciano Guallart Rodríguez | [linkedin](https://www.linkedin.com/in/luxmanvj/) |
 | ![](../.gitbook/assets/team-daniel-ramirez-centurion.jpg-100x100.jpg) | daniel ramirez centurion | [linkedin](https://www.linkedin.com/in/danield76/) |
 | ![](../.gitbook/assets/team-jaume-a.jpg-100x100.jpg) | Jaume A | [linkedin](https://github.com/Juancoll/gitbook-public/tree/48bb343f52a62335de3dffce7d684295bfe538f2/timeline/linkedin.com/in/jaumea/README.md) |
-
+| ![](../../.gitbook/assets/team-miquel-angel-raio.jpg-100x100.jpg) | Miquel Angel Raió.jpg | [linkedin](https://www.linkedin.com/in/miquel-%C3%A0ngel-rai%C3%B3-95420961/) |
+| ![](../../.gitbook/assets/team-daniel-marin-viciana.jpg-100x100.jpg) | Daniel Marin Viciana | [linkedin](https://www.linkedin.com/in/daniel-marin-viciana-81580540/) |
+| ![](../../.gitbook/assets/team-ale-martin.jpg-100x100.jpg) | Ale Marin | [linkedin](https://www.linkedin.com/in/alejandro-martin-ruiz-185882150/) |
+| ![](../../.gitbook/assets/team-pablo-moreno-guerrero.jpg-100x100.jpg) | Pablo Moreno Guerrero | [linkedin](https://www.linkedin.com/in/pablo-moreno-guerrero-44a059a8/) |
+| ![](../../.gitbook/assets/team-manel-ruiz.jpg-100x100.jpg) | Manel Ruiz | [instagram](https://www.instagram.com/6tma/?hl=es) |
+| ![](../../.gitbook/assets/team-marta-mejias-guerrero.jpg-100x100.jpg) | Marta Mejías Guerrero | [linkedin](https://www.linkedin.com/in/marta-mejias/) |
+| ![](../../.gitbook/assets/team-eduardo-miravalles.jpg-100x100.jpg) | Eduardo Miravalles \(externo pero siempre presente\) | [vamosestudio](http://www.vamosestudio.com/) |
+| ![](../../.gitbook/assets/team-cayetano-gomez-lucena.jpg-100x100.jpg) | Cayetano Gómez Lucena | [linkedin](https://www.linkedin.com/in/cayetano-g%C3%B3mez-lucena-6745b16a/) |
+| ![](../../.gitbook/assets/team-jorge-alia-olague.jpg-100x100.jpg) | Jorge Alia Olague | [flufa](https://flufa.bandcamp.com/) |
