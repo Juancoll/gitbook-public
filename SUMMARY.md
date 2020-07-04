@@ -47,6 +47,7 @@
       * [Graphic Design](timeline/nodall-systems-sl/studies/graphic-design.md)
       * [Struct24](timeline/nodall-systems-sl/studies/struct24.md)
       * [Others](timeline/nodall-systems-sl/studies/others.md)
+    * [Next](timeline/nodall-systems-sl/next.md)
   * [tradin.io](timeline/tradin.io.md)
   * [team](timeline/equipo.md)
 * [Programming](programming/README.md)
@@ -56,7 +57,7 @@
   * [nexwarp](programming/nexwarp.md)
   * [Kinect Fountain](programming/kinect-fountain.md)
   * [shine](programming/shine.md)
-  * [web](programming/web.md)
+  * [websockets](programming/web.md)
 * [Blog](blog.md)
 * [Resources](resources.md)
 
