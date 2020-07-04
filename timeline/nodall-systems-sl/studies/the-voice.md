@@ -1,4 +1,12 @@
-# The voice
+# Humanization
+
+## Typography - Personality
+
+![](../../../.gitbook/assets/shine-studies-estudio-tipografico-personalidad-in-progress-.jpg)
+
+{% file src="../../../.gitbook/assets/shine-studies-estudio-tipografico-personalidad-in-progress-.pdf" caption="DOCUMENT \(es\)" %}
+
+## The Voice
 
 \(charla TED que habla sobre los elementos que componen la voz, útil para entender cómo Room debe “hablar” \(a través de tipografía, color, respiración, notas de piano…\).
 
