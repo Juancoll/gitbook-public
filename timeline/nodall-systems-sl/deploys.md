@@ -26,6 +26,8 @@
 
 ### Gran Marina
 
+![](../../.gitbook/assets/shine-deploy-bcn-gran-marina-8-.jpg)
+
 ### Eurostars Monumental
 
 ## Madrid
