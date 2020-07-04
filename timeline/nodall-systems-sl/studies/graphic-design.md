@@ -38,7 +38,20 @@ autores
 
 ## Mood V1
 
-
+![](../../../.gitbook/assets/shine-studies-gfx-design-13-.jpg)
+![](../../../.gitbook/assets/shine-studies-gfx-design-14-.jpg)
+![](../../../.gitbook/assets/shine-studies-gfx-design-15-.jpg)
+![](../../../.gitbook/assets/shine-studies-gfx-design-16-.jpg)
+![](../../../.gitbook/assets/shine-studies-gfx-design-17-.jpg)
+![](../../../.gitbook/assets/shine-studies-gfx-design-18-.jpg)
+![](../../../.gitbook/assets/shine-studies-gfx-design-19-.jpg)
+![](../../../.gitbook/assets/shine-studies-gfx-design-20-.jpg)
+![](../../../.gitbook/assets/shine-studies-gfx-design-21-.jpg)
+![](../../../.gitbook/assets/shine-studies-gfx-design-22-.jpg)
+![](../../../.gitbook/assets/shine-studies-gfx-design-23-.jpg)
+![](../../../.gitbook/assets/shine-studies-gfx-design-24-.jpg)
+![](../../../.gitbook/assets/shine-studies-gfx-design-25-.jpg)
+![](../../../.gitbook/assets/shine-studies-gfx-design-26-.jpg)
 
 ## Mood V2
 
