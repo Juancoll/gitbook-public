@@ -58,8 +58,4 @@
     * [financial markets](resources/books/financial-markets.md)
     * [business](resources/books/business.md)
     * [technical analysis](resources/books/technical-analysis.md)
-  * [courses](resources/courses/README.md)
-    * [the trading way](resources/courses/the-trading-way.md)
-    * [el crypto pana](resources/courses/el-crypto-pana.md)
-    * [trading united](resources/courses/trading-united.md)
 

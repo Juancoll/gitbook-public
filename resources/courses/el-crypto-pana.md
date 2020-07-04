@@ -1,2 +1,0 @@
-# el crypto pana
-
