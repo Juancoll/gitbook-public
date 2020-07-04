@@ -39,6 +39,7 @@
       * [Nodall concept](timeline/nodall-systems-sl/studies/nodall-concept.md)
       * [The Player](timeline/nodall-systems-sl/studies/the-player.md)
       * [Theory](timeline/nodall-systems-sl/studies/theory.md)
+      * [The voice](timeline/nodall-systems-sl/studies/the-voice.md)
       * [User Mood](timeline/nodall-systems-sl/studies/user-mood.md)
       * [Human Computer Interface](timeline/nodall-systems-sl/studies/human-computer-interface.md)
       * [Nodall Computer Interface](timeline/nodall-systems-sl/studies/nodall-computer-interface.md)
