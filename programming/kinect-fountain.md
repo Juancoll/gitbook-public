@@ -8,3 +8,7 @@ El software se creo para el control de una matrix de surtidores de agua mediante
 
 {% embed url="https://youtu.be/8mgQBPl-rmU" caption="" %}
 
+{% embed url="https://www.edlcreativegroup.com/" %}
+
+
+

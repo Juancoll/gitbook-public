@@ -58,9 +58,5 @@
   * [shine](programming/shine.md)
   * [web](programming/web.md)
 * [Blog](blog.md)
-* [Resources](resources/README.md)
-  * [books](resources/books/README.md)
-    * [financial markets](resources/books/financial-markets.md)
-    * [business](resources/books/business.md)
-    * [technical analysis](resources/books/technical-analysis.md)
+* [Resources](resources.md)
 
