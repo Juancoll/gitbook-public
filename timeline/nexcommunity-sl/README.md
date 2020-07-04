@@ -76,7 +76,7 @@
 
 | ![](https://github.com/Juancoll/gitbook-public/tree/e0ac285fdb9864b45230b461a70eae1dfd2f5641/timeline/.gitbook/assets/socios-pau-vivancos.jpg-100x100.jpg) | ![](https://github.com/Juancoll/gitbook-public/tree/e0ac285fdb9864b45230b461a70eae1dfd2f5641/timeline/.gitbook/assets/socios-juan-coll-soler-2-.jpg-100x100.jpg) |
 | :--- | :--- |
-| Pau Vivancos | Juan Coll \(hasta verano 2019\) |
+| Pau Vivancos | Juan Coll |
 
 ## Docs
 
