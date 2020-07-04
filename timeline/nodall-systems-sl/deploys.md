@@ -4,6 +4,8 @@
 
 ### BCNDesign
 
+![](../../.gitbook/assets/shine-product-bcn-bcndesign-28-.jpg)
+
 ### Eurostars Ramblas
 
 ### Gran Marina
