@@ -2,7 +2,7 @@
 description: Desarrollos para el colectivo anatomic
 ---
 
-# Arte y Tecnologia
+# arte y tecnologia
 
 ## PDA's - instrumento musical y control de espectáculos
 
