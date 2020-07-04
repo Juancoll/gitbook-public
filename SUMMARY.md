@@ -43,6 +43,7 @@
       * [Human Computer Interface](timeline/nodall-systems-sl/studies/human-computer-interface.md)
       * [Nodall Computer Interface](timeline/nodall-systems-sl/studies/nodall-computer-interface.md)
       * [Graphic Design](timeline/nodall-systems-sl/studies/graphic-design.md)
+      * [Struct24](timeline/nodall-systems-sl/studies/struct24.md)
   * [tradin.io](timeline/tradin.io.md)
   * [team](timeline/equipo.md)
 * [Programming](programming/README.md)
