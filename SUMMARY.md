@@ -41,6 +41,7 @@
       * [Theory](timeline/nodall-systems-sl/studies/theory.md)
       * [User Mood](timeline/nodall-systems-sl/studies/user-mood.md)
       * [Human Computer Interface](timeline/nodall-systems-sl/studies/human-computer-interface.md)
+      * [Nodall Computer Interface](timeline/nodall-systems-sl/studies/nodall-computer-interface.md)
   * [tradin.io](timeline/tradin.io.md)
   * [team](timeline/equipo.md)
 * [Programming](programming/README.md)
