@@ -45,3 +45,9 @@ Autores
 
 
 
+## El Narrador
+
+![](../../../.gitbook/assets/shine-studies-theory-15-.jpg)
+
+## El Color
+
