@@ -38,6 +38,7 @@
     * [Studies](timeline/nodall-systems-sl/studies/README.md)
       * [Nodall concept](timeline/nodall-systems-sl/studies/nodall-concept.md)
       * [The Player](timeline/nodall-systems-sl/studies/the-player.md)
+      * [Theory](timeline/nodall-systems-sl/studies/theory.md)
   * [tradin.io](timeline/tradin.io.md)
   * [team](timeline/equipo.md)
 * [Programming](programming/README.md)

@@ -4,9 +4,13 @@ description: Desarrollos para el colectivo anatomic
 
 # arte y tecnologia
 
+{% embed url="https://www.youtube.com/watch?v=B3fm4PX\_wKk&feature=emb\_logo" %}
+
 ## PDA's - instrumento musical y control de espectáculos
 
 ## Eye's Guitar
+
+
 
 ## Air Guitar
 
