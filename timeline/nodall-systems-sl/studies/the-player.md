@@ -2,6 +2,10 @@
 
 ## Imaio
 
+{% file src="../../../.gitbook/assets/shine-studies-player-imaio.pdf" caption="DOCUMENT \(pdf\)" %}
+
+
+
 ![](../../../.gitbook/assets/shine-studies-player-imaio-1-.jpg)
 
 ![](../../../.gitbook/assets/shine-studies-player-imaio-11-.jpg)

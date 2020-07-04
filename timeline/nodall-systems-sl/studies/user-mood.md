@@ -12,3 +12,5 @@
 
 ![](../../../.gitbook/assets/shine-studies-user-mood-6-.jpg)
 
+{% file src="../../../.gitbook/assets/shine-studies-user-mood-playlists.pdf" caption="PLAYLISTS SAMPLES" %}
+

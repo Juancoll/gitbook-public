@@ -36,3 +36,7 @@ In a Hotel Room, What if
 
 
 
+{% file src="../../../.gitbook/assets/shine-studies-nodall-concept-first-presentation.pdf" caption="FIRST PROJECT PRESENTATION" %}
+
+
+

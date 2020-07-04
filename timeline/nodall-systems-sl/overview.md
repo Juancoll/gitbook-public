@@ -12,6 +12,8 @@
 
 ## Brochure
 
+{% file src="../../.gitbook/assets/shine-com-overview-brochure.pdf" caption="DOCUMENT \(pdf\)" %}
+
 ![](../../.gitbook/assets/shine-com-folleto-1-.jpg)
 
 ![](../../.gitbook/assets/shine-com-folleto-2-.jpg)

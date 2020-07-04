@@ -5,7 +5,13 @@ Autores
 * Miquel Angel Raio \(conceptos\)
 * Marta Mejias \(diseño\)
 
+{% file src="../../../.gitbook/assets/shine-studies-theory-moor-full.pdf" caption="FULL DOCUMENT \(pdf\)" %}
+
 ## Contexto
+
+{% embed url="https://cinesentido.blogspot.com/2013/04/deleuze-y-la-imagen-cinematografica.html" %}
+
+
 
 ![](../../../.gitbook/assets/shine-studies-theory-1-.jpg)
 
@@ -70,4 +76,14 @@ Autores
 ![](../../../.gitbook/assets/shine-studies-theory-19-.jpg)
 
 ![](../../../.gitbook/assets/shine-studies-theory-20-.jpg)
+
+{% file src="../../../.gitbook/assets/shine-studies-gfx-design-color.pdf" caption="DOCUMENT \(pdf\)" %}
+
+
+
+Espacio 
+
+{% embed url="https://issuu.com/mota\_arquitectos/docs/4.-\_funcion\_y\_espacio\_arquitectonico" %}
+
+
 

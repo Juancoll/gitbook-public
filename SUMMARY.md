@@ -46,6 +46,7 @@
       * [Nodall Computer Interface](timeline/nodall-systems-sl/studies/nodall-computer-interface.md)
       * [Graphic Design](timeline/nodall-systems-sl/studies/graphic-design.md)
       * [Struct24](timeline/nodall-systems-sl/studies/struct24.md)
+      * [Others](timeline/nodall-systems-sl/studies/others.md)
   * [tradin.io](timeline/tradin.io.md)
   * [team](timeline/equipo.md)
 * [Programming](programming/README.md)
