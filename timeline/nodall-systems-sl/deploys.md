@@ -22,10 +22,7 @@
 
 ### Eurostars Ramblas
 
-![](../../.gitbook/assets/shine-deploy-bcn-ramblas-1-.jpg)
-![](../../.gitbook/assets/shine-deploy-bcn-ramblas-2-.jpg)
-![](../../.gitbook/assets/shine-deploy-bcn-ramblas-3-.jpg)
-![](../../.gitbook/assets/shine-deploy-bcn-ramblas-4-.jpg)
+![](../../.gitbook/assets/shine-deploy-bcn-ramblas-1-.jpg) ![](../../.gitbook/assets/shine-deploy-bcn-ramblas-2-.jpg) ![](../../.gitbook/assets/shine-deploy-bcn-ramblas-3-.jpg) ![](../../.gitbook/assets/shine-deploy-bcn-ramblas-4-.jpg)
 
 ### Gran Marina
 
@@ -35,28 +32,19 @@
 
 ![](../../.gitbook/assets/shine-deploy-bcn-gran-marina-5-.jpg)
 
-![](../../.gitbook/assets/shine-deploy-bcn-gran-marina-2-.jpg)
-![](../../.gitbook/assets/shine-deploy-bcn-gran-marina-6-.jpg)
-![](../../.gitbook/assets/shine-deploy-bcn-gran-marina-7-.jpg)
-![](../../.gitbook/assets/shine-deploy-bcn-gran-marina-8-.jpg)
+![](../../.gitbook/assets/shine-deploy-bcn-gran-marina-2-.jpg) ![](../../.gitbook/assets/shine-deploy-bcn-gran-marina-6-.jpg) ![](../../.gitbook/assets/shine-deploy-bcn-gran-marina-7-.jpg) ![](../../.gitbook/assets/shine-deploy-bcn-gran-marina-8-.jpg)
 
 ![](../../.gitbook/assets/shine-deploy-bcn-gran-marina-10-.jpg)
 
-![](../../.gitbook/assets/shine-deploy-bcn-gran-marina-11-.jpg)
-![](../../.gitbook/assets/shine-deploy-bcn-gran-marina-12-.jpg)
-![](../../.gitbook/assets/shine-deploy-bcn-gran-marina-13-.jpg)
-![](../../.gitbook/assets/shine-deploy-bcn-gran-marina-14-.jpg)
-![](../../.gitbook/assets/shine-deploy-bcn-gran-marina-15-.jpg)
-![](../../.gitbook/assets/shine-deploy-bcn-gran-marina-16-.jpg)
+![](../../.gitbook/assets/shine-deploy-bcn-gran-marina-11-.jpg) ![](../../.gitbook/assets/shine-deploy-bcn-gran-marina-12-.jpg) ![](../../.gitbook/assets/shine-deploy-bcn-gran-marina-13-.jpg) ![](../../.gitbook/assets/shine-deploy-bcn-gran-marina-14-.jpg) ![](../../.gitbook/assets/shine-deploy-bcn-gran-marina-15-.jpg) ![](../../.gitbook/assets/shine-deploy-bcn-gran-marina-16-.jpg)
 
 ![](../../.gitbook/assets/shine-deploy-bcn-gran-marina-17-.jpg)
 
-![](../../.gitbook/assets/shine-deploy-bcn-gran-marina-18-.jpg)
-![](../../.gitbook/assets/shine-deploy-bcn-gran-marina-19-.jpg)
-![](../../.gitbook/assets/shine-deploy-bcn-gran-marina-20-.jpg)
-![](../../.gitbook/assets/shine-deploy-bcn-gran-marina-9-.jpg)
+![](../../.gitbook/assets/shine-deploy-bcn-gran-marina-18-.jpg) ![](../../.gitbook/assets/shine-deploy-bcn-gran-marina-19-.jpg) ![](../../.gitbook/assets/shine-deploy-bcn-gran-marina-20-.jpg) ![](../../.gitbook/assets/shine-deploy-bcn-gran-marina-9-.jpg)
 
 ### Eurostars Monumental
+
+![](../../.gitbook/assets/shine-deploy-bcn-monumental-1-.jpg)
 
 ## Madrid
 
