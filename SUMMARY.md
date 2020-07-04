@@ -35,6 +35,7 @@
     * [Key Values](timeline/nodall-systems-sl/key-values.md)
     * [The product](timeline/nodall-systems-sl/the-product.md)
     * [Deploys](timeline/nodall-systems-sl/deploys.md)
+    * [Medias](timeline/nodall-systems-sl/medias.md)
     * [Studies](timeline/nodall-systems-sl/studies/README.md)
       * [Nodall concept](timeline/nodall-systems-sl/studies/nodall-concept.md)
       * [The Player](timeline/nodall-systems-sl/studies/the-player.md)
