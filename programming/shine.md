@@ -2,5 +2,5 @@
 description: Smart Hotel Room
 ---
 
-# shine
+# Shine
 
