@@ -1,2 +1,0 @@
-# Centry - Control Panel
-

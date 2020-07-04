@@ -1,4 +1,0 @@
-# The Mobile App
-
-T
-
