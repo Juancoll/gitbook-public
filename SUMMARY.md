@@ -43,7 +43,7 @@
   * [tradin.io](timeline/tradin.io.md)
   * [team](timeline/equipo.md)
 * [Programming](programming/README.md)
-  * [Arte y Tecnologia](programming/arte-y-tecnologia.md)
+  * [arte y tecnologia](programming/arte-y-tecnologia.md)
   * [ooo - programación visual](programming/ooo-programacion-visual.md)
   * [mediaflow software](programming/mediaflow.md)
   * [nexwarp](programming/nexwarp.md)
