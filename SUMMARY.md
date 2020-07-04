@@ -48,7 +48,7 @@
   * [mediaflow software](programming/mediaflow.md)
   * [nexwarp](programming/nexwarp.md)
   * [Kinect Fountain](programming/kinect-fountain.md)
-  * [Shine](programming/shine.md)
+  * [shine](programming/shine.md)
   * [web](programming/web.md)
   * [quant](programming/quant.md)
 * [Blog](blog/README.md)
