@@ -60,5 +60,5 @@
   * [websockets](programming/web.md)
 * [Blog](blog.md)
 * [Resources](resources/README.md)
-  * [Tareas](resources/tareas.md)
+  * [\(Interno \) Tareas](resources/tareas.md)
 
