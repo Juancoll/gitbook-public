@@ -33,6 +33,7 @@ Si falta alguno o si alguna persona no quisiera esta aquí enviarme un email a j
 
 | ![](../.gitbook/assets/team-antonia-santos-hurtado.jpg-100x100.jpg) | Antonia Santos | La madre de todo los proyectos |
 | :--- | :--- | :--- |
+| ![](../.gitbook/assets/team-gerard-rallo-100x100.jpg)  | Gerard Rallo | [web](https://www.gerardrallo.net/), [linkedin](https://www.linkedin.com/in/gerardrallo/) |
 | ![](../.gitbook/assets/team-pablo-baras-de-castro.jpg-100x100.jpg) | Pablo Baras de Castro |  |
 | ![](../.gitbook/assets/team-sergi-soley-soler.jpg-100x100.jpg) | Sergi Soley Soler | [linkedin](https://www.linkedin.com/in/sergisoley/) |
 | ![](../.gitbook/assets/team-rafael-conzalez-perez.jpg-100x100.jpg) | Rafa Gonzalez Perez |  |
@@ -77,4 +78,12 @@ Si falta alguno o si alguna persona no quisiera esta aquí enviarme un email a j
 | ![](../.gitbook/assets/team-eduardo-miravalles.jpg-100x100.jpg) | Eduardo Miravalles \(externo pero siempre presente\) | [vamosestudio](http://www.vamosestudio.com/) |
 | ![](../.gitbook/assets/team-cayetano-gomez-lucena.jpg-100x100.jpg) | Cayetano Gómez Lucena | [linkedin](https://www.linkedin.com/in/cayetano-g%C3%B3mez-lucena-6745b16a/) |
 | ![](../.gitbook/assets/team-jorge-alia-olague.jpg-100x100.jpg) | Jorge Alia Olague | [flufa](https://flufa.bandcamp.com/) |
+
+## Empresa Gemela
+
+{% embed url="https://www.linkedin.com/in/ignacio-de-juan-creix-umbert-10542230/" %}
+
+{% embed url="http://estruc24.com/" %}
+
+
 
