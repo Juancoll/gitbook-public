@@ -4,6 +4,8 @@ MediaFlow a sido nuestra solucion de mapping, multi proyector, multiordenador pa
 
 Se han llegado a trabajar con resoluciones de 52 000 Pixeles.
 
+![](../.gitbook/assets/mf-com-overview-face-a.jpg)
+
 ![](../.gitbook/assets/mf-com-setups.jpg)
 
 {% file src="../.gitbook/assets/mf-product-manual.pdf" caption="MANUAL \(Antiguo\) " %}

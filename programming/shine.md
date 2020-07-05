@@ -48,11 +48,11 @@ description: Smart Hotel Room
 
 ## devops
 
-#### Pipelines \([https://dev.azure.com/nodall-dev/Shine/\_build](https://dev.azure.com/nodall-dev/Shine/_build)\)
+#### Pipelines 
 
 ![](../.gitbook/assets/program-shine-devops-1-.jpg)
 
-#### Management Projects \([https://dev.azure.com/nodall-dev/](https://dev.azure.com/nodall-dev/)\)
+#### Management Projects 
 
 ![](../.gitbook/assets/program-shine-devops-2-.jpg)
 
