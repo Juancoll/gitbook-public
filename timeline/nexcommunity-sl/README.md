@@ -74,9 +74,9 @@
 
 ### Programación
 
-| ![](https://github.com/Juancoll/gitbook-public/tree/e0ac285fdb9864b45230b461a70eae1dfd2f5641/timeline/.gitbook/assets/socios-pau-vivancos.jpg-100x100.jpg) | ![](https://github.com/Juancoll/gitbook-public/tree/e0ac285fdb9864b45230b461a70eae1dfd2f5641/timeline/.gitbook/assets/socios-juan-coll-soler-2-.jpg-100x100.jpg) |
-| :--- | :--- |
-| Pau Vivancos | Juan Coll |
+| ![](../../.gitbook/assets/socios-pau-vivancos.jpg-100x100.jpg) | Pau Vivancos | [likedin](https://www.linkedin.com/in/pauvivancos/), [web](http://nexcode.io/) |
+| :--- | :--- | :--- |
+| ![](../../.gitbook/assets/socios-juan-coll-soler-2-.jpg-100x100.jpg) | Juan Coll |  |
 
 ## Docs
 

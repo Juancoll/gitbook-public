@@ -6,9 +6,11 @@ description: Overview
 
 Nacido en 1978, de padre físico teórico y madre asistente social, con estudios entre París y Barcelona de Matemática, Informática, Arte \(Pintura\) y Música. ​
 
-## 2002-2005 - Profesor de física en la escuela de ingeniería La Salle \(Barcelona\)​
+## Destacados
 
-## **2003-2007** - Compañía de teatro de arte y tecnología – El colectivo Anatomic.
+### 2002-2005 - Profesor de física en la escuela de ingeniería La Salle \(Barcelona\)​
+
+### **2003-2007** - Compañía de teatro de arte y tecnología – El colectivo Anatomic.
 
 **Desarrollos destacados**
 
@@ -16,7 +18,7 @@ Nacido en 1978, de padre físico teórico y madre asistente social, con estudios
 * El ojo como pedal de distorsión de guitarra.\([ver](programming/arte-y-tecnologia.md#eyes-guitar)\)
 * El Air Guitar.\([ver](programming/arte-y-tecnologia.md#air-guitar)\)
 
-## **2004 – 2017** Fundador y co-fundador de varias empresas de software y contenidos
+### **2004 – 2017** Fundador y co-fundador de varias empresas de software y contenidos
 
 **Empresas**
 
@@ -35,7 +37,15 @@ Nacido en 1978, de padre físico teórico y madre asistente social, con estudios
   * Nexwarp v0, software de mapping hackeando el s.o. \([ver](programming/nexwarp.md)\)
   * Nexwarp v1, software de mapping y gestión de contenidos junto con Panasonic \([ver](programming/nexwarp.md#new-concept-2-0)\)
 
-## **2017 –  actual** - Shine
+### **2017 –  actual** - Shine
 
 Nodall Systems es una startup que se crea junto al group Hotelero español Hotusa S.A. \(70%\), dedicada a la conceptualización y creación del producto Shine, un sistema audiovisual que transforma las habitaciones en SMART ROOMS . \([ver más](timeline/nodall-systems-sl/), o ir a la [web](http://www.shinesmartroom.com/)\)
+
+## Contacto
+
+| Email | juan.coll@nex-group.io |
+| :--- | :--- |
+| social networks | [linkedin](https://www.linkedin.com/in/juan-coll-soler-50734566/) |
+| videos | [youtube](https://www.youtube.com/channel/UCBT_9dB2qVp5YGFNQzZLxbg/) |
+| Programming | [github](https://github.com/Juancoll), [npm](https://www.npmjs.com/package/nexjs) |
 
