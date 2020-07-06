@@ -24,5 +24,11 @@ Shine es el primer proyecto y producto de Nodall Systems.
 
 ## Docs
 
+![](../../.gitbook/assets/shine-com-the-projection-1-.jpg)
+
+{% file src="../../.gitbook/assets/shine-com-corp-presentation.pdf" caption="CORP PRESENTATION" %}
+
+{% file src="../../.gitbook/assets/shine-com-corp-presentation-short.pdf" caption="CORP PRESENTATION - SHORT" %}
+
 
 
