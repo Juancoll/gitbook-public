@@ -23,7 +23,7 @@ Nacido en 1978, de padre físico teórico y madre asistente social, con estudios
 **Empresas**
 
 * **Emotique S.L.** 
-  * "ooo", software de programación visual al estilo de [PureData](https://puredata.info/), [MaxMSP ](https://cycling74.com/)o [vvvv](https://vvvv.org/).
+  * "ooo", software de programación visual al estilo de [PureData](https://puredata.info/), [MaxMSP ](https://cycling74.com/)o [vvvv](https://vvvv.org/). \([ver](programming/ooo-programacion-visual.md)\)
   * Primera discoteca en un avión comercial . \([ver](timeline/emotique-sl/works.md#david-guetta-la-primera-discoteca-en-un-avion-de-pasajeros)\)
   * proyectos europeos junto con el Franhoffer 2006 y 2007. \([ver](timeline/emotique-sl/#proyectos-europeos)\)
 * **MediaFlow Events S.L.**
