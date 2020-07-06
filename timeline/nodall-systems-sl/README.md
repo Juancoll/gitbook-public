@@ -8,8 +8,6 @@ description: Smart experience in room hotel
 
 {% embed url="https://www.youtube.com/watch?v=XTyHRy0NTxo&feature=emb\_logo" %}
 
-
-
 ## El Proyecto
 
 Shine es el primer proyecto y producto de Nodall Systems.
