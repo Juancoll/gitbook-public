@@ -6,6 +6,8 @@ autores
 * [vamosestudio](http://www.vamosestudio.com/)
 * Juan Coll 
 
+{% embed url="http://www.vamosestudio.com/portfolio/shine-smart-room/" caption="" %}
+
 ## Minimal
 
 ![](../../../.gitbook/assets/shine-studies-gfx-design-1-.jpg)

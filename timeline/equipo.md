@@ -81,7 +81,9 @@ Si falta alguno o si alguna persona no quisiera esta aquí enviarme un email a j
 
 ## Empresa Gemela
 
-{% embed url="https://www.linkedin.com/in/ignacio-de-juan-creix-umbert-10542230/" %}
+| ![](../.gitbook/assets/team-nacho-de-juan-creix-100x100.jpg)  | Nacho de Juan Creix | [linkedin](https://www.linkedin.com/in/ignacio-de-juan-creix-umbert-10542230/) |
+| :--- | :--- | :--- |
+
 
 {% embed url="http://estruc24.com/" %}
 
