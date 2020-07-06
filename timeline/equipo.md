@@ -52,7 +52,7 @@ Si falta alguno o si alguna persona no quisiera esta aquí enviarme un email a j
 | ![](../.gitbook/assets/team-jaume-codinachs-garcia.jpg-100x100.jpg) | Jaume Codinachs Garcia | [linkedin](https://www.linkedin.com/in/jaumecodinachs/) |
 | ![](../.gitbook/assets/team-marc-martinez.jpg-100x100.jpg) | marc martínez | [linkedin](https://www.linkedin.com/in/marc-mart%C3%ADnez-57379b32/) |
 | ![](../.gitbook/assets/team-nestor-parrado-lloro.jpg-100x100.jpg) | Nestor Parrado |  |
-| ![](../.gitbook/assets/team-kodomos-ilustrador.jpg-100x100.jpg) | Kodomos | [linkedin](https://www.linkedin.com/in/kodomos-ilustrador-35603726/) |
+| ![](../.gitbook/assets/team-kodomos-ilustrador.jpg-100x100.jpg) | Kodomos | [linkedin](https://www.linkedin.com/in/kodomos-ilustrador-35603726/), [web](http://artistes.menorca.es/Contingut.aspx?IdPub=2438) |
 | ![](../.gitbook/assets/team-carlos-nogueras-rodriguez.jpg-100x100.jpg) | Carlos Nogueras Rodríguez | [linkedin](https://www.linkedin.com/in/carlosnogueras/) |
 | ![](../.gitbook/assets/team-phedile-decup.jpg-100x100.jpg) | Phedile Decup | [linkedin](https://www.linkedin.com/in/phedile-decup-4379b519b/) |
 | ![](../.gitbook/assets/team-ariel-bustamante.jpg-100x100.jpg) | Ariel Bustamante | [linkedin](https://www.linkedin.com/in/ariel-bustamante-b6719064/) |

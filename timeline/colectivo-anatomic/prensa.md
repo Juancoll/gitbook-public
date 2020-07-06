@@ -10,6 +10,8 @@ description: Sobre Raw
 
 {% file src="../../.gitbook/assets/ca-prensa-revista-cervantes.pdf" caption="REVISTA CERVANTES - pag 33" %}
 
+{% embed url="http://www.spain-now.org.uk/emotique-colectivo-anatomic/" %}
+
 ## ROTTEN
 
 {% embed url="https://www.teatral.net/el-mercat-estrena-rotten-del-colectivo-anatomic/" caption="" %}

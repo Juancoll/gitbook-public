@@ -57,7 +57,7 @@ Junto con Tomeu Fiol y Jorge Lopez Gay, se crea la empresa para gestionar toda l
 * Video Wall Interactivo mas grande del Mundo
 * Participamos en el Show Room Inditex
 
-### [Nexcode](nexcode-sl.md)
+### [Nexcode S.L.](nexcode-sl.md)
 
 Centraliza todo el desarrollo de software de MediaFlow Events y añade toda la parte de servicio de Interactivos 3D con Unity de la Mano de Pau Vivancos, mi socio en esta empresa.
 

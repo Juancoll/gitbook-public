@@ -2,7 +2,7 @@
 description: Media Flow Software - Multi screen manager
 ---
 
-# products
+# Products
 
 ## SOFTWARE
 
