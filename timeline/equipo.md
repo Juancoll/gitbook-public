@@ -87,5 +87,17 @@ Si falta alguno o si alguna persona no quisiera esta aquí enviarme un email a j
 
 {% embed url="http://estruc24.com/" %}
 
+## Empresas que nos han acompañado
+
+{% embed url="https://www.verybox.com/" %}
+
+{% embed url="https://eikonos.com/" %}
+
+{% embed url="https://onprojecoes.com.br/" %}
+
+{% embed url="http://viscuit.es/" %}
+
+{% embed url="http://www.naturact.com/" %}
+
 
 
