@@ -58,6 +58,16 @@
 
 ![](../../.gitbook/assets/mf-2011-10-br-dvd-fernando-e-sorocaba-5-.jpg)
 
+### BROOKFIELD
+
+![](../../.gitbook/assets/mf-2011-11-br-brookfield-3-.jpg)
+
+![](../../.gitbook/assets/mf-2011-11-br-brookfield-4-.jpg)
+
+![](../../.gitbook/assets/mf-2011-11-br-brookfield-1-.jpg)
+
+![](../../.gitbook/assets/mf-2011-11-br-brookfield-5-.jpg)
+
 ### PORTO SEGURO
 
 {% embed url="https://youtu.be/n23ZcP5o4nM" caption="" %}

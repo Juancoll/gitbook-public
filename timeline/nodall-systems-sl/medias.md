@@ -10,65 +10,89 @@
 
 {% embed url="https://youtu.be/NLa1U6Ql5\_c" %}
 
+## App Fitness
+
+{% embed url="https://youtu.be/SWPVOTDgJEI" %}
+
+{% embed url="https://youtu.be/vA7JXFwBlr8" %}
+
+{% embed url="https://youtu.be/-l9Tr-y7pik" %}
+
+{% embed url="https://youtu.be/9ZoD5spvo4Q" %}
+
+{% embed url="https://youtu.be/fowqpnVRl5I" %}
+
+{% embed url="https://youtu.be/o8yZmuWe3Ns" %}
+
+
+
+## App Maps
+
+{% embed url="https://youtu.be/23Z9SCLnXy8" %}
+
+{% embed url="https://youtu.be/ciJ1TZtQaqg" %}
+
+
+
 ## App Covers
 
-### Alarm
+#### Alarm
 
 {% embed url="https://youtu.be/\_wBxub2QhKE" %}
 
-### Chooser
+#### Chooser
 
 {% embed url="https://youtu.be/-8Cg2LO9Jn0" %}
 
 {% embed url="https://youtu.be/nrCfh9Pptrg" %}
 
-### Colors
+#### Colors
 
 {% embed url="https://youtu.be/pmt-y5QLWrc" %}
 
 {% embed url="https://youtu.be/il6wdQIfT\_0" %}
 
-### Games
+#### Games
 
 {% embed url="https://youtu.be/1nv\_UpVSaQg" %}
 
-### Living Wall
+#### Living Wall
 
 {% embed url="https://youtu.be/dvv0-K7A7Jw" %}
 
-
+#### 
 
 {% embed url="https://youtu.be/izxyxa8oLfM" %}
 
-### Maps
+#### Maps
 
 {% embed url="https://youtu.be/9J9cg2ee22s" %}
 
 {% embed url="https://youtu.be/r7lu6wYuzVs" %}
 
-### Museum
+#### Museum
 
 {% embed url="https://youtu.be/b8GXnxXzSm8" %}
 
 {% embed url="https://youtu.be/lOoBkNfNnIE" %}
 
-### Photos
+#### Photos
 
 {% embed url="https://youtu.be/pZ-qcbczt-A" %}
 
 {% embed url="https://youtu.be/OZR7cLarwkY" %}
 
-### Tips
+#### Tips
 
 {% embed url="https://youtu.be/FrFVpecyWAk" %}
 
 {% embed url="https://youtu.be/V9wnBz72YwU" %}
 
-### Travel 
+#### Travel 
 
 {% embed url="https://youtu.be/UQkLCA25qJE" %}
 
-### Tv
+#### Tv
 
 {% embed url="https://youtu.be/Q2fqO7Dg\_-I" %}
 
