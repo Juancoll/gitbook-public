@@ -8,5 +8,9 @@ Se han llegado a trabajar con resoluciones de 52 000 Pixeles.
 
 ![](../.gitbook/assets/mf-com-setups.jpg)
 
+![](../.gitbook/assets/mf-product-mediaflow-software-1-.jpg)
+
+![](../.gitbook/assets/mf-2013-03-br-dome-world-trade-center.jpg)
+
 {% file src="../.gitbook/assets/mf-product-manual.pdf" caption="MANUAL \(Antiguo\) " %}
 

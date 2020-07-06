@@ -148,6 +148,8 @@
 
 {% embed url="https://youtu.be/cXgErvojFpc" caption="" %}
 
+![](../../.gitbook/assets/mf-2012-09-br-dome-odebrecht.jpg)
+
 ### MARISA MONTE
 
 ![](../../.gitbook/assets/mf-2012-10-marisa-monte-01.jpeg)
