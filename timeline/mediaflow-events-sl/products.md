@@ -32,6 +32,8 @@ description: Media Flow Software - Multi screen manager
 
 ![](../../.gitbook/assets/mf-2013-03-br-dome-world-trade-center.jpg)
 
+![](../../.gitbook/assets/mf-product-software-lupa.jpg)
+
 ## Expositor Proyectado
 
 ![](../../.gitbook/assets/mf-product-expositor-panasonic-road-show.jpg)
