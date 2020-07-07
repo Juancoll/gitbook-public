@@ -1,8 +1,8 @@
 ---
-description: Opiniones y Reflecciones
+description: Opiniones y reflexiones
 ---
 
 # Blog
 
-\(Actualmente vacio\)
+\(Actualmente vacío\)
 
