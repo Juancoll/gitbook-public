@@ -104,6 +104,6 @@ Si falta alguno o si alguna persona no quisiera esta aquí enviarme un email a j
 | ![](../.gitbook/assets/team-ivan-rodriguez-lopez-100x100.jpg)  | Ivan Rodriguez Lopez | [linkedin](https://www.linkedin.com/in/ivanrodriguezlopez/) |
 | :--- | :--- | :--- |
 | ![](../.gitbook/assets/team-colaborator-manolo-marcos-100x100.jpg)  | Manuel Marcos | [linkedin](https://www.linkedin.com/in/manuel-marcos-a8111558/), [viscuit](http://viscuit.es/) |
-| ![](../.gitbook/assets/team-colaborator-olivier-sepulchre-100x100.jpg)  | Olivier Sepulchre | [linkedin](https://www.linkedin.com/in/olivier-sepulchre-42a97610/) |
+| ![](../.gitbook/assets/team-colaborator-olivier-sepulchre-100x100.jpg)  | Olivier Sepulchre A | [linkedin](https://www.linkedin.com/in/olivier-sepulchre-42a97610/) |
 | ![](../.gitbook/assets/team-colaborator-oscar-garcia-panella-100x100.jpg)  | Oscar Garcia Pañella, PhD | [linkedin](https://www.linkedin.com/in/ogpiskokopus/) |
 
