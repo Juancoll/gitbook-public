@@ -27,7 +27,7 @@ Al finalizar los estudios en la escuela Massana, entro a trabajar de ayudante de
 
 {% file src="../.gitbook/assets/2016\_02\_25-curriculum-media-flow.pdf" caption="CV \(actualizado hasta 2005\)" %}
 
-Durante nuestra aventura en el mundo del arte y la tecnología aparece Olivier Sepulchre que nos ofrece la posibilidad de trabajar para el sector de los Eventos en la edición del Sonar 2005 para el Stand de San Miguel. Aquí empieza la transformación de empresa artística a empresa comercial.
+Durante nuestra aventura en el mundo del arte y la tecnología, aparece Olivier Sepulchre, que nos ofrece la posibilidad de trabajar para el sector de los Eventos en la edición del Sonar 2005 \(en el Stand de San Miguel\). Empieza la transformación de empresa artística a empresa comercial.
 
 ### [Emotique S.L.](emotique-sl/)
 
@@ -41,43 +41,47 @@ Durante nuestra aventura en el mundo del arte y la tecnología aparece Olivier S
 Mi socio se muda a Brasil en plena crisis en España, y decidimos seguir con la actividad de desarrollo en España y empezar a trabajar en Brasil. MediaFlow se especializa en Mapping y grandes proyecciones con el desarrollo de su software del mismo nombre MediaFlow Software.
 
 * Muchos trabajos en brasil en su primera fase.
-* Mapping de una de las cúpulas mas grandes del mundo. El WTC de Sao Paulo \(80 x 50 metros\)
-* Cuando empieza a abrirse de nuevo el mercado español, mediaflow ofrece su espacio y trabajos a un conjunto de profesionales independientes. Empieza lo que se convertirá en La Nexcommunity.
-* Primero desarrollos del Nexwarp \(Software de Mapping para retail\)
-* Necesidad de separar Desarrollo \(Software\) y Producción/Contenidos en los eventos. Creación  de las 2 empresas con socios diferentes de Nexcode y Nexcommunity.
+* Mapping de una de las cúpulas más grandes del mundo. El WTC de Sao Paulo \(80 x 50 metros\)
+* Cuando empieza a abrirse de nuevo el mercado español, Mediaflow ofrece su espacio y trabajos a un conjunto de profesionales independientes. Empieza lo que se convertirá en la Nexcommunity.
+* Primeros desarrollos del Nexwarp \(Software de Mapping para retail\)
+* Necesidad de separar el **Desarrollo** \(Software\) de la **Producción/Contenidos** en los eventos. Creación  de las 2 empresas con socios diferentes de Nexcode y Nexcommunity.
 
 ### [Nexcommunity Media S.L.](nexcommunity-sl/)
 
 {% embed url="http://nexcommunity.com/" caption="" %}
 
-Junto con Tomeu Fiol y Jorge Lopez Gay, se crea la empresa para gestionar toda la parte de producción \(artística y técnica\) y creación de contenidos de los eventos de MediaFlow Events S.L..
+Junto con Tomeu Fiol y Jorge Lopez Lopez-Gay, se crea la empresa para gestionar toda la parte de producción \(artística y técnica\) y creación de contenidos de los eventos de MediaFlow Events S.L..
 
 * Mapping de la Puerta del Sol
 * Mapping del Dia de la Hispanidad \(retransmisión en directo\)
-* Video Wall Interactivo mas grande del Mundo
-* Participamos en el Show Room Inditex
+* Videowall Interactivo más grande del Mundo
+* Participamos en el Showroom Inditex
 
 ### [Nexcode S.L.](nexcode-sl.md)
 
-Centraliza todo el desarrollo de software de MediaFlow Events y añade toda la parte de servicio de Interactivos 3D con Unity de la Mano de Pau Vivancos, mi socio en esta empresa.
+Centraliza todo el desarrollo de software de MediaFlow Events y añade toda la parte de servicios: Interactivos 3D con Unity de la mano de Pau Vivancos, mi socio en esta empresa.
 
 * Servicios de Interactivos 
-* Reprogramacion del software de Mapping y Gestion de Multipantallas Led MediaFlow
-* Programacion del Nexwarp \(Junto con Panasonic\) como solucion de Retail de mapping
+* Reprogramación del software de Mapping y Gestión de Multipantallas Led MediaFlow
+* Programación del Nexwarp \(Junto con Panasonic\) como solución de Retail de mapping
 
 ## De servicio a producto - Shine
 
-Después de pasar mas de 10 años ofreciendo servicios audiovisuales e intentando transformar nuestros software en producto, aparece la oportunidad por parte del grupo Hotusa, de trabajar sobre la conceptualización y desarrollo de una renovación de la experiencia en las habitaciones de hotel mediante la proyección. Poder volcar toda mis ideas y experiencia en un solo proyecto ! Asi nace la startup Nodall Systems.
+Después de pasar más de 10 años ofreciendo servicios audiovisuales e intentando transformar nuestros software en producto, aparece la oportunidad por parte del grupo Hotusa, de trabajar sobre la conceptualización y desarrollo de una renovación de la experiencia en las habitaciones de hotel mediante la proyección. Poder volcar toda mis ideas y experiencia en un solo proyecto ! Asi nace la startup Nodall Systems.
 
 * [Hotusa Nodall Systems - Shine ](nodall-systems-sl/)
 
 ## Nuevos Horizontes - las finanzas
 
-Cada 10 años llegan las crisis que en mi caso corresponde a la de los 30, de los 40 y supongo que seguirán la de los 50, 60 y más. A cada crisis toca volver al principio, reinventarse, reestructurarse y sobretodo tener mucha energía con cada vez menos tiempo: familia, obligaciones, y alguna que otra perdida que hacen el día a día mas complicado. Por eso decidí empezar a estudiar algo de finanzas y especulación. Al final gran parte de nuestra actividad solamente se dedica a transformar tiempo dedicado a otros en dinero. ¿Porque no aprender como funciona la fuente? y resulta que las finanzas son un mundo apasionante, técnico , científico, sociológico, que maneja grandes volúmenes de datos y en los cuales han participado muchas de las mentes mas brillantes de nuestro siglo.
+Cada 10 años, llega alguna crisis, que en mi caso corresponde a la crisis de los 30 \(2008\), la crisis de los 40 \(covid\) y supongo que seguirán la de los 50, 60 y así sucesivamente. A cada crisis toca volver al principio, reinventarse, reestructurarse y sobretodo tener mucha energía con cada vez menos tiempo: familia, obligaciones que hacen el día a día más complicado. Por eso decidí empezar a estudiar algo de finanzas y especulación. Al final, gran parte de nuestra actividad se dedica a transformar tiempo en dinero. ¿Porque no aprender qué es y cómo funciona la fuente, el dinero? 
 
-* [tradin.io](./)
+Resulta que las finanzas son un mundo apasionante \(historia, tecnología , ciencia, sociológica, data analysis ...\) y en los cuales han participado muchas de las mentes más brillantes de nuestro siglo. Pero al mismo tiempo y desde sus inicios, el mundo financiero y especulativo ha sido el lugar predilecto de los fraudes y engaños.
+
+* [tradin.io](./) se propone ordenar la información financiera online en función de parámetros relevantes. Por ejemplo, ¿porque no saber si una persona que da consejos financieros gana dinero con ellos? o ¿Cuántos perfiles falsos tiene la cuenta del Gurú de turno? ¿Por dónde debería empezar si quiero  invertir? ¿Cómo se organiza el mercado de las criptos?
 
 
+
+## Post Data
 
 Nada de todo eso hubiera sido posible sin todas las personas que me han acompañado en mis diferentes proyectos. a todos ellos muchas gracias \([ver](equipo.md)\).
 
