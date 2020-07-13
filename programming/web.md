@@ -13,7 +13,7 @@ We can response to almost any problems in a effective way with a combination of 
 I start developing the protocol to communicate local Webs or \(mobile apps\) to a c\# Engine as the User Interface for Shine Product \([see more](shine.md)\).
 
 * **nexjs - websocket** is used in frontend/Backend apps
-* **nexcs - websocket** is used in local c\# application controlled by web applications.
+* **nexcs - websocket** is used in local c\# application controlled by mobile, desktop or web applications.
 
 ## Nexjs - Websocket
 
