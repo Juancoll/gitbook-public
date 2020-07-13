@@ -27,11 +27,23 @@ Resulta que las finanzas son un mundo apasionante \(historia, engaños, tecnolog
 
 ## Docs
 
-### v3
+### Presentación v3
 
+{% file src="../.gitbook/assets/tradin.io.es.v3.pptx" caption="ESPAÑOL" %}
 
+{% file src="../.gitbook/assets/tradin.io.en.v3.pdf" caption="INGLÉS " %}
 
+### Presentación v2
 
+{% file src="../.gitbook/assets/tradin.io.es.v2.pdf" caption="ESPAÑOL" %}
+
+{% file src="../.gitbook/assets/tradin.io.en.v2.pdf" caption="INGLÉS" %}
+
+### Presentación V1
+
+{% file src="../.gitbook/assets/tradin.io.v1.es.pdf" caption="ESPAÑOL" %}
+
+{% file src="../.gitbook/assets/tradin.io.v1.en.pdf" caption="INGLÉS" %}
 
 
 
