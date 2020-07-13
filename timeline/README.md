@@ -77,7 +77,7 @@ Cada 10 años, llega alguna crisis, que en mi caso corresponde a la crisis de lo
 
 Resulta que las finanzas son un mundo apasionante \(historia, tecnología , ciencia, sociológica, data analysis ...\) y en los cuales han participado muchas de las mentes más brillantes de nuestro siglo. Pero al mismo tiempo y desde sus inicios, el mundo financiero y especulativo ha sido el lugar predilecto de los fraudes y engaños.
 
-* [tradin.io](./) se propone ordenar la información financiera online en función de parámetros relevantes. Por ejemplo, ¿porque no saber si una persona que da consejos financieros gana dinero con ellos? o ¿Cuántos perfiles falsos tiene la cuenta del Gurú de turno? ¿Por dónde debería empezar si quiero  invertir? ¿Cómo se organiza el mercado de las criptos?
+* [tradin.io](tradin.io.md) se propone ordenar la información financiera online en función de parámetros relevantes. Por ejemplo, ¿porque no saber si una persona que da consejos financieros gana dinero con ellos? o ¿Cuántos perfiles falsos tiene la cuenta del Gurú de turno? ¿Por dónde debería empezar si quiero  invertir? ¿Cómo se organiza el mercado de las criptos?
 
 
 
