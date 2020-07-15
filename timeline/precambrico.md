@@ -4,9 +4,9 @@ description: Periodo Universitario (o anterior)
 
 # Precámbrico
 
-## Los 16 y la Música
+## Los 16: Dibujos y Música
 
-## El dibujo
+## ECV
 
 ## Terra de Dracs
 
@@ -16,7 +16,9 @@ Proyecto para una Serie de Televisión entre la Salle Url, Guillem Bou y Cromoso
 | :--- | :--- | :--- | :--- |
 
 
-{% embed url="https://www.youtube.com/watch?v=g6IPEDdGa4s&feature=youtu.be" %}
+{% embed url="https://www.youtube.com/watch?v=g6IPEDdGa4s&feature=youtu.be" caption="Original de Oscar Garcia" %}
+
+{% embed url="https://youtu.be/4n3ZTf5C\_AQ" %}
 
 ![](../.gitbook/assets/pre-terra-de-dracs-bocetos-2-.jpg)
 
@@ -43,6 +45,8 @@ Proyecto para una Serie de Televisión entre la Salle Url, Guillem Bou y Cromoso
 ## OpenSIM
 
 ## Asignatura de Física \(1º de ingeniería\)
+
+## Massana
 
 
 
