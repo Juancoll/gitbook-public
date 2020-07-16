@@ -6,12 +6,26 @@
 
 ### Institut Catala de Tecnologia
 
-{% embed url="https://youtu.be/ufBcrwshpCs" %}
+{% embed url="https://youtu.be/ufBcrwshpCs" caption="" %}
 
-![](../../.gitbook/assets/emotique-2004-05-ict-photos-1-.jpg)
-![](../../.gitbook/assets/emotique-2004-05-ict-photos-2-.jpg)
-![](../../.gitbook/assets/emotique-2004-05-ict-photos-3-.jpg)
-![](../../.gitbook/assets/emotique-2004-05-ict-photos-4-.jpg)
+![](../../.gitbook/assets/emotique-2004-05-ict-photos-1-.jpg) ![](../../.gitbook/assets/emotique-2004-05-ict-photos-2-.jpg) ![](../../.gitbook/assets/emotique-2004-05-ict-photos-3-.jpg) ![](../../.gitbook/assets/emotique-2004-05-ict-photos-4-.jpg)
+
+### Ikea
+
+{% embed url="https://youtu.be/G1Qz-4hOtlA" %}
+
+## 2005
+
+### Sonar
+
+{% embed url="https://youtu.be/VI1s-jzKYzM" %}
+
+## 2006
+
+### Balantines \(Mpp\)
+
+
+
 
 
 ## 2007
