@@ -20,9 +20,13 @@ Presentado en el 3GSM 2007 en el pabellón de Barcelona.
 
 {% embed url="https://youtu.be/v2PyGfzuM-M" caption="" %}
 
+{% embed url="https://youtu.be/xqpKJ6tZB0U" %}
+
 ## Siluetas
 
 ![](../../.gitbook/assets/emotique-product-silueta_holografica-ficha.jpg)
+
+{% embed url="https://youtu.be/8XWCnMwT6xI" %}
 
 {% file src="../../.gitbook/assets/emotique-product-silueta\_holografica-ficha.pdf" caption="FICHA \(pdf\)" %}
 

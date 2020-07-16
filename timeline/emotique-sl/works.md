@@ -20,6 +20,8 @@
 
 {% embed url="https://youtu.be/VI1s-jzKYzM" %}
 
+{% embed url="https://youtu.be/iSYfpr6C-rY" %}
+
 ## 2006
 
 ### Balantines \(Mpp\)
@@ -84,9 +86,7 @@
 
 ### Toyota
 
-![](../../.gitbook/assets/emotique-2007-07-toyota-1-.jpg)
-
-![](../../.gitbook/assets/emotique-2007-07-toyota-2-.jpg)
+{% embed url="https://youtu.be/hZCntiVXYm0" %}
 
 ## 2008
 
