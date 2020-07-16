@@ -70,6 +70,8 @@
 
 {% embed url="https://youtu.be/YuIDFdGUvco" %}
 
+{% embed url="https://youtu.be/ehhFXpBFM74" %}
+
 ![](../../.gitbook/assets/emotique-2007-05-andalucia-gira-1-.jpg) ![](../../.gitbook/assets/emotique-2007-05-andalucia-gira-2-.jpg) ![](../../.gitbook/assets/emotique-2007-05-andalucia-gira-3-.jpg) ![](../../.gitbook/assets/emotique-2007-05-andalucia-gira-4-.jpg) ![](../../.gitbook/assets/emotique-2007-05-andalucia-gira-5-.jpg) ![](../../.gitbook/assets/emotique-2007-05-andalucia-gira-6-.jpg)
 
 ### Museo Darder \(Banyoles\)
