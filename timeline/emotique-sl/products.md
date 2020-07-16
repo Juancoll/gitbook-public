@@ -6,6 +6,10 @@ Presentado en el 3GSM 2007 en el pabellón de Barcelona.
 
 {% embed url="https://youtu.be/D8w8joe3sSo" caption="" %}
 
+{% file src="../../.gitbook/assets/emotique-3gsm.rar" caption="RESULTADOS \(VIDEOS\)" %}
+
+{% file src="../../.gitbook/assets/emotique-2007-xx-3gsm-bagdad.wmv" caption="PARA EL BAGDAD" %}
+
 ## Expositor interactivo
 
 ![](../../.gitbook/assets/mf-product-ficha-expositor.jpg)
