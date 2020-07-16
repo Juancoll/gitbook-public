@@ -9,7 +9,9 @@
 {% embed url="https://youtu.be/ufBcrwshpCs" %}
 
 ![](../../.gitbook/assets/emotique-2004-05-ict-photos-1-.jpg)
-
+![](../../.gitbook/assets/emotique-2004-05-ict-photos-2-.jpg)
+![](../../.gitbook/assets/emotique-2004-05-ict-photos-3-.jpg)
+![](../../.gitbook/assets/emotique-2004-05-ict-photos-4-.jpg)
 
 
 ## 2007
