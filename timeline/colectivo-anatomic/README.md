@@ -22,3 +22,11 @@ description: El proyecto artístico
 
 {% file src="../../.gitbook/assets/mf-com-conferencia-brasil.pdf" caption="CONFERENCIA BRASIL" %}
 
+{% file src="../../.gitbook/assets/ca-project-robodoc.pdf" caption="ROBODOC - PROJECT" %}
+
+## El Corto Metraje
+
+{% embed url="https://youtu.be/HQD9V4JFHJU" %}
+
+
+

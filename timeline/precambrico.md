@@ -58,7 +58,9 @@ Se implementó la simulación de
 
 ![](../.gitbook/assets/pre-docencia-opensim.jpg)
 
-{% file src="../.gitbook/assets/pre-docencia-opensim-memoria-completa.pdf" caption="MEMORIA DEL PROYECTO" %}
+{% file src="../.gitbook/assets/pre-opensim-memoria-completa.pdf" caption="MEMORIA DEL PROYECTO" %}
+
+{% file src="../.gitbook/assets/pre-opensim-demos.zip" caption="DEMOS EJECUTABLES" %}
 
 ## Docencia
 
@@ -78,15 +80,11 @@ Se implementó la simulación de
 
 {% file src="../.gitbook/assets/pre-docencia-mecanica-flah-demo.zip" caption="FLASH APP - DEMO MECANICA" %}
 
-### 
-
 ### Diseño de Productos Multimedia
 
 Curso de teoría de la imagen impartido en el Master en Productos Multimedia de LaSalle - Ramon Llull
 
-
-
-
+{% file src="../.gitbook/assets/pre-docencia-teoria-de-la-imagen-full.pdf" caption="APUNTES" %}
 
 ## Dibujo 
 

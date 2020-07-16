@@ -36,5 +36,13 @@ description: 2004 - 2010
 
 {% file src="../../.gitbook/assets/emotique-com-plan-expansion-2004-2016.pdf" caption="Plan expansión 2004-2016" %}
 
+{% file src="../../.gitbook/assets/emotique-com-cv-2007.pdf" caption="CURRICULUM \(2007\)" %}
+
 {% file src="../../.gitbook/assets/emotique-com-cv-hasta-2011.pdf" caption="CURRICULUM \(hasta 2011\)" %}
+
+{% file src="../../.gitbook/assets/emotique-project-actos-dos-de-mayo.pdf" caption="PROYECTOS A CLIENTE - DOS DE MAYO" %}
+
+{% file src="../../.gitbook/assets/emotique-project-cortefiel.pdf" caption="PROYECTOS A CLIENTE - CORTEFIEL" %}
+
+
 
