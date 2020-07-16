@@ -4,10 +4,6 @@ description: Periodo Universitario (o anterior)
 
 # Precámbrico
 
-## Los 16: Dibujos y Música
-
-## ECV
-
 ## Terra de Dracs
 
 Proyecto para una Serie de Televisión entre la Salle Url, Guillem Bou y Cromosoma.
@@ -40,13 +36,69 @@ Proyecto para una Serie de Televisión entre la Salle Url, Guillem Bou y Cromoso
 
 {% file src="../.gitbook/assets/pre-terra-de-dracs-bocetos-previos.zip" caption="PRIMERAS VERSIONES" %}
 
+{% embed url="https://youtu.be/yPGHyjgQUdw" %}
+
 
 
 ## OpenSIM
 
-## Asignatura de Física \(1º de ingeniería\)
+Proyecto final de la carrera de Ingeniería Multimedia Técnica cursado en la salle. Dirigida por Oscar García \([ver contacto](equipo.md#personas-que-nos-han-acompanado)\). Fue una libreria en C++ para programar sistemas de partículas con múltiples ejemplos.
 
-## Massana
+Karl Sims es una de las personas que más me inspiró y en particular el trabajo siguiente que a día de hoy me sigue pareciendo uno de los trabajo más impresionantes que conozco. El otros grande [Ron Fedkiw](http://physbam.stanford.edu/~fedkiw/) y sus innumerables demos cada una mas impresionante que la otra.
+
+{% embed url="https://youtube.com/watch?time\_continue=7&v=RZtZia4ZkX8&feature=emb\_logo" %}
+
+Se implementó la simulación de 
+
+* Sistemas eléctricos y gravitacionales  \(a nivel de partículas\)
+* Cuerdas elásticas \(como un conjunto de partículas\)
+* Cálculo de Colisiones con Triángulos y geometrías complejas como conjunto de triángulos.
+* Agua y Ropa como matriz de partículas y muelles 
+* Fuego, explosiones y Reconstrucciones de objetos con Campos de Fuerzas en Voxels 
+
+![](../.gitbook/assets/pre-docencia-opensim.jpg)
+
+{% file src="../.gitbook/assets/pre-docencia-opensim-memoria-completa.pdf" caption="MEMORIA DEL PROYECTO" %}
+
+## Docencia
+
+### Asignatura de Física de 1º de Ingeniería Multimedia
+
+#### Cinemática 
+
+{% file src="../.gitbook/assets/pre-docencia-cinematica-apuntes.pdf" caption="APUNTES" %}
+
+{% file src="../.gitbook/assets/pre-docencia-cinematica-ejercicios.pdf" caption="EJERCICIOS" %}
+
+{% file src="../.gitbook/assets/pre-docencia-cinematica-material.zip" caption="FLASH APP - DEMO CINEMATICA" %}
+
+#### Mecánica 
+
+{% file src="../.gitbook/assets/pre-docencia-mecanica-examenes.zip" caption="EXAMENES" %}
+
+{% file src="../.gitbook/assets/pre-docencia-mecanica-flah-demo.zip" caption="FLASH APP - DEMO MECANICA" %}
+
+### 
+
+### Diseño de Productos Multimedia
+
+Curso de teoría de la imagen impartido en el Master en Productos Multimedia de LaSalle - Ramon Llull
+
+
+
+
+
+## Dibujo 
+
+### Adolescencia 
+
+### ECV
+
+### Massana
+
+## 
+
+## 
 
 
 
