@@ -2,6 +2,16 @@
 
 {% file src="../../.gitbook/assets/emotique-com-cv-hasta-2011.pdf" caption="LISTA DE TRABAJOS \(hasta 2011\)" %}
 
+## 2004
+
+### Institut Catala de Tecnologia
+
+{% embed url="https://youtu.be/ufBcrwshpCs" %}
+
+![](../../.gitbook/assets/emotique-2004-05-ict-photos-1-.jpg)
+
+
+
 ## 2007
 
 ### Fiesta Nordic & Burn
