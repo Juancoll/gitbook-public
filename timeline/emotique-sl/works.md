@@ -54,7 +54,15 @@
 
 ### Fiesta Nordic & Burn
 
-{% embed url="https://youtu.be/sMfcqSK\_9BQ" caption="" %}
+{% embed url="https://youtu.be/n7dK3U0U79I" %}
+
+
+
+### EVI - SAN MIGUEL
+
+{% embed url="https://youtu.be/cIS38Hss7LI" %}
+
+
 
 ### Andalucía en movimiento
 
@@ -64,9 +72,13 @@
 
 ![](../../.gitbook/assets/emotique-2007-05-andalucia-gira-1-.jpg) ![](../../.gitbook/assets/emotique-2007-05-andalucia-gira-2-.jpg) ![](../../.gitbook/assets/emotique-2007-05-andalucia-gira-3-.jpg) ![](../../.gitbook/assets/emotique-2007-05-andalucia-gira-4-.jpg) ![](../../.gitbook/assets/emotique-2007-05-andalucia-gira-5-.jpg) ![](../../.gitbook/assets/emotique-2007-05-andalucia-gira-6-.jpg)
 
+### Museo Darder \(Banyoles\)
+
+{% embed url="https://youtu.be/s7RDUGWJpFk" %}
+
 ### Cuenta atrás Expo Zaragoza
 
-{% embed url="https://youtu.be/\_rfEaaZgPq8" caption="" %}
+{% embed url="https://youtu.be/3vGOqsNOD20" %}
 
 ### Toyota
 
@@ -79,6 +91,10 @@
 ### Desfile Propter & Gamble
 
 {% embed url="https://youtu.be/1i12N1XpbaE" caption="" %}
+
+{% embed url="https://youtu.be/UwwzKhGxm14" %}
+
+
 
 ### Expo Zaragoza - Pabellón Arabia Saudi
 
@@ -110,15 +126,17 @@ Convertimos un Airbus 320 en una discoteca aérea con el DJ francés David Guett
 
 ![](../../.gitbook/assets/emotique-2008-05-vueling-david-guetta-1-.jpg) ![](../../.gitbook/assets/emotique-2008-05-vueling-david-guetta-2-.jpg) ![](../../.gitbook/assets/emotique-2008-05-vueling-david-guetta-3-.jpg) ![](../../.gitbook/assets/emotique-2008-05-vueling-david-guetta-4-.jpg)
 
+{% embed url="https://youtu.be/3U\_rctOVkhY" %}
+
+
+
 {% embed url="https://www.youtube.com/watch?v=YSVz3-1c8Lo" caption="" %}
 
 {% embed url="https://www.youtube.com/watch?v=FN65GXlig4g" caption="" %}
 
 ### Mesa OPEP
 
-![](../../.gitbook/assets/emotique-2008-06-mesa-opep-1-.jpg)
-
-![](../../.gitbook/assets/emotique-2008-06-mesa-opep-2-.jpg)
+![](../../.gitbook/assets/emotique-2008-06-opep-qatar-petrolum.jpg)
 
 ### Tienda Cortefiel
 
@@ -129,6 +147,8 @@ Convertimos un Airbus 320 en una discoteca aérea con el DJ francés David Guett
 ### Fundación Miró
 
 {% embed url="https://youtu.be/u-UISY3kBbk" caption="" %}
+
+{% file src="../../.gitbook/assets/emotique-2008-07-instalacion-audiovisual-miro.pdf" caption="PRESENTACIÓN" %}
 
 ### Vialogos
 

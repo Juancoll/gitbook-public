@@ -4,6 +4,14 @@
 
 {% embed url="https://youtu.be/7X0aTzbbNDE" %}
 
+{% file src="../../.gitbook/assets/emotique-project-toyota-experience-video.mp4" caption="VIDEO SALA ENVOLVENTE" %}
+
+{% file src="../../.gitbook/assets/emotique-project-toyota-experience.zip" caption="FOTOS " %}
+
+## Mesa Eristoff
+
+{% embed url="https://youtu.be/lxyiOoXW1dY" %}
+
 ## Diversabio
 
 Parque de atracciones

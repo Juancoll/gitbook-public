@@ -68,6 +68,10 @@ Presentado en el 3GSM 2007 en el pabellón de Barcelona.
 
 {% file src="../../.gitbook/assets/emotique-product-mesa-multitouch-ficha.pdf" caption="Ficha \(pdf\)" %}
 
+![](../../.gitbook/assets/emotique-product-mesa-interactiva.jpg)
+
+{% file src="../../.gitbook/assets/emotique-product-mesa-interactiva-overview.pdf" caption="DOCUMENTACION" %}
+
 ## Para Hoteles
 
 ![](../../.gitbook/assets/emotique-product-sistema-hoteles-ficha.jpg)

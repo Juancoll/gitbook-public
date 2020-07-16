@@ -44,5 +44,5 @@ description: 2004 - 2010
 
 {% file src="../../.gitbook/assets/emotique-project-cortefiel.pdf" caption="PROYECTOS A CLIENTE - CORTEFIEL" %}
 
-
+{% file src="../../.gitbook/assets/emotique-com-presentation-12-12-2006.pdf" caption="PRESENTACIÓN A 12/12/2006" %}
 
