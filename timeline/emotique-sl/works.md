@@ -90,6 +90,8 @@ Convertimos un Airbus 320 en una discoteca aérea con el DJ francés David Guett
 
 {% embed url="https://youtu.be/QSIh7cwBiNQ" caption="" %}
 
+![](../../.gitbook/assets/emotique-2009-03-moto-gp-3-.jpg)
+
 ### DC10 \(Discoteca\)
 
 {% embed url="https://youtu.be/Lu2lQsb0riU" caption="" %}
