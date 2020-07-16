@@ -16,6 +16,20 @@ description: 2004 - 2010
 
 {% file src="../../.gitbook/assets/emotique-presentacion-ficha.pdf" caption="FICHA \(pdf\)" %}
 
+### Multi Screen
+
+{% embed url="https://youtu.be/LYe\_nje9T-Y" %}
+
+### EVI
+
+{% embed url="https://youtu.be/xIevldpi9ik" %}
+
+{% embed url="https://youtu.be/7lcINaORecE" %}
+
+### SACC
+
+{% embed url="https://youtu.be/T3GKX8sue2c" %}
+
 ## Show Room \(Veribox\)SHOW
 
 ![](../../.gitbook/assets/emotique-com-showroom.jpg)

@@ -82,3 +82,9 @@ Presentado en el 3GSM 2007 en el pabellón de Barcelona.
 
 {% file src="../../.gitbook/assets/emotique-product-sistema-hoteles-ficha.pdf" caption="FICHA \(pdf\)" %}
 
+## Vitrina Interactiva
+
+{% embed url="https://youtu.be/9\_yOpPNJjgs" %}
+
+{% embed url="https://youtu.be/qhYJ0RAUnok" %}
+

@@ -24,11 +24,17 @@ description: Desarrollos para el colectivo anatomic
 
 {% embed url="https://youtu.be/zUWGb34dN5I" %}
 
-
-
 {% embed url="https://youtu.be/UeUpmwHie9g" caption="" %}
 
 {% embed url="https://youtu.be/qr-yr3T6-i0" caption="" %}
+
+![](../.gitbook/assets/artech-air-guitar-2-.jpg)
+
+![](../.gitbook/assets/artech-air-guitar-1-.jpg)
+
+{% embed url="https://youtu.be/iW4ReDJ4YRw" %}
+
+
 
 ## Cabeza 3D en tiempo real \(2004\)
 
