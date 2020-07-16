@@ -24,11 +24,33 @@
 
 ### Balantines \(Mpp\)
 
+{% embed url="https://youtu.be/OT4FOzXtmHs" %}
 
+{% file src="../../.gitbook/assets/emotique-2006-09-balantines-capturas-pantallas.zip" caption="SCREEN CAPTURES" %}
 
 
 
 ## 2007
+
+### 3GSM
+
+{% embed url="https://youtu.be/aPaqVp5wvoQ" %}
+
+{% embed url="https://youtu.be/S3hZgz4-CXI" %}
+
+{% embed url="https://youtu.be/lwyUq9-734k" %}
+
+| ![](../../.gitbook/assets/emotique-2007-02-3gsm-foto-3-.jpg)  | ![](../../.gitbook/assets/emotique-2007-02-3gsm-foto-4-.jpg)  |
+| :--- | :--- |
+| ![](../../.gitbook/assets/emotique-2007-02-3gsm-foto-1-.jpg)  | ![](../../.gitbook/assets/emotique-2007-02-3gsm-foto-2-.jpg)  |
+
+![](../../.gitbook/assets/emotique-2007-02-3gsm-folleto-1-.jpg)
+
+![](../../.gitbook/assets/emotique-2007-02-3gsm-folleto-2-.jpg)
+
+{% file src="../../.gitbook/assets/emotique-2007-02-3gsm-overview.pdf" caption="OVERVIEW" %}
+
+{% file src="../../.gitbook/assets/emotique-2007-02-3gsm-demos.zip" caption="VIDEO DEMO" %}
 
 ### Fiesta Nordic & Burn
 
@@ -37,6 +59,8 @@
 ### Andalucía en movimiento
 
 {% embed url="https://youtu.be/bfJDUAO\_ywE" caption="" %}
+
+{% embed url="https://youtu.be/YuIDFdGUvco" %}
 
 ![](../../.gitbook/assets/emotique-2007-05-andalucia-gira-1-.jpg) ![](../../.gitbook/assets/emotique-2007-05-andalucia-gira-2-.jpg) ![](../../.gitbook/assets/emotique-2007-05-andalucia-gira-3-.jpg) ![](../../.gitbook/assets/emotique-2007-05-andalucia-gira-4-.jpg) ![](../../.gitbook/assets/emotique-2007-05-andalucia-gira-5-.jpg) ![](../../.gitbook/assets/emotique-2007-05-andalucia-gira-6-.jpg)
 
