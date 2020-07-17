@@ -38,6 +38,14 @@ Proyecto para una Serie de Televisión entre la Salle Url, Guillem Bou y Cromoso
 
 {% embed url="https://youtu.be/yPGHyjgQUdw" caption="" %}
 
+##  **Ventura & Nieto**
+
+![](../.gitbook/assets/pre-draw-ventura-and-nieto-groucho-1-.jpg)
+
+![](../.gitbook/assets/pre-draw-ventura-and-nieto-groucho-2-.jpg)
+
+![](../.gitbook/assets/pre-draw-ventura-and-nieto-groucho-3-.jpg)
+
 ## OpenSIM
 
 Proyecto final de la carrera de Ingeniería Multimedia Técnica cursado en la salle. Dirigida por Oscar García \([ver contacto](equipo.md#personas-que-nos-han-acompanado)\). Fue una libreria en C++ para programar sistemas de partículas con múltiples ejemplos.
@@ -90,7 +98,11 @@ Curso de teoría de la imagen impartido en el Master en Productos Multimedia de 
 
 ![](../.gitbook/assets/pre-draw-16-1-.jpg) ![](../.gitbook/assets/pre-draw-16-2-.jpg) ![](../.gitbook/assets/pre-draw-16-3-.jpg) ![](../.gitbook/assets/pre-draw-16-4-.jpg) ![](../.gitbook/assets/pre-draw-16-5-.jpg) ![](../.gitbook/assets/pre-draw-16-6-.jpg) ![](../.gitbook/assets/pre-draw-16-7-.jpg) ![](../.gitbook/assets/pre-draw-16-8-.jpg) ![](../.gitbook/assets/pre-draw-16-9-.jpg) ![](../.gitbook/assets/pre-draw-16-10-.jpg)
 
-### ECV
+### **Art school**
+
+![](../.gitbook/assets/pre-draw-art-1-.jpg)
+
+![](../.gitbook/assets/pre-draw-art-v-1-.jpg)
 
 ### Massana
 
