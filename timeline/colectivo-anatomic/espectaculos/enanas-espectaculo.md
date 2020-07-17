@@ -10,7 +10,7 @@ Ya hemos vuelto de Marruecos y la semana que viene presentamos un nuevo conciert
 
 **enAnas** es un concierto basado en los problemas que se sufren a raíz de los trastornos alimenticios. Dos músicos y Vj performer.
 
-
+![](../../../.gitbook/assets/ca-enanas-photos-5-.jpg)
 
 {% embed url="https://youtu.be/mn9bqAZzsOE" caption="" %}
 
