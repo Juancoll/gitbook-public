@@ -38,7 +38,7 @@ Proyecto para una Serie de Televisión entre la Salle Url, Guillem Bou y Cromoso
 
 {% embed url="https://youtu.be/yPGHyjgQUdw" caption="" %}
 
-##  **Ventura & Nieto**
+## **Ventura & Nieto**
 
 ![](../.gitbook/assets/pre-draw-ventura-and-nieto-groucho-1-.jpg)
 
@@ -100,41 +100,17 @@ Curso de teoría de la imagen impartido en el Master en Productos Multimedia de 
 
 ### **Art school**
 
-![](../.gitbook/assets/pre-draw-art-1-.jpg)
-![](../.gitbook/assets/pre-draw-art-2-.jpg)
-![](../.gitbook/assets/pre-draw-art-3-.jpg)
-![](../.gitbook/assets/pre-draw-art-4-.jpg)
-![](../.gitbook/assets/pre-draw-art-5-.jpg)
-![](../.gitbook/assets/pre-draw-art-6-.jpg)
-![](../.gitbook/assets/pre-draw-art-7-.jpg)
-![](../.gitbook/assets/pre-draw-art-8-.jpg)
-![](../.gitbook/assets/pre-draw-art-9-.jpg)
-![](../.gitbook/assets/pre-draw-art-10-.jpg)W
+![](../.gitbook/assets/pre-draw-art-1-.jpg) ![](../.gitbook/assets/pre-draw-art-2-.jpg) ![](../.gitbook/assets/pre-draw-art-3-.jpg) ![](../.gitbook/assets/pre-draw-art-4-.jpg) ![](../.gitbook/assets/pre-draw-art-5-.jpg) ![](../.gitbook/assets/pre-draw-art-6-.jpg) ![](../.gitbook/assets/pre-draw-art-7-.jpg) ![](../.gitbook/assets/pre-draw-art-8-.jpg) ![](../.gitbook/assets/pre-draw-art-9-.jpg) ![](../.gitbook/assets/pre-draw-art-10-.jpg)W
 
-![](../.gitbook/assets/pre-draw-art-v-1-.jpg)
-![](../.gitbook/assets/pre-draw-art-v-2-.jpg)
-![](../.gitbook/assets/pre-draw-art-v-3-.jpg)
-![](../.gitbook/assets/pre-draw-art-v-4-.jpg)
-![](../.gitbook/assets/pre-draw-art-v-5-.jpg)
-![](../.gitbook/assets/pre-draw-art-v-6-.jpg)
-![](../.gitbook/assets/pre-draw-art-v-7-.jpg)
-![](../.gitbook/assets/pre-draw-art-v-8-.jpg)
-![](../.gitbook/assets/pre-draw-art-v-9-.jpg)
-![](../.gitbook/assets/pre-draw-art-v-10-.jpg)
-![](../.gitbook/assets/pre-draw-art-v-11-.jpg)
-![](../.gitbook/assets/pre-draw-art-v-12-.jpg)
-![](../.gitbook/assets/pre-draw-art-v-13-.jpg)
-![](../.gitbook/assets/pre-draw-art-v-14-.jpg)
-![](../.gitbook/assets/pre-draw-art-v-15-.jpg)
-![](../.gitbook/assets/pre-draw-art-v-16-.jpg)
-![](../.gitbook/assets/pre-draw-art-v-17-.jpg)
-![](../.gitbook/assets/pre-draw-art-v-18-.jpg)
-![](../.gitbook/assets/pre-draw-art-v-19-.jpg)
-![](../.gitbook/assets/pre-draw-art-v-20-.jpg)
-![](../.gitbook/assets/pre-draw-art-v-21-.jpg)
-![](../.gitbook/assets/pre-draw-art-v-22-.jpg)
-![](../.gitbook/assets/pre-draw-art-v-23-.jpg)
-![](../.gitbook/assets/pre-draw-art-v-24W-.jpg)
+![](../.gitbook/assets/pre-draw-art-v-1-.jpg) ![](../.gitbook/assets/pre-draw-art-v-2-.jpg) ![](../.gitbook/assets/pre-draw-art-v-3-.jpg) ![](../.gitbook/assets/pre-draw-art-v-4-.jpg) ![](../.gitbook/assets/pre-draw-art-v-5-.jpg) ![](../.gitbook/assets/pre-draw-art-v-6-.jpg) ![](../.gitbook/assets/pre-draw-art-v-7-.jpg) ![](../.gitbook/assets/pre-draw-art-v-8-.jpg) ![](../.gitbook/assets/pre-draw-art-v-9-.jpg) ![](../.gitbook/assets/pre-draw-art-v-10-.jpg) ![](../.gitbook/assets/pre-draw-art-v-11-.jpg) ![](../.gitbook/assets/pre-draw-art-v-12-.jpg) ![](../.gitbook/assets/pre-draw-art-v-13-.jpg) ![](../.gitbook/assets/pre-draw-art-v-14-.jpg) ![](../.gitbook/assets/pre-draw-art-v-15-.jpg) ![](../.gitbook/assets/pre-draw-art-v-16-.jpg) ![](../.gitbook/assets/pre-draw-art-v-17-.jpg) ![](../.gitbook/assets/pre-draw-art-v-18-.jpg) ![](../.gitbook/assets/pre-draw-art-v-19-.jpg) ![](../.gitbook/assets/pre-draw-art-v-20-.jpg) ![](../.gitbook/assets/pre-draw-art-v-21-.jpg) ![](../.gitbook/assets/pre-draw-art-v-22-.jpg) ![](../.gitbook/assets/pre-draw-art-v-23-.jpg) ![](https://github.com/Juancoll/gitbook-public/tree/f9252fe12d1ed5c09e169d7f58b2fc72f4503b2c/.gitbook/assets/pre-draw-art-v-24W-.jpg)
 
-### Massana
+### Uni
+
+![](../.gitbook/assets/pre-draw-uni.jpg)
+
+### Comic
+
+![](../.gitbook/assets/pre-draw-comic-7-.jpg)
+
+
 
