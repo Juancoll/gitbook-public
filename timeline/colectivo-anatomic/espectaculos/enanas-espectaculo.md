@@ -10,16 +10,7 @@ Ya hemos vuelto de Marruecos y la semana que viene presentamos un nuevo conciert
 
 **enAnas** es un concierto basado en los problemas que se sufren a raíz de los trastornos alimenticios. Dos músicos y Vj performer.
 
-![](../../../.gitbook/assets/ca-enanas-photos-1-.jpg)
-![](../../../.gitbook/assets/ca-enanas-photos-2-.jpg)
-![](../../../.gitbook/assets/ca-enanas-photos-3-.jpg)
-![](../../../.gitbook/assets/ca-enanas-photos-4-.jpg)
-![](../../../.gitbook/assets/ca-enanas-photos-5-.jpg)
-![](../../../.gitbook/assets/ca-enanas-photos-6-.jpg)
-![](../../../.gitbook/assets/ca-enanas-photos-7-.jpg)
-![](../../../.gitbook/assets/ca-enanas-photos-8-.jpg)
-![](../../../.gitbook/assets/ca-enanas-photos-9-.jpg)
-![](../../../.gitbook/assets/ca-enanas-photos-10-.jpg)
+![](../../../.gitbook/assets/ca-enanas-photos-1-.jpg) ![](../../../.gitbook/assets/ca-enanas-photos-2-.jpg) ![](../../../.gitbook/assets/ca-enanas-photos-3-.jpg) ![](../../../.gitbook/assets/ca-enanas-photos-4-.jpg) ![](../../../.gitbook/assets/ca-enanas-photos-5-.jpg) ![](../../../.gitbook/assets/ca-enanas-photos-6-.jpg) ![](../../../.gitbook/assets/ca-enanas-photos-7-.jpg) ![](../../../.gitbook/assets/ca-enanas-photos-8-.jpg) ![](../../../.gitbook/assets/ca-enanas-photos-9-.jpg) ![](../../../.gitbook/assets/ca-enanas-photos-10-.jpg)
 
 {% embed url="https://youtu.be/mn9bqAZzsOE" caption="" %}
 
