@@ -27,6 +27,11 @@ description: El proyecto artístico
 ## El Corto Metraje
 
 ![](../../.gitbook/assets/pre-draw-storyboard-angel-kitch-1-.jpg)
+![](../../.gitbook/assets/pre-draw-storyboard-angel-kitch-2-.jpg)
+![](../../.gitbook/assets/pre-draw-storyboard-angel-kitch-3-.jpg)
+![](../../.gitbook/assets/pre-draw-storyboard-angel-kitch-4-.jpg)
+![](../../.gitbook/assets/pre-draw-storyboard-angel-kitch-5-.jpg)
+![](../../.gitbook/assets/pre-draw-storyboard-angel-kitch-6-.jpg)
 
 {% embed url="https://youtu.be/HQD9V4JFHJU" %}
 
