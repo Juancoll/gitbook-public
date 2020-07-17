@@ -4,6 +4,12 @@ description: Sobre Raw
 
 # Prensa
 
+## DOSSIER DE PRENSA COMPLETO
+
+{% embed url="https://nexteamio-my.sharepoint.com/:b:/g/personal/juan\_coll\_nex-group\_io/EYEKaCR1km9Bm14XAJknOEMBi0M-Nw-HlgsGIAa0GFgrQw?e=KOalcY" %}
+
+{% file src="../../.gitbook/assets/cc-prensa-carteles.zip" caption="CARTELES" %}
+
 ## COLECTIVO ANATOMIC
 
 {% file src="../../.gitbook/assets/ca-prensa-revista-adoz-32-pag131-.pdf" caption="REVISTA ADOZ - pag 131" %}
@@ -11,6 +17,12 @@ description: Sobre Raw
 {% file src="../../.gitbook/assets/ca-prensa-revista-cervantes.pdf" caption="REVISTA CERVANTES - pag 33" %}
 
 {% embed url="http://www.spain-now.org.uk/emotique-colectivo-anatomic/" %}
+
+{% file src="../../.gitbook/assets/ca-prensa-entrevista-le-cool.pdf" caption="LE COOL" %}
+
+{% file src="../../.gitbook/assets/ca-prensa-calle20.pdf" caption="CALLE 20 \(pag. 25\)" %}
+
+{% file src="../../.gitbook/assets/ca-prensa-entrevista-alba-radio.mp3" caption="ENTREVISTA RADIO \(cat\)" %}
 
 ## ROTTEN
 
@@ -21,6 +33,8 @@ description: Sobre Raw
 {% embed url="https://www.elnortedecastilla.es/pg060113/prensa/noticias/Cultura/200601/13/VAL-CUL-230.html" caption="" %}
 
 ## RAW
+
+{% file src="../../.gitbook/assets/ca-prensa-raw-tendencias.pdf" caption="TENDENCIAS" %}
 
 ### 09/12/2006 - Mundo de Cataluña
 

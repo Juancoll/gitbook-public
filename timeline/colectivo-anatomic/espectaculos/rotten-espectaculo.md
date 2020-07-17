@@ -38,7 +38,7 @@ El Colectivo Anatomic ha presentado ROTTEN en Barcelona, París, Amsterdam, Burg
 
 ![](../../../.gitbook/assets/ca-2006-06-rotten-chile-matucana-100-9-.jpg) ![](../../../.gitbook/assets/ca-2006-06-rotten-chile-matucana-100-1-.jpg) ![](../../../.gitbook/assets/ca-2006-06-rotten-chile-matucana-100-2-.jpg) ![](../../../.gitbook/assets/ca-2006-06-rotten-chile-matucana-100-3-.jpg) ![](../../../.gitbook/assets/ca-2006-06-rotten-chile-matucana-100-4-.jpg) ![](../../../.gitbook/assets/ca-2006-06-rotten-chile-matucana-100-5-.jpg) ![](../../../.gitbook/assets/ca-2006-06-rotten-chile-matucana-100-6-.jpg) ![](../../../.gitbook/assets/ca-2006-06-rotten-chile-matucana-100-7-.jpg) ![](../../../.gitbook/assets/ca-2006-06-rotten-chile-matucana-100-8-.jpg)
 
-### Videos TV
+### TV
 
 {% embed url="https://www.youtube.com/watch?v=lzX4uUTXsSE" caption="" %}
 

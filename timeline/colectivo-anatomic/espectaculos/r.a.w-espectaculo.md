@@ -2,6 +2,16 @@
 
 ![](../../../.gitbook/assets/ca-2006-09-raw-colombia-medellin-2-.jpg)
 
+![](../../../.gitbook/assets/ca-raw-carter-ing%20%281%29.jpg)
+
+{% file src="../../../.gitbook/assets/ca-raw-dossier-fr-low.pdf" caption="DOSSIER \(fr\)" %}
+
+{% file src="../../../.gitbook/assets/ca-raw-dossier-ing-low.pdf" caption="DOSSIER \(ing\)" %}
+
+{% file src="../../../.gitbook/assets/ca-raw-dossier-cat-low.pdf" caption="DOSSIER \(cat\)" %}
+
+{% file src="../../../.gitbook/assets/ca-raw-dossier-esp-low.pdf" caption="DOSSIER \(esp\)" %}
+
 ## Medias
 
 ### Trailer
@@ -21,13 +31,29 @@
 * BARCELONA, España, Iglesia “La Ostia” 
 * BARCELONA, España, Can Golferichs SABADELL, España, 30 Nits Festival
 
-### fotos - \(Iglesia "La Ostia", Barcelona\)
+### Iglesia "La Ostia", Barcelona
+
+{% embed url="https://youtu.be/h8It2oFptLE" %}
+
+{% embed url="https://youtu.be/WNGdrF9UpXg" %}
+
+{% embed url="https://youtu.be/1AIYyinjDAA" %}
 
 ![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-1-.jpg) ![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-2-.jpg) ![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-3-.jpg) ![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-4-.jpg) ![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-5-.jpg) ![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-6-.jpg) ![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-7-.jpg) ![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-8-.jpg) ![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-9-.jpg)
 
 ## 2006 - La gira \(folleto\)
 
 ![gira 2007 - 2008 ](../../../.gitbook/assets/ca-2006-xx-raw-folleto-gira.jpg)
+
+### Barcelona
+
+{% embed url="https://youtu.be/MF6bLoHWUag" %}
+
+{% embed url="https://youtu.be/I5GL8hGlVro" %}
+
+{% embed url="https://youtu.be/QmcIfoa-qX0" %}
+
+
 
 ## 2006 \(Junio\) Barcelona, Festival Sonar
 
