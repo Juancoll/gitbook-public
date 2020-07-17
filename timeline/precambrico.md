@@ -88,7 +88,7 @@ Curso de teoría de la imagen impartido en el Master en Productos Multimedia de 
 
 ### Adolescencia
 
-![](https://github.com/Juancoll/gitbook-public/tree/bf95b1c6432d5746d22020e17db34356522fc668/.gitbook/assets/pre-draw-16-1-.jpg) ![](https://github.com/Juancoll/gitbook-public/tree/bf95b1c6432d5746d22020e17db34356522fc668/.gitbook/assets/pre-draw-16-2-.jpg) ![](../.gitbook/assets/pre-draw-16-3-.jpg) ![](https://github.com/Juancoll/gitbook-public/tree/bf95b1c6432d5746d22020e17db34356522fc668/.gitbook/assets/pre-draw-16-4-.jpg) ![](https://github.com/Juancoll/gitbook-public/tree/bf95b1c6432d5746d22020e17db34356522fc668/.gitbook/assets/pre-draw-16-5-.jpg) ![](https://github.com/Juancoll/gitbook-public/tree/bf95b1c6432d5746d22020e17db34356522fc668/.gitbook/assets/pre-draw-16-6-.jpg) ![](https://github.com/Juancoll/gitbook-public/tree/bf95b1c6432d5746d22020e17db34356522fc668/.gitbook/assets/pre-draw-16-7-.jpg) ![](https://github.com/Juancoll/gitbook-public/tree/bf95b1c6432d5746d22020e17db34356522fc668/.gitbook/assets/pre-draw-16-8-.jpg) ![](https://github.com/Juancoll/gitbook-public/tree/bf95b1c6432d5746d22020e17db34356522fc668/.gitbook/assets/pre-draw-16-9-.jpg) ![](https://github.com/Juancoll/gitbook-public/tree/bf95b1c6432d5746d22020e17db34356522fc668/.gitbook/assets/pre-draw-16-10-.jpg)
+![](../.gitbook/assets/pre-draw-16-1-.jpg) ![](../.gitbook/assets/pre-draw-16-2-.jpg) ![](../.gitbook/assets/pre-draw-16-3-.jpg) ![](../.gitbook/assets/pre-draw-16-4-.jpg) ![](../.gitbook/assets/pre-draw-16-5-.jpg) ![](../.gitbook/assets/pre-draw-16-6-.jpg) ![](../.gitbook/assets/pre-draw-16-7-.jpg) ![](../.gitbook/assets/pre-draw-16-8-.jpg) ![](../.gitbook/assets/pre-draw-16-9-.jpg) ![](../.gitbook/assets/pre-draw-16-10-.jpg)
 
 ### ECV
 
