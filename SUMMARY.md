@@ -58,5 +58,4 @@
   * [shine](programming/shine.md)
   * [websockets](programming/web.md)
 * [Blog](blog.md)
-* [Resources](resources.md)
 
