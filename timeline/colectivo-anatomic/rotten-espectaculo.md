@@ -2,7 +2,7 @@
 
 ## Overview
 
-![](../../../.gitbook/assets/ca-rotten-foto-1-.jpg)
+![](../../.gitbook/assets/ca-rotten-foto-1-.jpg)
 
 {% embed url="https://youtu.be/O1r4l8oCkVU" caption="" %}
 
@@ -20,7 +20,7 @@
 
 ### Fotos \(Mercat de les flors\)
 
-![](../../../.gitbook/assets/ca-2005-02-rotten-bcn-mercat-de-las-flors-1-.jpg) ![](../../../.gitbook/assets/ca-2005-02-rotten-bcn-mercat-de-las-flors-2-.jpg) ![](../../../.gitbook/assets/ca-2005-02-rotten-bcn-mercat-de-las-flors-3-.jpg) ![](../../../.gitbook/assets/ca-2005-02-rotten-bcn-mercat-de-las-flors-4-.jpg) ![](../../../.gitbook/assets/ca-2005-02-rotten-bcn-mercat-de-las-flors-5-.jpg) ![](../../../.gitbook/assets/ca-2005-02-rotten-bcn-mercat-de-las-flors-6-.jpg) ![](../../../.gitbook/assets/ca-2005-02-rotten-bcn-mercat-de-las-flors-7-.jpg) ![](../../../.gitbook/assets/ca-2005-02-rotten-bcn-mercat-de-las-flors-8-.jpg) ![](../../../.gitbook/assets/ca-2005-02-rotten-bcn-mercat-de-las-flors-9-.jpg) ![](../../../.gitbook/assets/ca-2005-02-rotten-bcn-mercat-de-las-flors-10-.jpg) ![](../../../.gitbook/assets/ca-2005-02-rotten-bcn-mercat-de-las-flors-11-.jpg) ![](../../../.gitbook/assets/ca-2005-02-rotten-bcn-mercat-de-las-flors-12-.jpg)
+![](../../.gitbook/assets/ca-2005-02-rotten-bcn-mercat-de-las-flors-1-.jpg) ![](../../.gitbook/assets/ca-2005-02-rotten-bcn-mercat-de-las-flors-2-.jpg) ![](../../.gitbook/assets/ca-2005-02-rotten-bcn-mercat-de-las-flors-3-.jpg) ![](../../.gitbook/assets/ca-2005-02-rotten-bcn-mercat-de-las-flors-4-.jpg) ![](../../.gitbook/assets/ca-2005-02-rotten-bcn-mercat-de-las-flors-5-.jpg) ![](../../.gitbook/assets/ca-2005-02-rotten-bcn-mercat-de-las-flors-6-.jpg) ![](../../.gitbook/assets/ca-2005-02-rotten-bcn-mercat-de-las-flors-7-.jpg) ![](../../.gitbook/assets/ca-2005-02-rotten-bcn-mercat-de-las-flors-8-.jpg) ![](../../.gitbook/assets/ca-2005-02-rotten-bcn-mercat-de-las-flors-9-.jpg) ![](../../.gitbook/assets/ca-2005-02-rotten-bcn-mercat-de-las-flors-10-.jpg) ![](../../.gitbook/assets/ca-2005-02-rotten-bcn-mercat-de-las-flors-11-.jpg) ![](../../.gitbook/assets/ca-2005-02-rotten-bcn-mercat-de-las-flors-12-.jpg)
 
 ## 2006 - Santiago de Chile, Julio
 
@@ -36,7 +36,7 @@ El Colectivo Anatomic ha presentado ROTTEN en Barcelona, París, Amsterdam, Burg
 
 ### Fotos
 
-![](../../../.gitbook/assets/ca-2006-06-rotten-chile-matucana-100-9-.jpg) ![](../../../.gitbook/assets/ca-2006-06-rotten-chile-matucana-100-1-.jpg) ![](../../../.gitbook/assets/ca-2006-06-rotten-chile-matucana-100-2-.jpg) ![](../../../.gitbook/assets/ca-2006-06-rotten-chile-matucana-100-3-.jpg) ![](../../../.gitbook/assets/ca-2006-06-rotten-chile-matucana-100-4-.jpg) ![](../../../.gitbook/assets/ca-2006-06-rotten-chile-matucana-100-5-.jpg) ![](../../../.gitbook/assets/ca-2006-06-rotten-chile-matucana-100-6-.jpg) ![](../../../.gitbook/assets/ca-2006-06-rotten-chile-matucana-100-7-.jpg) ![](../../../.gitbook/assets/ca-2006-06-rotten-chile-matucana-100-8-.jpg)
+![](../../.gitbook/assets/ca-2006-06-rotten-chile-matucana-100-9-.jpg) ![](../../.gitbook/assets/ca-2006-06-rotten-chile-matucana-100-1-.jpg) ![](../../.gitbook/assets/ca-2006-06-rotten-chile-matucana-100-2-.jpg) ![](../../.gitbook/assets/ca-2006-06-rotten-chile-matucana-100-3-.jpg) ![](../../.gitbook/assets/ca-2006-06-rotten-chile-matucana-100-4-.jpg) ![](../../.gitbook/assets/ca-2006-06-rotten-chile-matucana-100-5-.jpg) ![](../../.gitbook/assets/ca-2006-06-rotten-chile-matucana-100-6-.jpg) ![](../../.gitbook/assets/ca-2006-06-rotten-chile-matucana-100-7-.jpg) ![](../../.gitbook/assets/ca-2006-06-rotten-chile-matucana-100-8-.jpg)
 
 ### TV
 

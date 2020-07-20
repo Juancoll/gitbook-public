@@ -14,8 +14,6 @@ description: Desarrollos para el colectivo anatomic
 
 {% embed url="https://youtu.be/uvYDqtV\_t7U" %}
 
-
-
 ## Movimiento como Musica
 
 {% embed url="https://youtu.be/iyiKRbRXCRw" %}
