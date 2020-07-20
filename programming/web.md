@@ -17,9 +17,52 @@ I start developing the protocol to communicate local Webs or \(mobile apps\) to 
 
 ## Nexjs - Websocket
 
-### Overview
+### the idea
 
+Separate the Function \(Operation\) from Call Protocol \(Rest API, Websocket, Pure TCP IP,  ...\). In this implementation we only use websocket but with 2 different protocols: Request/Response and Publish/Subscribe. We will use typescript and decorators for the implementation. 
 
+```typescript
+// ----------------------------------------------------------------------------
+// Operations
+class AContract {
+
+  @Hub({ service: 'aContract', ...}) // Publish/Subscribe Protocol over websocket
+  onUpdate = new HubEvent();         // Emitter custom class - only to unificate event system
+
+  @Rest({ service: 'aContract',...}) // Request/Response Protocol over websocket
+  methodA(): Promise<void>{
+    // anything                      // Can return anything
+  }  
+}
+
+// ----------------------------------------------------------------------------
+// main.ts
+const wss = new WSServer<User, Token>();  // create Websocket protocols
+wss.register(new AContract ());           // register class 
+wss.init(new SocketIOServer(ioServer));   // initialize with a socket.io server
+
+// ----------------------------------------------------------------------------
+// in command line (create api client)
+npm install @nexjs/cli -g
+nexjs ts ws up-client -s ./[server-folder] -o ./[client-folder]/[api-folder]
+
+// ----------------------------------------------------------------------------
+// in client
+const wsapi = new WSApi<User, Token>(new SocketIOClient()); // create client
+
+// [Publish/Subscribe] protocol
+// 1. register event Handler
+wsapi.aContract.onUpdate.on(() =>
+  console.log(`onUpdate`) // 
+);
+// 2. Subscribe to event
+await wsapi.baseContract.onUpdate.sub();
+
+// [Request/Response]  protocol 
+await wsapi.baseContract.methodA();
+
+//That all !!! 
+```
 
 ### Server
 

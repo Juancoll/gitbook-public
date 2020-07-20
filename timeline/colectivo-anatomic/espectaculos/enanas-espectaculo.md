@@ -12,8 +12,6 @@ Ya hemos vuelto de Marruecos y la semana que viene presentamos un nuevo conciert
 
 ![](../../../.gitbook/assets/ca-enanas-photos-1-.jpg) ![](../../../.gitbook/assets/ca-enanas-photos-2-.jpg) ![](../../../.gitbook/assets/ca-enanas-photos-3-.jpg) ![](../../../.gitbook/assets/ca-enanas-photos-4-.jpg) ![](../../../.gitbook/assets/ca-enanas-photos-5-.jpg) ![](../../../.gitbook/assets/ca-enanas-photos-6-.jpg) ![](../../../.gitbook/assets/ca-enanas-photos-7-.jpg) ![](../../../.gitbook/assets/ca-enanas-photos-8-.jpg) ![](../../../.gitbook/assets/ca-enanas-photos-9-.jpg) ![](../../../.gitbook/assets/ca-enanas-photos-10-.jpg)
 
-## Videos
-
 {% embed url="https://youtu.be/mn9bqAZzsOE" caption="" %}
 
 {% embed url="https://youtu.be/ELTfcJ-gJNU" caption="" %}
@@ -21,12 +19,4 @@ Ya hemos vuelto de Marruecos y la semana que viene presentamos un nuevo conciert
 {% embed url="https://youtu.be/TNKFRe38ocI" caption="" %}
 
 {% embed url="https://youtu.be/dIpf5pAaRWQ" caption="" %}
-
-## ensayos
-
-{% embed url="https://youtu.be/EBt9nzYXuuA" %}
-
-{% embed url="https://youtu.be/0bTBTPnhxTk" %}
-
-
 
