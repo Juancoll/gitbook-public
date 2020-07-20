@@ -73,6 +73,8 @@
 
 ![](../../../.gitbook/assets/ca-raw-sonar-4-.jpg)
 
+![](../../../.gitbook/assets/ca-raw-sonar-1-.jpg)
+
 ### \(Agosto\) Parque Cultural Ex-Cárcel, Valparaíso, Chile
 
 Alain Wergifosse, ruidista profesional, compone la atmósfera acústica. Las performers e intérpretes de los instrumentos interactivos son Caro Pastor y Marta Pelegrina. Joan Coll toca la guitarra eléctrica. La iluminación y las fotos son de Jordi Torra.
