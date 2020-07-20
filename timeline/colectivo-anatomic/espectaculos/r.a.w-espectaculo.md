@@ -77,9 +77,22 @@
 
 Alain Wergifosse, ruidista profesional, compone la atmósfera acústica. Las performers e intérpretes de los instrumentos interactivos son Caro Pastor y Marta Pelegrina. Joan Coll toca la guitarra eléctrica. La iluminación y las fotos son de Jordi Torra.
 
-![](../../../.gitbook/assets/ca-2006-08-raw-chile-valparaiso-1-.jpg) ![](../../../.gitbook/assets/ca-2006-08-raw-chile-valparaiso-2-.jpg) ![](../../../.gitbook/assets/ca-2006-08-raw-chile-valparaiso-4-.jpg) ![](../../../.gitbook/assets/ca-2006-08-raw-chile-valparaiso-5-.jpg) ![](../../../.gitbook/assets/ca-2006-08-raw-chile-valparaiso-3-.jpg)
-
+![](../../../.gitbook/assets/ca-raw-chile-valparaiso-1-.jpg)
+![](../../../.gitbook/assets/ca-raw-chile-valparaiso-2-.jpg)
+![](../../../.gitbook/assets/ca-raw-chile-valparaiso-3-.jpg)
+![](../../../.gitbook/assets/ca-raw-chile-valparaiso-4-.jpg)
+![](../../../.gitbook/assets/ca-raw-chile-valparaiso-5-.jpg)
+![](../../../.gitbook/assets/ca-raw-chile-valparaiso-6-.jpg)
+![](../../../.gitbook/assets/ca-raw-chile-valparaiso-7-.jpg)
+![](../../../.gitbook/assets/ca-raw-chile-valparaiso-8-.jpg)
+![](../../../.gitbook/assets/ca-raw-chile-valparaiso-9-.jpg)
+![](../../../.gitbook/assets/ca-raw-chile-valparaiso-10-.jpg)
+![](../../../.gitbook/assets/ca-raw-chile-valparaiso-11-.jpg)
 ![](../../../.gitbook/assets/ca-raw-chile-valparaiso-12-.jpg)
+![](../../../.gitbook/assets/ca-raw-chile-valparaiso-13-.jpg)
+![](../../../.gitbook/assets/ca-raw-chile-valparaiso-14-.jpg)
+![](../../../.gitbook/assets/ca-raw-chile-valparaiso-15-.jpg)
+![](../../../.gitbook/assets/ca-raw-chile-valparaiso-16-.jpg)
 
 ### \(Septiembre\) Colombia
 
