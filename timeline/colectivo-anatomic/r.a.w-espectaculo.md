@@ -26,6 +26,26 @@
 
 ### Audios
 
+ Online listening
+
+[SoundCloud](https://soundcloud.com/emotique)
+
+ Files
+
+{% file src="../../.gitbook/assets/audio1.mp3" %}
+
+{% file src="../../.gitbook/assets/audio3.mp3" %}
+
+{% file src="../../.gitbook/assets/audio4.mp3" %}
+
+{% file src="../../.gitbook/assets/audio5.mp3" %}
+
+{% file src="../../.gitbook/assets/audio6.mp3" %}
+
+{% file src="../../.gitbook/assets/audio7.mp3" %}
+
+{% file src="../../.gitbook/assets/audio8.mp3" %}
+
 {% file src="../../.gitbook/assets/ca-raw-audio-my\_name.mp3" caption="MY NAME" %}
 
 {% file src="../../.gitbook/assets/ca-raw-audio-concierto.mp3" caption="CONCIERTO FINAL" %}
