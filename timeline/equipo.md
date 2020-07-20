@@ -24,11 +24,15 @@ Si falta alguno o si alguna persona no quisiera esta aquí enviarme un email a j
 | ![](../.gitbook/assets/cc-team-ester-garcia-forment.jpg-100x100.jpg) | Ester Forment | [web](https://github.com/Juancoll/gitbook-public/tree/48bb343f52a62335de3dffce7d684295bfe538f2/timeline/estudio3.org/ester-forment/README.md) |
 | ![](../.gitbook/assets/cc-team-caroline-pastor.jpg-100x100.jpg) | Caroline Pastor | [nawak](https://www.nawak.com/book/caroline-pastor) |
 | ![](../.gitbook/assets/cc-team-semolina-tomic.jpg-100x100.jpg) | Semolina Tomic | [wikipedia](https://ca.wikipedia.org/wiki/Semolina_Tomic), [anticteatre](http://www.anticteatre.com/) |
-| ![](../.gitbook/assets/cc-team-jorge-raedo.jpg-100x100.jpg) | Jorge Raodo | [arqa](https://arqa.com/autores/jorge-raedo), [osamenor](http://osamenor10.blogspot.com/) |
+| ![](../.gitbook/assets/cc-team-jorge-raedo.jpg-100x100.jpg) | Jorge Raedo | [arqa](https://arqa.com/autores/jorge-raedo), [osamenor](http://osamenor10.blogspot.com/) |
 | ![](../.gitbook/assets/cc-team-sergi-faustino.jpg-100x100.jpg) | Sergi Faustino | [lapoderosa](http://lapoderosa.es/es/artista/sergi-faustino) |
 | ![](../.gitbook/assets/cc-team-joan-simo.jpg-100x100.jpg) | Joan Simo | [video](https://www.youtube.com/watch?v=yjoSB9BoajA) , [video](https://www.youtube.com/watch?v=jLbCkXnOV6I) |
 | ![](../.gitbook/assets/cc-team-martin-capatinta.jpg-100x100.jpg) | Martin Capatinta | [facebook](https://www.facebook.com/lakino.bln/) |
 | ![](../.gitbook/assets/contact-otros-albert-faus.jpg)  | Albert Faus | [linkedin](https://www.linkedin.com/in/albert-faus-a97a7913b/) |
+| ![](../.gitbook/assets/team-lidia-gonzales-zoilo.jpg)  | Lidia González Zoilo |  |
+| ![](../.gitbook/assets/team-david-franch.jpg)  | David Franch | [Gesto](https://redteatrosalternativos.org/ubu_digital/david-franch-gesto/) |
+| ![](../.gitbook/assets/angeles-ciscar.jpg)  | Ángeles Ciscar | [linkedin](https://www.linkedin.com/in/%C3%A1ngeles-ciscar-926134b1/) |
+| ![](../.gitbook/assets/team-juan-navarro.jpg)  | Juan Navarro | [web](http://juan-navarro.es/) |
 
 ## ¡el equipazo!
 

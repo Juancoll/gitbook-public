@@ -4,6 +4,8 @@
 
 ## 2004
 
+![](../../.gitbook/assets/emotique-2003-xx-er-and-si-4-.jpg)
+
 ### Institut Catala de Tecnologia
 
 {% embed url="https://youtu.be/ufBcrwshpCs" caption="" %}
