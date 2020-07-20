@@ -141,13 +141,49 @@ EN EL CENTRO FUNDACION TELEFONICA LIMA realizaron Talleres de Arte y Nuevas Tecn
 
 #### Conferencia
 
+![](../../../.gitbook/assets/ca-raw-peru-conferencia-1-.jpg)
+![](../../../.gitbook/assets/ca-raw-peru-conferencia-2-.jpg)
+![](../../../.gitbook/assets/ca-raw-peru-conferencia-3-.jpg)
+![](../../../.gitbook/assets/ca-raw-peru-conferencia-4-.jpg)
+![](../../../.gitbook/assets/ca-raw-peru-conferencia-5-.jpg)
+![](../../../.gitbook/assets/ca-raw-peru-conferencia-6-.jpg)
 ![](../../../.gitbook/assets/ca-raw-peru-conferencia-7-.jpg)
+![](../../../.gitbook/assets/ca-raw-peru-conferencia-8-.jpg)
 
 
 
 #### Concierto
 
+![](../../../.gitbook/assets/ca-raw-peru-concierto-1-.jpg)
+![](../../../.gitbook/assets/ca-raw-peru-concierto-2-.jpg)
+![](../../../.gitbook/assets/ca-raw-peru-concierto-3-.jpg)
+![](../../../.gitbook/assets/ca-raw-peru-concierto-4-.jpg)
+![](../../../.gitbook/assets/ca-raw-peru-concierto-5-.jpg)
+![](../../../.gitbook/assets/ca-raw-peru-concierto-6-.jpg)
+![](../../../.gitbook/assets/ca-raw-peru-concierto-7-.jpg)
+![](../../../.gitbook/assets/ca-raw-peru-concierto-8-.jpg)
+![](../../../.gitbook/assets/ca-raw-peru-concierto-9-.jpg)
+![](../../../.gitbook/assets/ca-raw-peru-concierto-10-.jpg)
+![](../../../.gitbook/assets/ca-raw-peru-concierto-11-.jpg)
+![](../../../.gitbook/assets/ca-raw-peru-concierto-12-.jpg)
+![](../../../.gitbook/assets/ca-raw-peru-concierto-13-.jpg)
+![](../../../.gitbook/assets/ca-raw-peru-concierto-14-.jpg)
+![](../../../.gitbook/assets/ca-raw-peru-concierto-15-.jpg)
+![](../../../.gitbook/assets/ca-raw-peru-concierto-16-.jpg)
+![](../../../.gitbook/assets/ca-raw-peru-concierto-17-.jpg)
+![](../../../.gitbook/assets/ca-raw-peru-concierto-18-.jpg)
+![](../../../.gitbook/assets/ca-raw-peru-concierto-19-.jpg)
+![](../../../.gitbook/assets/ca-raw-peru-concierto-20-.jpg)
+![](../../../.gitbook/assets/ca-raw-peru-concierto-21-.jpg)
+![](../../../.gitbook/assets/ca-raw-peru-concierto-22-.jpg)
+![](../../../.gitbook/assets/ca-raw-peru-concierto-23-.jpg)
+![](../../../.gitbook/assets/ca-raw-peru-concierto-24-.jpg)
+![](../../../.gitbook/assets/ca-raw-peru-concierto-25-.jpg)
 ![](../../../.gitbook/assets/ca-raw-peru-concierto-26-.jpg)
+![](../../../.gitbook/assets/ca-raw-peru-concierto-27-.jpg)
+![](../../../.gitbook/assets/ca-raw-peru-concierto-28-.jpg)
+![](../../../.gitbook/assets/ca-raw-peru-concierto-29-.jpg)
+![](../../../.gitbook/assets/ca-raw-peru-concierto-30-.jpg)
 
 {% file src="../../../.gitbook/assets/ca-raw-peru-fotos-ensayo.zip" caption="FOTOS ENSAYOS" %}
 
