@@ -24,13 +24,13 @@
 
 {% embed url="https://youtu.be/B3fm4PX\_wKk" caption="" %}
 
-### Audios
+### Audios - \(Alain Wergifosse & Emotique\)
 
- Online listening
+**Online listening**
 
 [SoundCloud](https://soundcloud.com/emotique)
 
- Files
+**Files**
 
 {% file src="../../.gitbook/assets/audio1.mp3" %}
 

@@ -4,7 +4,6 @@
 * [Timeline](timeline/README.md)
   * [Precámbrico](timeline/precambrico.md)
   * [Colectivo Anatomic](timeline/colectivo-anatomic/README.md)
-    * [Musica](timeline/colectivo-anatomic/musica.md)
     * [Rotten](timeline/colectivo-anatomic/rotten-espectaculo.md)
     * [R.A.W](timeline/colectivo-anatomic/r.a.w-espectaculo.md)
     * [enanas](timeline/colectivo-anatomic/enanas-espectaculo.md)
