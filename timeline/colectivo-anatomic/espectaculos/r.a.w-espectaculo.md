@@ -71,7 +71,7 @@
 
 {% embed url="https://youtu.be/Zfg9ZbWq0nQ" caption="" %}
 
-![](../../../.gitbook/assets/4.jpg)
+![](../../../.gitbook/assets/ca-raw-sonar-4-.jpg)
 
 ### \(Agosto\) Parque Cultural Ex-Cárcel, Valparaíso, Chile
 
