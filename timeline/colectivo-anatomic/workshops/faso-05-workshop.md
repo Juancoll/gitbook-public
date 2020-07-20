@@ -24,5 +24,22 @@ La página de Laafi es www.laafi.com. Seguimos trabajando con ellos por la conti
 
 ![](../../../.gitbook/assets/ca-2005-12-faso-05-5-.jpg) ![](../../../.gitbook/assets/ca-2005-12-faso-05-4-.jpg) ![](../../../.gitbook/assets/ca-2005-12-faso-05-5-%20%281%29.jpg) ![](../../../.gitbook/assets/ca-2005-12-faso-05-6-.jpg) ![](../../../.gitbook/assets/ca-2005-12-faso-05-7-.jpg) ![](../../../.gitbook/assets/ca-2005-12-faso-05-8-.jpg) ![](../../../.gitbook/assets/ca-2005-12-faso-05-2-.jpg) ![](../../../.gitbook/assets/ca-2005-12-faso-05-1-.jpg)
 
+![](../../../.gitbook/assets/ca-faso-05-h-1-.jpg)
+![](../../../.gitbook/assets/ca-faso-05-h-2-.jpg)
+![](../../../.gitbook/assets/ca-faso-05-h-3-.jpg)
+![](../../../.gitbook/assets/ca-faso-05-h-4-.jpg)
 ![](../../../.gitbook/assets/ca-faso-05-h-5-.jpg)
+![](../../../.gitbook/assets/ca-faso-05-h-6-.jpg)
+![](../../../.gitbook/assets/ca-faso-05-h-7-.jpg)
+![](../../../.gitbook/assets/ca-faso-05-h-8-.jpg)
+![](../../../.gitbook/assets/ca-faso-05-h-9-.jpg)
+![](../../../.gitbook/assets/ca-faso-05-h-10-.jpg)
+![](../../../.gitbook/assets/ca-faso-05-h-11-.jpg)
+![](../../../.gitbook/assets/ca-faso-05-h-12-.jpg)
+![](../../../.gitbook/assets/ca-faso-05-h-13-.jpg)
+![](../../../.gitbook/assets/ca-faso-05-h-14-.jpg)
+![](../../../.gitbook/assets/ca-faso-05-h-15-.jpg)
+![](../../../.gitbook/assets/ca-faso-05-h-16-.jpg)
+![](../../../.gitbook/assets/ca-faso-05-h-17-.jpg)
+![](../../../.gitbook/assets/ca-faso-05-h-18-.jpg)
 
