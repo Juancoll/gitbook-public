@@ -4,14 +4,7 @@
 
 ## 2004
 
-![](../../.gitbook/assets/emotique-2003-xx-er-and-si-1-.jpg)
-![](../../.gitbook/assets/emotique-2003-xx-er-and-si-2-.jpg)
-![](../../.gitbook/assets/emotique-2003-xx-er-and-si-3-.jpg)
-![](../../.gitbook/assets/emotique-2003-xx-er-and-si-4-.jpg)
-![](../../.gitbook/assets/emotique-2003-xx-er-and-si-5-.jpg)
-![](../../.gitbook/assets/emotique-2003-xx-er-and-si-6-.jpg)
-![](../../.gitbook/assets/emotique-2003-xx-er-and-si-7-.jpg)
-![](../../.gitbook/assets/emotique-2003-xx-er-and-si-8-.jpg)
+![](../../.gitbook/assets/emotique-2003-xx-er-and-si-1-.jpg) ![](../../.gitbook/assets/emotique-2003-xx-er-and-si-2-.jpg) ![](../../.gitbook/assets/emotique-2003-xx-er-and-si-3-.jpg) ![](../../.gitbook/assets/emotique-2003-xx-er-and-si-4-.jpg) ![](../../.gitbook/assets/emotique-2003-xx-er-and-si-5-.jpg) ![](../../.gitbook/assets/emotique-2003-xx-er-and-si-6-.jpg) ![](../../.gitbook/assets/emotique-2003-xx-er-and-si-7-.jpg) ![](../../.gitbook/assets/emotique-2003-xx-er-and-si-8-.jpg)
 
 ### Institut Catala de Tecnologia
 
@@ -21,43 +14,41 @@
 
 ### Ikea
 
-{% embed url="https://youtu.be/G1Qz-4hOtlA" %}
+{% embed url="https://youtu.be/G1Qz-4hOtlA" caption="" %}
 
 ## 2005
 
 ### Londres - San Miguel
 
-{% embed url="https://youtu.be/qsnFq99LDt4" %}
+{% embed url="https://youtu.be/qsnFq99LDt4" caption="" %}
 
 ### Sonar - San Miguel
 
-{% embed url="https://youtu.be/VI1s-jzKYzM" %}
+{% embed url="https://youtu.be/VI1s-jzKYzM" caption="" %}
 
-{% embed url="https://youtu.be/iSYfpr6C-rY" %}
+{% embed url="https://youtu.be/iSYfpr6C-rY" caption="" %}
 
 ## 2006
 
 ### Balantines \(Mpp\)
 
-{% embed url="https://youtu.be/OT4FOzXtmHs" %}
+{% embed url="https://youtu.be/OT4FOzXtmHs" caption="" %}
 
 {% file src="../../.gitbook/assets/emotique-2006-09-balantines-capturas-pantallas.zip" caption="SCREEN CAPTURES" %}
-
-
 
 ## 2007
 
 ### 3GSM
 
-{% embed url="https://youtu.be/aPaqVp5wvoQ" %}
+{% embed url="https://youtu.be/aPaqVp5wvoQ" caption="" %}
 
-{% embed url="https://youtu.be/S3hZgz4-CXI" %}
+{% embed url="https://youtu.be/S3hZgz4-CXI" caption="" %}
 
-{% embed url="https://youtu.be/lwyUq9-734k" %}
+{% embed url="https://youtu.be/lwyUq9-734k" caption="" %}
 
-| ![](../../.gitbook/assets/emotique-2007-02-3gsm-foto-3-.jpg)  | ![](../../.gitbook/assets/emotique-2007-02-3gsm-foto-4-.jpg)  |
+| ![](../../.gitbook/assets/emotique-2007-02-3gsm-foto-3-.jpg) | ![](../../.gitbook/assets/emotique-2007-02-3gsm-foto-4-.jpg) |
 | :--- | :--- |
-| ![](../../.gitbook/assets/emotique-2007-02-3gsm-foto-1-.jpg)  | ![](../../.gitbook/assets/emotique-2007-02-3gsm-foto-2-.jpg)  |
+| ![](../../.gitbook/assets/emotique-2007-02-3gsm-foto-1-.jpg) | ![](../../.gitbook/assets/emotique-2007-02-3gsm-foto-2-.jpg) |
 
 ![](../../.gitbook/assets/emotique-2007-02-3gsm-folleto-1-.jpg)
 
@@ -69,37 +60,33 @@
 
 ### Fiesta Nordic & Burn
 
-{% embed url="https://youtu.be/n7dK3U0U79I" %}
-
-
+{% embed url="https://youtu.be/n7dK3U0U79I" caption="" %}
 
 ### EVI - SAN MIGUEL
 
-{% embed url="https://youtu.be/cIS38Hss7LI" %}
-
-
+{% embed url="https://youtu.be/cIS38Hss7LI" caption="" %}
 
 ### Andalucía en movimiento
 
 {% embed url="https://youtu.be/bfJDUAO\_ywE" caption="" %}
 
-{% embed url="https://youtu.be/YuIDFdGUvco" %}
+{% embed url="https://youtu.be/YuIDFdGUvco" caption="" %}
 
-{% embed url="https://youtu.be/ehhFXpBFM74" %}
+{% embed url="https://youtu.be/ehhFXpBFM74" caption="" %}
 
 ![](../../.gitbook/assets/emotique-2007-05-andalucia-gira-1-.jpg) ![](../../.gitbook/assets/emotique-2007-05-andalucia-gira-2-.jpg) ![](../../.gitbook/assets/emotique-2007-05-andalucia-gira-3-.jpg) ![](../../.gitbook/assets/emotique-2007-05-andalucia-gira-4-.jpg) ![](../../.gitbook/assets/emotique-2007-05-andalucia-gira-5-.jpg) ![](../../.gitbook/assets/emotique-2007-05-andalucia-gira-6-.jpg)
 
 ### Museo Darder \(Banyoles\)
 
-{% embed url="https://youtu.be/s7RDUGWJpFk" %}
+{% embed url="https://youtu.be/s7RDUGWJpFk" caption="" %}
 
 ### Cuenta atrás Expo Zaragoza
 
-{% embed url="https://youtu.be/3vGOqsNOD20" %}
+{% embed url="https://youtu.be/3vGOqsNOD20" caption="" %}
 
 ### Toyota
 
-{% embed url="https://youtu.be/hZCntiVXYm0" %}
+{% embed url="https://youtu.be/hZCntiVXYm0" caption="" %}
 
 ## 2008
 
@@ -107,9 +94,7 @@
 
 {% embed url="https://youtu.be/1i12N1XpbaE" caption="" %}
 
-{% embed url="https://youtu.be/UwwzKhGxm14" %}
-
-
+{% embed url="https://youtu.be/UwwzKhGxm14" caption="" %}
 
 ### Expo Zaragoza - Pabellón Arabia Saudi
 
@@ -141,9 +126,7 @@ Convertimos un Airbus 320 en una discoteca aérea con el DJ francés David Guett
 
 ![](../../.gitbook/assets/emotique-2008-05-vueling-david-guetta-1-.jpg) ![](../../.gitbook/assets/emotique-2008-05-vueling-david-guetta-2-.jpg) ![](../../.gitbook/assets/emotique-2008-05-vueling-david-guetta-3-.jpg) ![](../../.gitbook/assets/emotique-2008-05-vueling-david-guetta-4-.jpg)
 
-{% embed url="https://youtu.be/3U\_rctOVkhY" %}
-
-
+{% embed url="https://youtu.be/3U\_rctOVkhY" caption="" %}
 
 {% embed url="https://www.youtube.com/watch?v=YSVz3-1c8Lo" caption="" %}
 

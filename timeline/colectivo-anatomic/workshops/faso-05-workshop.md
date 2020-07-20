@@ -24,3 +24,5 @@ La página de Laafi es www.laafi.com. Seguimos trabajando con ellos por la conti
 
 ![](../../../.gitbook/assets/ca-2005-12-faso-05-5-.jpg) ![](../../../.gitbook/assets/ca-2005-12-faso-05-4-.jpg) ![](../../../.gitbook/assets/ca-2005-12-faso-05-5-%20%281%29.jpg) ![](../../../.gitbook/assets/ca-2005-12-faso-05-6-.jpg) ![](../../../.gitbook/assets/ca-2005-12-faso-05-7-.jpg) ![](../../../.gitbook/assets/ca-2005-12-faso-05-8-.jpg) ![](../../../.gitbook/assets/ca-2005-12-faso-05-2-.jpg) ![](../../../.gitbook/assets/ca-2005-12-faso-05-1-.jpg)
 
+![](../../../.gitbook/assets/ca-faso-05-h-5-.jpg)
+
