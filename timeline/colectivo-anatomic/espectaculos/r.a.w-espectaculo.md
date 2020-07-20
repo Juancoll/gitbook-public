@@ -77,22 +77,7 @@
 
 Alain Wergifosse, ruidista profesional, compone la atmósfera acústica. Las performers e intérpretes de los instrumentos interactivos son Caro Pastor y Marta Pelegrina. Joan Coll toca la guitarra eléctrica. La iluminación y las fotos son de Jordi Torra.
 
-![](../../../.gitbook/assets/ca-raw-chile-valparaiso-1-.jpg)
-![](../../../.gitbook/assets/ca-raw-chile-valparaiso-2-.jpg)
-![](../../../.gitbook/assets/ca-raw-chile-valparaiso-3-.jpg)
-![](../../../.gitbook/assets/ca-raw-chile-valparaiso-4-.jpg)
-![](../../../.gitbook/assets/ca-raw-chile-valparaiso-5-.jpg)
-![](../../../.gitbook/assets/ca-raw-chile-valparaiso-6-.jpg)
-![](../../../.gitbook/assets/ca-raw-chile-valparaiso-7-.jpg)
-![](../../../.gitbook/assets/ca-raw-chile-valparaiso-8-.jpg)
-![](../../../.gitbook/assets/ca-raw-chile-valparaiso-9-.jpg)
-![](../../../.gitbook/assets/ca-raw-chile-valparaiso-10-.jpg)
-![](../../../.gitbook/assets/ca-raw-chile-valparaiso-11-.jpg)
-![](../../../.gitbook/assets/ca-raw-chile-valparaiso-12-.jpg)
-![](../../../.gitbook/assets/ca-raw-chile-valparaiso-13-.jpg)
-![](../../../.gitbook/assets/ca-raw-chile-valparaiso-14-.jpg)
-![](../../../.gitbook/assets/ca-raw-chile-valparaiso-15-.jpg)
-![](../../../.gitbook/assets/ca-raw-chile-valparaiso-16-.jpg)
+![](../../../.gitbook/assets/ca-raw-chile-valparaiso-1-.jpg) ![](../../../.gitbook/assets/ca-raw-chile-valparaiso-2-.jpg) ![](../../../.gitbook/assets/ca-raw-chile-valparaiso-3-.jpg) ![](../../../.gitbook/assets/ca-raw-chile-valparaiso-4-.jpg) ![](../../../.gitbook/assets/ca-raw-chile-valparaiso-5-.jpg) ![](../../../.gitbook/assets/ca-raw-chile-valparaiso-6-.jpg) ![](../../../.gitbook/assets/ca-raw-chile-valparaiso-7-.jpg) ![](../../../.gitbook/assets/ca-raw-chile-valparaiso-8-.jpg) ![](../../../.gitbook/assets/ca-raw-chile-valparaiso-9-.jpg) ![](../../../.gitbook/assets/ca-raw-chile-valparaiso-10-.jpg) ![](../../../.gitbook/assets/ca-raw-chile-valparaiso-11-.jpg) ![](../../../.gitbook/assets/ca-raw-chile-valparaiso-12-.jpg) ![](../../../.gitbook/assets/ca-raw-chile-valparaiso-13-.jpg) ![](../../../.gitbook/assets/ca-raw-chile-valparaiso-14-.jpg) ![](../../../.gitbook/assets/ca-raw-chile-valparaiso-15-.jpg) ![](../../../.gitbook/assets/ca-raw-chile-valparaiso-16-.jpg)
 
 ### \(Septiembre\) Colombia
 
@@ -152,9 +137,21 @@ El jueves 2 de noviembre el Colectivo Anatomic actuó en el CHESTERFIELD CAFE \(
 
 El Colectivo Anatomic regresó de Perú. Han trabajado con el Centro Fundación Telefónica y el Centro Cultural de España en Lima.
 
-EN EL CENTRO FUNDACION TELEFONICA LIMA realizaron Talleres de Arte y Nuevas Tecnologías, y la Conferencia-Concierto. Presentaron RAW en el Auditorio Telefonica. EN EL CENTRO CULTURAL DE ESPAÑA EN LIMA mostraron la Conferencia-Concierto y celebraron encuentros con artistas locales.
+EN EL CENTRO FUNDACION TELEFONICA LIMA realizaron Talleres de Arte y Nuevas Tecnologías, y la Conferencia-Concierto. Presentaron RAW en el Auditorio Telefonica. EN EL CENTRO CULTURAL DE ESPAÑA EN LIMA mostraron la Conferencia-Concierto y celebraron encuentros con artistas locales. ![](https://github.com/Juancoll/gitbook-public/tree/cab16e7d222ed1937a57f9bb87d6da50c2620355/.gitbook/assets/ca-2006-11-raw-peru-2-.jpg) ![](https://github.com/Juancoll/gitbook-public/tree/cab16e7d222ed1937a57f9bb87d6da50c2620355/.gitbook/assets/ca-2006-11-raw-peru-3-.jpg)
 
-![](../../../.gitbook/assets/ca-2006-11-raw-peru-1-.jpg) ![](https://github.com/Juancoll/gitbook-public/tree/cab16e7d222ed1937a57f9bb87d6da50c2620355/.gitbook/assets/ca-2006-11-raw-peru-2-.jpg) ![](https://github.com/Juancoll/gitbook-public/tree/cab16e7d222ed1937a57f9bb87d6da50c2620355/.gitbook/assets/ca-2006-11-raw-peru-3-.jpg)
+#### Conferencia
+
+![](../../../.gitbook/assets/ca-raw-peru-conferencia-7-.jpg)
+
+
+
+#### Concierto
+
+![](../../../.gitbook/assets/ca-raw-peru-concierto-26-.jpg)
+
+{% file src="../../../.gitbook/assets/ca-raw-peru-fotos-ensayo.zip" caption="FOTOS ENSAYOS" %}
+
+
 
 ### \(Diciembre\) Concierto Apolo
 
