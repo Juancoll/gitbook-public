@@ -97,11 +97,13 @@ Junto a las funciones impartieron talleres y conferencias.
 
 ![](../../../.gitbook/assets/ca-2006-09-raw-colombia-medellin-1-.jpg) ![](../../../.gitbook/assets/ca-2006-09-raw-colombia-medellin-2-%20%281%29.jpg) ![](../../../.gitbook/assets/ca-2006-09-raw-colombia-medellin-3-.jpg)
 
+
+
 #### Extras
 
 ![](../../../.gitbook/assets/ca-gira-colombia-1-.jpg) ![](../../../.gitbook/assets/ca-gira-colombia-2-.jpg) ![](../../../.gitbook/assets/ca-gira-colombia-3-.jpg) ![](../../../.gitbook/assets/ca-gira-colombia-4-.jpg)
 
-## 2006 \(Septiembre\) Australia - Sydney, Canberra, Newcastle
+### \(Septiembre\) Australia - Sydney, Canberra, Newcastle
 
 Las performers e intérpretes de los instrumentos interactivos fueron Caro Pastor y Marta Pelegrina. Joan Coll tocó la guitarra eléctrica y la guitarra eléctrica virtual. El ruidista Alain Wergifosse manipuló los ordenadores.
 
@@ -119,9 +121,9 @@ RAW se ha presentado en Barcelona, Tortosa, Pozega \(Croacia\), Koudougou \(Burk
 
 
 
-## 2006 \(Octubre\) Brasil
+### \(Octubre\) Brasil
 
-### Festival Riocenacontemporanea. Rio de Janeiro.
+#### Festival Riocenacontemporanea. Rio de Janeiro.
 
 RAW se estrenó en mayo de 2005 en Barcelona. Joan Coll y Álvaro Uña idearon la dramaturgia y la dirección.
 
@@ -129,17 +131,17 @@ Las performers e intérpretes de los instrumentos interactivos fueron Caro Pasto
 
 ![Al fondo: Manolo, Marta, Lorena y Caro. En primer plano: Pedro, del Festival Riosescena, y &#xC1;lvaro.](../../../.gitbook/assets/ca-2006-10-raw-brasil-1-.jpg)
 
-### MobileFest. Teatro da Federaçao do Comercio FECOM. Sao Paolo
+#### MobileFest. Teatro da Federaçao do Comercio FECOM. Sao Paolo
 
 Junto a las funciones, completa la gira internacional los talleres y conferencias que los miembros del Colectivo Anatomic imparten en teatros y universidades. En Sao Paolo participarón en el MobileFest, festival de tecnología móvil.
 
-## 2006 \(Noviembre\) Madrid
+### \(Noviembre\) Madrid
 
 El jueves 2 de noviembre el Colectivo Anatomic actuó en el CHESTERFIELD CAFE \(c/Serrano Jover 5, esquina Alberto Aguilera\).
 
 ![](../../../.gitbook/assets/ca-2006-11-raw-madrid-1-.jpg)
 
-## 2006 \(Noviembre\) Perú
+### \(Noviembre\) Perú
 
 El Colectivo Anatomic regresó de Perú. Han trabajado con el Centro Fundación Telefónica y el Centro Cultural de España en Lima.
 
@@ -147,7 +149,7 @@ EN EL CENTRO FUNDACION TELEFONICA LIMA realizaron Talleres de Arte y Nuevas Tecn
 
 ![](../../../.gitbook/assets/ca-2006-11-raw-peru-1-.jpg) ![](https://github.com/Juancoll/gitbook-public/tree/cab16e7d222ed1937a57f9bb87d6da50c2620355/.gitbook/assets/ca-2006-11-raw-peru-2-.jpg) ![](https://github.com/Juancoll/gitbook-public/tree/cab16e7d222ed1937a57f9bb87d6da50c2620355/.gitbook/assets/ca-2006-11-raw-peru-3-.jpg)
 
-## 2006 \(Diciembre\) Concierto Apolo
+### \(Diciembre\) Concierto Apolo
 
 Fiesta final de la GiraInternacional2006.
 
@@ -163,7 +165,9 @@ Fiesta final de la GiraInternacional2006.
 
 {% embed url="https://youtu.be/4psF1Z7r-xc" caption="" %}
 
-## 2007 \(Abril\) Marruecos \(Tetuan, Casablanca y Tager\)
+## 2007 
+
+### \(Abril\) Marruecos \(Tetuan, Casablanca y Tager\)
 
 ![](../../../.gitbook/assets/ca-2007-04-raw-marruecos-1-.jpg) ![](../../../.gitbook/assets/ca-2007-04-raw-marruecos-2-.jpg) ![](../../../.gitbook/assets/ca-2007-04-raw-marruecos-3-.jpg) ![](../../../.gitbook/assets/ca-2007-04-raw-marruecos-4-.jpg) ![](../../../.gitbook/assets/ca-2007-04-raw-marruecos-5-.jpg) ![](../../../.gitbook/assets/ca-2007-04-raw-marruecos-6-.jpg)
 
