@@ -50,6 +50,8 @@ Presentado en el 3GSM 2007 en el pabellón de Barcelona.
 
 {% embed url="https://youtu.be/8XWCnMwT6xI" caption="" %}
 
+{% embed url="https://youtu.be/TioVnYnsvWg" %}
+
 {% file src="../../.gitbook/assets/emotique-product-silueta\_holografica-ficha.pdf" caption="FICHA \(pdf\)" %}
 
 ![](../../.gitbook/assets/emotique-product-esignage-cs-ficha.jpg)
@@ -71,6 +73,10 @@ Presentado en el 3GSM 2007 en el pabellón de Barcelona.
 ![](../../.gitbook/assets/emotique-product-lightshape-1-.jpg) ![](../../.gitbook/assets/emotique-product-lightshape-2-.jpg) ![](../../.gitbook/assets/emotique-product-lightshape-3-.jpg) ![](../../.gitbook/assets/emotique-product-lightshape-4-.jpg) ![](../../.gitbook/assets/emotique-product-lightshape-5-.jpg)
 
 ![](../../.gitbook/assets/emotique-product-siluetas-mini-1-.jpg) ![](../../.gitbook/assets/emotique-product-siluetas-mini-2-.jpg) ![](../../.gitbook/assets/emotique-product-siluetas-mini-3-.jpg) ![](../../.gitbook/assets/emotique-product-siluetas-mini-4-.jpg) ![](../../.gitbook/assets/emotique-product-siluetas-mini-5-.jpg) ![](../../.gitbook/assets/emotique-product-siluetas-mini-6-.jpg) ![](../../.gitbook/assets/emotique-product-siluetas-mini-7-.jpg) ![](../../.gitbook/assets/emotique-product-siluetas-mini-8-.jpg)
+
+{% embed url="https://youtu.be/qAsgnGy4CfM" %}
+
+
 
 ## Holocube
 

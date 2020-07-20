@@ -42,6 +42,8 @@ Proyecto para una Serie de Televisión entre la Salle Url, Guillem Bou y Cromoso
 
 ## **Ventura & Nieto**
 
+**Un regalo que me hizo en su apartamento.**
+
 ![](../.gitbook/assets/pre-draw-ventura-and-nieto-groucho-1-.jpg)
 
 ![](../.gitbook/assets/pre-draw-ventura-and-nieto-groucho-2-.jpg)
@@ -136,7 +138,7 @@ Curso de teoría de la imagen impartido en el Master en Productos Multimedia de 
 
 ## El passatge
 
-
+Nuestra asociación que montamos entre Lieven, Adam y otros
 
 ![](../.gitbook/assets/pre-el-passatge-1-.jpg)
 
