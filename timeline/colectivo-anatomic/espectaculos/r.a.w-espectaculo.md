@@ -71,19 +71,7 @@
 
 {% embed url="https://youtu.be/Zfg9ZbWq0nQ" caption="" %}
 
-![](../../../.gitbook/assets/ca-raw-sonar-1-.jpg)
-![](../../../.gitbook/assets/ca-raw-sonar-2-.jpg)
-![](../../../.gitbook/assets/ca-raw-sonar-3-.jpg)
-![](../../../.gitbook/assets/ca-raw-sonar-4-.jpg)
-![](../../../.gitbook/assets/ca-raw-sonar-5-.jpg)
-![](../../../.gitbook/assets/ca-raw-sonar-6-.jpg)
-![](../../../.gitbook/assets/ca-raw-sonar-7-.jpg)
-![](../../../.gitbook/assets/ca-raw-sonar-8-.jpg)
-![](../../../.gitbook/assets/ca-raw-sonar-9-.jpg)
-![](../../../.gitbook/assets/ca-raw-sonar-10-.jpg)
-![](../../../.gitbook/assets/ca-raw-sonar-11-.jpg)
-![](../../../.gitbook/assets/ca-raw-sonar-12-.jpg)
-
+![](../../../.gitbook/assets/ca-raw-sonar-1-.jpg) ![](../../../.gitbook/assets/ca-raw-sonar-2-.jpg) ![](../../../.gitbook/assets/ca-raw-sonar-3-.jpg) ![](../../../.gitbook/assets/ca-raw-sonar-4-.jpg) ![](../../../.gitbook/assets/ca-raw-sonar-5-.jpg) ![](../../../.gitbook/assets/ca-raw-sonar-6-.jpg) ![](../../../.gitbook/assets/ca-raw-sonar-7-.jpg) ![](../../../.gitbook/assets/ca-raw-sonar-8-.jpg) ![](../../../.gitbook/assets/ca-raw-sonar-9-.jpg) ![](../../../.gitbook/assets/ca-raw-sonar-10-.jpg) ![](../../../.gitbook/assets/ca-raw-sonar-11-.jpg) ![](../../../.gitbook/assets/ca-raw-sonar-12-.jpg)
 
 ### \(Agosto\) Parque Cultural Ex-Cárcel, Valparaíso, Chile
 
