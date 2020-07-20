@@ -95,9 +95,36 @@ Junto a las funciones impartieron talleres y conferencias.
 
 #### Medellin
 
-![](../../../.gitbook/assets/ca-2006-09-raw-colombia-medellin-1-.jpg) ![](../../../.gitbook/assets/ca-2006-09-raw-colombia-medellin-2-%20%281%29.jpg) ![](../../../.gitbook/assets/ca-2006-09-raw-colombia-medellin-3-.jpg)
-
+![](../../../.gitbook/assets/ca-2006-09-raw-medellin-1-.jpg)
+![](../../../.gitbook/assets/ca-2006-09-raw-medellin-2-.jpg)
+![](../../../.gitbook/assets/ca-2006-09-raw-medellin-3-.jpg)
+![](../../../.gitbook/assets/ca-2006-09-raw-medellin-4-.jpg)
+![](../../../.gitbook/assets/ca-2006-09-raw-medellin-5-.jpg)
+![](../../../.gitbook/assets/ca-2006-09-raw-medellin-6-.jpg)
+![](../../../.gitbook/assets/ca-2006-09-raw-medellin-7-.jpg)
+![](../../../.gitbook/assets/ca-2006-09-raw-medellin-8-.jpg)
+![](../../../.gitbook/assets/ca-2006-09-raw-medellin-9-.jpg)
+![](../../../.gitbook/assets/ca-2006-09-raw-medellin-10-.jpg)
+![](../../../.gitbook/assets/ca-2006-09-raw-medellin-11-.jpg)
+![](../../../.gitbook/assets/ca-2006-09-raw-medellin-12-.jpg)
+![](../../../.gitbook/assets/ca-2006-09-raw-medellin-13-.jpg)
+![](../../../.gitbook/assets/ca-2006-09-raw-medellin-14-.jpg)
+![](../../../.gitbook/assets/ca-2006-09-raw-medellin-15-.jpg)
+![](../../../.gitbook/assets/ca-2006-09-raw-medellin-16-.jpg)
+![](../../../.gitbook/assets/ca-2006-09-raw-medellin-17-.jpg)
+![](../../../.gitbook/assets/ca-2006-09-raw-medellin-18-.jpg)
+![](../../../.gitbook/assets/ca-2006-09-raw-medellin-19-.jpg)
+![](../../../.gitbook/assets/ca-2006-09-raw-medellin-20-.jpg)
+![](../../../.gitbook/assets/ca-2006-09-raw-medellin-21-.jpg)
 ![](../../../.gitbook/assets/ca-2006-09-raw-medellin-22-.jpg)
+![](../../../.gitbook/assets/ca-2006-09-raw-medellin-23-.jpg)
+![](../../../.gitbook/assets/ca-2006-09-raw-medellin-24-.jpg)
+![](../../../.gitbook/assets/ca-2006-09-raw-medellin-25-.jpg)
+![](../../../.gitbook/assets/ca-2006-09-raw-medellin-26-.jpg)
+![](../../../.gitbook/assets/ca-2006-09-raw-medellin-27-.jpg)
+![](../../../.gitbook/assets/ca-2006-09-raw-medellin-28-.jpg)
+![](../../../.gitbook/assets/ca-2006-09-raw-medellin-29-.jpg)
+![](../../../.gitbook/assets/ca-2006-09-raw-medellin-30-.jpg)
 
 #### Extras
 
