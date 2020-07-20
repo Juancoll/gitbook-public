@@ -2,7 +2,7 @@
 description: Diciembre 2005
 ---
 
-# FASO 05 - workshop
+# FASO 05
 
 {% embed url="https://www.laafi.com/" caption="" %}
 

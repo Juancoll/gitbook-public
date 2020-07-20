@@ -2,7 +2,7 @@
 description: En construcción
 ---
 
-# Medellín - workshop
+# Medellín
 
 {% embed url="https://youtu.be/lMe5SfkIfB4" %}
 
