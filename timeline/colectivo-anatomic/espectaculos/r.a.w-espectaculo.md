@@ -89,6 +89,17 @@ Junto a las funciones impartieron talleres y conferencias.
 
 ![](../../../.gitbook/assets/ca-2006-09-raw-colombia-bogota-1-.jpg) ![](../../../.gitbook/assets/ca-2006-09-raw-colombia-bogota-2-.jpg) ![](../../../.gitbook/assets/ca-2006-09-raw-colombia-bogota-3-.jpg) ![](../../../.gitbook/assets/ca-2006-09-raw-colombia-bogota-4-.jpg)
 
+![](../../../.gitbook/assets/ca-raw-bogota-mapa-teatro-1-.jpg)
+![](../../../.gitbook/assets/ca-raw-bogota-mapa-teatro-2-.jpg)
+![](../../../.gitbook/assets/ca-raw-bogota-mapa-teatro-3-.jpg)
+![](../../../.gitbook/assets/ca-raw-bogota-mapa-teatro-4-.jpg)
+![](../../../.gitbook/assets/ca-raw-bogota-mapa-teatro-5-.jpg)
+![](../../../.gitbook/assets/ca-raw-bogota-mapa-teatro-6-.jpg)
+![](../../../.gitbook/assets/ca-raw-bogota-mapa-teatro-7-.jpg)
+![](../../../.gitbook/assets/ca-raw-bogota-mapa-teatro-8-.jpg)
+![](../../../.gitbook/assets/ca-raw-bogota-mapa-teatro-9-.jpg)
+![](../../../.gitbook/assets/ca-raw-bogota-mapa-teatro-10-.jpg)
+![](../../../.gitbook/assets/ca-raw-bogota-mapa-teatro-11-.jpg)
 ![](../../../.gitbook/assets/ca-raw-bogota-mapa-teatro-12-.jpg)
 
 #### Medellin
