@@ -19,7 +19,10 @@ I start developing the protocol to communicate local Webs or \(mobile apps\) to 
 
 ### the idea
 
-Separate the Function \(Operation\) from Call Protocol \(Rest API, Websocket, Pure TCP IP,  ...\). In this implementation we only use websocket but with 2 different protocols: Request/Response and Publish/Subscribe. We will use typescript and decorators for the implementation. 
+Separate the Function \(Operation\) from the call Protocol \(Rest API, Websocket, Pure TCP IP,  ...\). In this implementation we only use websocket but with 2 different protocols: Request/Response and Publish/Subscribe.  The implementation is in typescript with decorators. 
+
+* Only Implements the server
+* automatic client generation \(ts or c\#\)
 
 ```typescript
 // ----------------------------------------------------------------------------
@@ -66,13 +69,13 @@ await wsapi.baseContract.methodA();
 
 ### Server
 
-
-
-
+{% embed url="https://github.com/Juancoll/nexjs-ws.dev-project.server" %}
 
 ### Client
 
-## Nexcs - Websocket
+{% embed url="https://github.com/Juancoll/nexjs-ws.dev-project.client" %}
+
+## Nexcs - Websocket \(in process\)
 
 ### Overview
 
