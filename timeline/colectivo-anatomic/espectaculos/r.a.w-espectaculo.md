@@ -24,6 +24,20 @@
 
 {% embed url="https://youtu.be/B3fm4PX\_wKk" caption="" %}
 
+### Audios
+
+{% file src="../../../.gitbook/assets/ca-raw-audio-my\_name.mp3" caption="MY NAME" %}
+
+{% file src="../../../.gitbook/assets/ca-raw-audio-concierto.mp3" caption="CONCIERTO FINAL" %}
+
+{% file src="../../../.gitbook/assets/ca-raw-audio-pdadueto.mp3" caption="PDA DUETO" %}
+
+{% embed url="https://nexteamio-my.sharepoint.com/:b:/g/personal/juan\_coll\_nex-group\_io/EUWn6Gd45WpItjI8J-AbvAEBCqC8-294xyQb3oMqW937wA?e=fIzZDe" caption="DOSSIER PRENSA - 2007" %}
+
+{% embed url="https://nexteamio-my.sharepoint.com/:u:/g/personal/juan\_coll\_nex-group\_io/EZMi4eciqY1JojwPWupnVKYBs8mo65yOf2EWzw\_TjRtt0w?e=FPNarP" caption="ESPECTÁCULO COMPLETO AUDIO - CAN GOLFERICH" %}
+
+
+
 ## 2005
 
 * POZEGA, Croacia, Gradsko kazaliste 
@@ -41,11 +55,15 @@
 
 ![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-1-.jpg) ![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-2-.jpg) ![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-3-.jpg) ![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-4-.jpg) ![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-5-.jpg) ![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-6-.jpg) ![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-7-.jpg) ![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-8-.jpg) ![](../../../.gitbook/assets/ca-2005-11-raw-iglesia-la-ostia-9-.jpg)
 
-## 2006 - La gira \(folleto\)
+## 2006
+
+### Folleto
 
 ![gira 2007 - 2008 ](../../../.gitbook/assets/ca-2006-xx-raw-folleto-gira.jpg)
 
 ### Barcelona
+
+
 
 {% embed url="https://youtu.be/MF6bLoHWUag" %}
 
@@ -53,39 +71,33 @@
 
 {% embed url="https://youtu.be/QmcIfoa-qX0" %}
 
-
-
-## 2006 \(Junio\) Barcelona, Festival Sonar
-
-### Entrevista Allain Vergifosse
+### \(Junio\) Barcelona, Festival Sonar
 
 {% embed url="https://youtu.be/Zfg9ZbWq0nQ" caption="" %}
 
-### fotos
-
 ![](../../../.gitbook/assets/ca-2006-06-bcn-sonar-1-.jpg) ![](../../../.gitbook/assets/ca-2006-06-bcn-sonar-2-.jpg) ![](../../../.gitbook/assets/ca-2006-06-bcn-sonar-3-.jpg)
 
-## 2006  \(Agosto\) Parque Cultural Ex-Cárcel, Valparaíso, Chile
+### \(Agosto\) Parque Cultural Ex-Cárcel, Valparaíso, Chile
 
 Alain Wergifosse, ruidista profesional, compone la atmósfera acústica. Las performers e intérpretes de los instrumentos interactivos son Caro Pastor y Marta Pelegrina. Joan Coll toca la guitarra eléctrica. La iluminación y las fotos son de Jordi Torra.
 
 ![](../../../.gitbook/assets/ca-2006-08-raw-chile-valparaiso-1-.jpg) ![](../../../.gitbook/assets/ca-2006-08-raw-chile-valparaiso-2-.jpg) ![](../../../.gitbook/assets/ca-2006-08-raw-chile-valparaiso-4-.jpg) ![](../../../.gitbook/assets/ca-2006-08-raw-chile-valparaiso-5-.jpg) ![](../../../.gitbook/assets/ca-2006-08-raw-chile-valparaiso-3-.jpg)
 
-## 2006 \(Septiembre\) Colombia
+### \(Septiembre\) Colombia
 
 Las performers e intérpretes de los instrumentos interactivos fueron Caro Pastor y Marta Pelegrina. Joan Coll tocó la guitarra eléctrica. Álvaro Uña manipuló los ordenadores y tocó la guitarra eléctrica virtual. Más de cuatro mil espectadores presenciaron RAW.
 
 Junto a las funciones impartieron talleres y conferencias.
 
-### Bogota
+#### Bogota
 
 ![](../../../.gitbook/assets/ca-2006-09-raw-colombia-bogota-1-.jpg) ![](../../../.gitbook/assets/ca-2006-09-raw-colombia-bogota-2-.jpg) ![](../../../.gitbook/assets/ca-2006-09-raw-colombia-bogota-3-.jpg) ![](../../../.gitbook/assets/ca-2006-09-raw-colombia-bogota-4-.jpg)
 
-### Medellin
+#### Medellin
 
 ![](../../../.gitbook/assets/ca-2006-09-raw-colombia-medellin-1-.jpg) ![](../../../.gitbook/assets/ca-2006-09-raw-colombia-medellin-2-%20%281%29.jpg) ![](../../../.gitbook/assets/ca-2006-09-raw-colombia-medellin-3-.jpg)
 
-### Extras
+#### Extras
 
 ![](../../../.gitbook/assets/ca-gira-colombia-1-.jpg) ![](../../../.gitbook/assets/ca-gira-colombia-2-.jpg) ![](../../../.gitbook/assets/ca-gira-colombia-3-.jpg) ![](../../../.gitbook/assets/ca-gira-colombia-4-.jpg)
 
@@ -98,6 +110,14 @@ RAW se ha presentado en Barcelona, Tortosa, Pozega \(Croacia\), Koudougou \(Burk
 | ![](../../../.gitbook/assets/ca-2006-09-raw-australia-1-.jpg) | ![](../../../.gitbook/assets/ca-2006-09-raw-australia-2-.jpg) |
 | :--- | :--- |
 | Caro ante la Ópera de Sidney | Marta, Joan \(con la banda de gala de los Tunos de Sants\), Alain \(con extraños objetos en sus manos\), Caro, Alister y su mujer \(nuestros anfitriones\). |
+
+{% embed url="https://youtu.be/YJWlQgYSnQk" %}
+
+{% embed url="https://youtu.be/xOzF7SeunW0" %}
+
+{% embed url="https://youtu.be/J4Pvt243Su0" %}
+
+
 
 ## 2006 \(Octubre\) Brasil
 

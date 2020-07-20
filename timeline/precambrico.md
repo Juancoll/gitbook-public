@@ -16,6 +16,8 @@ Proyecto para una Serie de Televisión entre la Salle Url, Guillem Bou y Cromoso
 
 {% embed url="https://youtu.be/4n3ZTf5C\_AQ" caption="" %}
 
+![](../.gitbook/assets/pre-terra-de-dracs-comic.jpg)
+
 ![](../.gitbook/assets/pre-terra-de-dracs-bocetos-2-.jpg)
 
 ![](../.gitbook/assets/pre-terra-de-dracs-bocetos-10-.jpg)
@@ -94,6 +96,16 @@ Curso de teoría de la imagen impartido en el Master en Productos Multimedia de 
 
 ## Dibujo
 
+### Pintura
+
+![](../.gitbook/assets/pre-draw-pintura.jpg)
+
+### 3D
+
+{% embed url="https://youtu.be/WD1r3Hk24F0" %}
+
+
+
 ### Adolescencia
 
 ![](../.gitbook/assets/pre-draw-16-1-.jpg) ![](../.gitbook/assets/pre-draw-16-2-.jpg) ![](../.gitbook/assets/pre-draw-16-3-.jpg) ![](../.gitbook/assets/pre-draw-16-4-.jpg) ![](../.gitbook/assets/pre-draw-16-5-.jpg) ![](../.gitbook/assets/pre-draw-16-6-.jpg) ![](../.gitbook/assets/pre-draw-16-7-.jpg) ![](../.gitbook/assets/pre-draw-16-8-.jpg) ![](../.gitbook/assets/pre-draw-16-9-.jpg) ![](../.gitbook/assets/pre-draw-16-10-.jpg)
@@ -112,9 +124,27 @@ Curso de teoría de la imagen impartido en el Master en Productos Multimedia de 
 
 ### Comic
 
+![](../.gitbook/assets/pre-draw-comic-1-%20%281%29.jpg)
+
+![](../.gitbook/assets/pre-draw-comic-2-%20%281%29.jpg)
+
 ![](../.gitbook/assets/pre-draw-comic-1-.jpg) ![](../.gitbook/assets/pre-draw-comic-2-.jpg) ![](../.gitbook/assets/pre-draw-comic-3-.jpg) ![](../.gitbook/assets/pre-draw-comic-4-.jpg) ![](../.gitbook/assets/pre-draw-comic-5-.jpg) ![](../.gitbook/assets/pre-draw-comic-6-.jpg) ![](../.gitbook/assets/pre-draw-comic-7-.jpg) ![](../.gitbook/assets/pre-draw-comic-8-.jpg) ![](../.gitbook/assets/pre-draw-comic-9-.jpg) ![](../.gitbook/assets/pre-draw-comic-10-.jpg) ![](../.gitbook/assets/pre-draw-comic-11-.jpg) ![](../.gitbook/assets/pre-draw-comic-12-.jpg) ![](../.gitbook/assets/pre-draw-comic-13-.jpg) ![](../.gitbook/assets/pre-draw-comic-14-.jpg) ![](../.gitbook/assets/pre-draw-comic-15-.jpg) ![](../.gitbook/assets/pre-draw-comic-16-.jpg) ![](../.gitbook/assets/pre-draw-comic-17-.jpg) ![](../.gitbook/assets/pre-draw-comic-18-.jpg) ![](../.gitbook/assets/pre-draw-comic-19-.jpg) ![](../.gitbook/assets/pre-draw-comic-20-.jpg) ![](../.gitbook/assets/pre-draw-comic-21-.jpg) ![](../.gitbook/assets/pre-draw-comic-22-.jpg) ![](../.gitbook/assets/pre-draw-comic-23-.jpg) ![](../.gitbook/assets/pre-draw-comic-24-.jpg) ![](../.gitbook/assets/pre-draw-comic-25-.jpg) ![](../.gitbook/assets/pre-draw-comic-26-.jpg) ![](../.gitbook/assets/pre-draw-comic-27-.jpg) ![](../.gitbook/assets/pre-draw-comic-28-.jpg) ![](../.gitbook/assets/pre-draw-comic-29-.jpg) ![](../.gitbook/assets/pre-draw-comic-30-.jpg) ![](../.gitbook/assets/pre-draw-comic-31-.jpg) ![](../.gitbook/assets/pre-draw-comic-32-.jpg) ![](../.gitbook/assets/pre-draw-comic-33-.jpg) ![](../.gitbook/assets/pre-draw-comic-34-.jpg) ![](../.gitbook/assets/pre-draw-comic-35-.jpg) ![](../.gitbook/assets/pre-draw-comic-36-.jpg) ![](../.gitbook/assets/pre-draw-comic-37-.jpg) ![](../.gitbook/assets/pre-draw-comic-38-.jpg) ![](../.gitbook/assets/pre-draw-comic-39-.jpg) ![](../.gitbook/assets/pre-draw-comic-40-.jpg) ![](../.gitbook/assets/pre-draw-comic-40-.jpg) ![](../.gitbook/assets/pre-draw-comic-41-.jpg) ![](../.gitbook/assets/pre-draw-comic-42-.jpg) ![](../.gitbook/assets/pre-draw-comic-43-.jpg)
 
 ![](../.gitbook/assets/pre-draw-comics-01.jpg)
 
 ![](../.gitbook/assets/pre-draw-comics-02.jpg)
+
+## El passatge
+
+
+
+![](../.gitbook/assets/pre-el-passatge-1-.jpg)
+
+![](../.gitbook/assets/pre-el-passatge-2-.jpg)
+
+![](../.gitbook/assets/pre-el-passatge-3-.jpg)
+
+
+
+
 

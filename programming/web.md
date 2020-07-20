@@ -25,6 +25,8 @@ I start developing the protocol to communicate local Webs or \(mobile apps\) to 
 
 
 
+
+
 ### Client
 
 ## Nexcs - Websocket

@@ -4,5 +4,9 @@ description: En construcción
 
 # Medellín - workshop
 
-Pendiente de encontrar el material ...
+{% embed url="https://youtu.be/lMe5SfkIfB4" %}
+
+{% embed url="https://youtu.be/FMkdRKDoMnQ" %}
+
+
 
