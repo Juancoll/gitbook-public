@@ -31,8 +31,8 @@ Durante nuestra aventura en el mundo del arte y la tecnología, aparece Olivier 
 
 ### [Emotique S.L.](emotique-sl/)
 
-* Se desarrolla el Software "ooo" un sistema de programación visual como base de toda la tecnología de la empresa.  
-* Se presentan 2 Proyectos Europeos \(con el[ Fraunhofer-Gesellschaft](https://www.fraunhofer.de/en.html)\) alrededor de nuestro software.
+* Se desarrolla el Software ["ooo"](../programming/ooo-programacion-visual.md) un sistema de programación visual como base de toda la tecnología de la empresa.  
+* Se presentan [2 Proyectos Europeos](emotique-sl/#proyectos-europeos) \(con el[ Fraunhofer-Gesellschaft](https://www.fraunhofer.de/en.html)\) alrededor de nuestro software.
 * Se especializa en interacción y multimedia aplicada al mundo del evento.
 * La empresa fue participada por la caja de ahorros de Navarra en más de un 20%. Con la Crisis de 2008-2009 se tuvo que cerrar la empresa.
 
@@ -41,10 +41,10 @@ Durante nuestra aventura en el mundo del arte y la tecnología, aparece Olivier 
 Mi socio se muda a Brasil en plena crisis en España, y decidimos seguir con la actividad de desarrollo en España y empezar a trabajar en Brasil. MediaFlow se especializa en Mapping y grandes proyecciones con el desarrollo de su software del mismo nombre MediaFlow Software.
 
 * Muchos trabajos en brasil en su primera fase.
-* Mapping de una de las cúpulas más grandes del mundo. El WTC de Sao Paulo \(80 x 50 metros\)
+* Mapping de una de las cúpulas más grandes del mundo. El [WTC de Sao Paulo](mediaflow-events-sl/works.md#dome-world-trade-center-sao-paulo) \(80 x 50 metros\)
 * Cuando empieza a abrirse de nuevo el mercado español, Mediaflow ofrece su espacio y trabajos a un conjunto de profesionales independientes. Empieza lo que se convertirá en la Nexcommunity.
-* Primeros desarrollos del Nexwarp \(Software de Mapping para retail\)
-* Necesidad de separar el **Desarrollo** \(Software\) de la **Producción/Contenidos** en los eventos. Creación  de las 2 empresas con socios diferentes de Nexcode y Nexcommunity.
+* Primeros desarrollos del [Nexwarp ](../programming/nexwarp.md)\(Software de Mapping para retail\)
+* Necesidad de separar el **Desarrollo** \(Software\) de la **Producción/Contenidos** en los eventos. Creación  de las 2 empresas con socios diferentes de [Nexcode ](nexcode-sl.md)y [Nexcommunity](nexcommunity-sl/).
 
 ### [Nexcommunity Media S.L.](nexcommunity-sl/)
 
@@ -52,9 +52,9 @@ Mi socio se muda a Brasil en plena crisis en España, y decidimos seguir con la 
 
 Junto con Tomeu Fiol y Jorge Lopez Lopez-Gay, se crea la empresa para gestionar toda la parte de producción \(artística y técnica\) y creación de contenidos de los eventos de MediaFlow Events S.L..
 
-* Mapping de la Puerta del Sol
-* Mapping del Dia de la Hispanidad \(retransmisión en directo\)
-* Videowall Interactivo más grande del Mundo
+* [Mapping de la Puerta del Sol](nexcommunity-sl/works.md#mapping-puerta-del-sol-fin-de-anos)
+* Mapping del [Dia de la Hispanidad](nexcommunity-sl/works.md#dia-de-la-hispanidad-mapping-palacio-real-madrid) \(retransmisión en directo\)
+* [Videowall Interactivo](nexcommunity-sl/works.md#video-wall-interactivo-ryath-trison) más grande del Mundo
 * Participamos en el Showroom Inditex
 
 ### [Nexcode S.L.](nexcode-sl.md)
