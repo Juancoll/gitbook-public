@@ -1,8 +1,8 @@
 ---
-description: El proyecto artístico
+description: Colectivo Anatomic
 ---
 
-# Teatro y Performance - Colectivo Anatomic
+# Teatro y Performance
 
 ## overview
 

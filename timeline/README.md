@@ -71,13 +71,29 @@ Después de pasar más de 10 años ofreciendo servicios audiovisuales e intentan
 
 * [Hotusa Nodall Systems - Shine ](empresas/nodall-systems-sl/)
 
-## Nuevos Horizontes - las finanzas
+## Nuevos Horizontes 
+
+### Las finanzas
 
 Cada 10 años, llega alguna crisis, que en mi caso corresponde a la crisis de los 30 \(2008\), la crisis de los 40 \(covid\) y supongo que seguirán la de los 50, 60 y así sucesivamente. A cada crisis toca volver al principio, reinventarse, reestructurarse y sobretodo tener mucha energía con cada vez menos tiempo: familia, obligaciones que hacen el día a día más complicado. Por eso decidí empezar a estudiar algo de finanzas y especulación. Al final, gran parte de nuestra actividad se dedica a transformar tiempo en dinero. ¿Porque no aprender qué es y cómo funciona la fuente, el dinero? 
 
 Resulta que las finanzas son un mundo apasionante \(historia, tecnología , ciencia, sociológica, data analysis ...\) y en los cuales han participado muchas de las mentes más brillantes de nuestro siglo. Pero al mismo tiempo y desde sus inicios, el mundo financiero y especulativo ha sido el lugar predilecto de los fraudes y engaños.
 
 * [tradin.io](proyectos/tradin.io.md) se propone ordenar la información financiera online en función de parámetros relevantes. Por ejemplo, ¿porque no saber si una persona que da consejos financieros gana dinero con ellos? o ¿Cuántos perfiles falsos tiene la cuenta del Gurú de turno? ¿Por dónde debería empezar si quiero  invertir? ¿Cómo se organiza el mercado de las criptos?
+
+### Privacidad, Libertad y datos
+
+
+
+### Empresas y Post Covid 19
+
+
+
+
+
+
+
+
 
 
 
