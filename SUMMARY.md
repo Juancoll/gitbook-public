@@ -51,7 +51,7 @@
   * [Proyectos](timeline/proyectos/README.md)
     * [tradin.io](timeline/proyectos/tradin.io.md)
     * [Homin](timeline/proyectos/homin.md)
-    * [D·Space](timeline/proyectos/untitled.md)
+    * [D·Space](timeline/proyectos/dspace.md)
   * [team](timeline/equipo.md)
 * [Programming](programming/README.md)
   * [arte y tecnologia](programming/arte-y-tecnologia.md)
