@@ -2,7 +2,7 @@
 description: El proyecto artístico
 ---
 
-# Colectivo Anatomic
+# Teatro y Performance - Colectivo Anatomic
 
 ## overview
 

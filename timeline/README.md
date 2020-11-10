@@ -20,7 +20,7 @@ Toda mi formación se ha visto influenciada e interrumpida por la dualidad Arte 
 
 Al finalizar los estudios en la escuela Massana, entro a trabajar de ayudante de programación para [Marceli Antunez](http://www.marceliantunez.com/) \(ex Fura dels Baus\), en el [espectáculo Pol](http://www.marceliantunez.com/work/pol/). Ahí, me encuentro a [Alvaro Uña Resa](https://www.linkedin.com/in/alvaro-u%C3%B1a-resa-b33669195/), el que sera mi mentor y compañero de viaje durante casi 10 años. Nos lanzamos en los siguientes proyectos de arte y tecnología
 
-* [Emotique S.L.](emotique-sl/) - nuestra primera empresa como productora de espectáculos y desarrollo de software visual. 
+* [Emotique S.L.](empresas/emotique-sl/) - nuestra primera empresa como productora de espectáculos y desarrollo de software visual. 
 * [El colectivo anatomic](colectivo-anatomic/) - Agrupaciones de artistas alrededor de la productora Emotique S.L. para la creación de una serie de espectáculos.
 
 ## Empresas de Eventos \(Software y Contenidos\)
@@ -29,35 +29,35 @@ Al finalizar los estudios en la escuela Massana, entro a trabajar de ayudante de
 
 Durante nuestra aventura en el mundo del arte y la tecnología, aparece Olivier Sepulchre, que nos ofrece la posibilidad de trabajar para el sector de los Eventos en la edición del Sonar 2005 \(en el Stand de San Miguel\). Empieza la transformación de empresa artística a empresa comercial.
 
-### [Emotique S.L.](emotique-sl/)
+### [Emotique S.L.](empresas/emotique-sl/)
 
 * Se desarrolla el Software ["ooo"](../programming/ooo-programacion-visual.md) un sistema de programación visual como base de toda la tecnología de la empresa.  
-* Se presentan [2 Proyectos Europeos](emotique-sl/#proyectos-europeos) \(con el[ Fraunhofer-Gesellschaft](https://www.fraunhofer.de/en.html)\) alrededor de nuestro software.
+* Se presentan [2 Proyectos Europeos](empresas/emotique-sl/#proyectos-europeos) \(con el[ Fraunhofer-Gesellschaft](https://www.fraunhofer.de/en.html)\) alrededor de nuestro software.
 * Se especializa en interacción y multimedia aplicada al mundo del evento.
 * La empresa fue participada por la caja de ahorros de Navarra en más de un 20%. Con la Crisis de 2008-2009 se tuvo que cerrar la empresa.
 
-### [MediaFlow Events S.L.](mediaflow-events-sl/)
+### [MediaFlow Events S.L.](empresas/mediaflow-events-sl/)
 
 Mi socio se muda a Brasil en plena crisis en España, y decidimos seguir con la actividad de desarrollo en España y empezar a trabajar en Brasil. MediaFlow se especializa en Mapping y grandes proyecciones con el desarrollo de su software del mismo nombre MediaFlow Software.
 
 * Muchos trabajos en brasil en su primera fase.
-* Mapping de una de las cúpulas más grandes del mundo. El [WTC de Sao Paulo](mediaflow-events-sl/works.md#dome-world-trade-center-sao-paulo) \(80 x 50 metros\)
+* Mapping de una de las cúpulas más grandes del mundo. El [WTC de Sao Paulo](empresas/mediaflow-events-sl/works.md#dome-world-trade-center-sao-paulo) \(80 x 50 metros\)
 * Cuando empieza a abrirse de nuevo el mercado español, Mediaflow ofrece su espacio y trabajos a un conjunto de profesionales independientes. Empieza lo que se convertirá en la Nexcommunity.
 * Primeros desarrollos del [Nexwarp ](../programming/nexwarp.md)\(Software de Mapping para retail\)
-* Necesidad de separar el **Desarrollo** \(Software\) de la **Producción/Contenidos** en los eventos. Creación  de las 2 empresas con socios diferentes de [Nexcode ](nexcode-sl.md)y [Nexcommunity](nexcommunity-sl/).
+* Necesidad de separar el **Desarrollo** \(Software\) de la **Producción/Contenidos** en los eventos. Creación  de las 2 empresas con socios diferentes de [Nexcode ](empresas/nexcode-sl.md)y [Nexcommunity](empresas/nexcommunity-sl/).
 
-### [Nexcommunity Media S.L.](nexcommunity-sl/)
+### [Nexcommunity Media S.L.](empresas/nexcommunity-sl/)
 
 {% embed url="http://nexcommunity.com/" caption="" %}
 
 Junto con Tomeu Fiol y Jorge Lopez Lopez-Gay, se crea la empresa para gestionar toda la parte de producción \(artística y técnica\) y creación de contenidos de los eventos de MediaFlow Events S.L..
 
-* [Mapping de la Puerta del Sol](nexcommunity-sl/works.md#mapping-puerta-del-sol-fin-de-anos)
-* Mapping del [Dia de la Hispanidad](nexcommunity-sl/works.md#dia-de-la-hispanidad-mapping-palacio-real-madrid) \(retransmisión en directo\)
-* [Videowall Interactivo](nexcommunity-sl/works.md#video-wall-interactivo-ryath-trison) más grande del Mundo
+* [Mapping de la Puerta del Sol](empresas/nexcommunity-sl/works.md#mapping-puerta-del-sol-fin-de-anos)
+* Mapping del [Dia de la Hispanidad](empresas/nexcommunity-sl/works.md#dia-de-la-hispanidad-mapping-palacio-real-madrid) \(retransmisión en directo\)
+* [Videowall Interactivo](empresas/nexcommunity-sl/works.md#video-wall-interactivo-ryath-trison) más grande del Mundo
 * Participamos en el Showroom Inditex
 
-### [Nexcode S.L.](nexcode-sl.md)
+### [Nexcode S.L.](empresas/nexcode-sl.md)
 
 Centraliza todo el desarrollo de software de MediaFlow Events y añade toda la parte de servicios: Interactivos 3D con Unity de la mano de Pau Vivancos, mi socio en esta empresa.
 
@@ -69,7 +69,7 @@ Centraliza todo el desarrollo de software de MediaFlow Events y añade toda la p
 
 Después de pasar más de 10 años ofreciendo servicios audiovisuales e intentando transformar nuestros software en producto, aparece la oportunidad por parte del grupo Hotusa, de trabajar sobre la conceptualización y desarrollo de una renovación de la experiencia en las habitaciones de hotel mediante la proyección. Poder volcar toda mis ideas y experiencia en un solo proyecto ! Asi nace la startup Nodall Systems.
 
-* [Hotusa Nodall Systems - Shine ](nodall-systems-sl/)
+* [Hotusa Nodall Systems - Shine ](empresas/nodall-systems-sl/)
 
 ## Nuevos Horizontes - las finanzas
 
@@ -77,7 +77,7 @@ Cada 10 años, llega alguna crisis, que en mi caso corresponde a la crisis de lo
 
 Resulta que las finanzas son un mundo apasionante \(historia, tecnología , ciencia, sociológica, data analysis ...\) y en los cuales han participado muchas de las mentes más brillantes de nuestro siglo. Pero al mismo tiempo y desde sus inicios, el mundo financiero y especulativo ha sido el lugar predilecto de los fraudes y engaños.
 
-* [tradin.io](tradin.io.md) se propone ordenar la información financiera online en función de parámetros relevantes. Por ejemplo, ¿porque no saber si una persona que da consejos financieros gana dinero con ellos? o ¿Cuántos perfiles falsos tiene la cuenta del Gurú de turno? ¿Por dónde debería empezar si quiero  invertir? ¿Cómo se organiza el mercado de las criptos?
+* [tradin.io](proyectos/tradin.io.md) se propone ordenar la información financiera online en función de parámetros relevantes. Por ejemplo, ¿porque no saber si una persona que da consejos financieros gana dinero con ellos? o ¿Cuántos perfiles falsos tiene la cuenta del Gurú de turno? ¿Por dónde debería empezar si quiero  invertir? ¿Cómo se organiza el mercado de las criptos?
 
 
 

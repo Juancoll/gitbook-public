@@ -24,22 +24,22 @@ Nacido en 1978, de padre físico teórico y madre trabajadora social, con estudi
 
 * **Emotique S.L.** 
   * "ooo", software de programación visual al estilo de [PureData](https://puredata.info/), [MaxMSP ](https://cycling74.com/)o [vvvv](https://vvvv.org/). \([ver](programming/ooo-programacion-visual.md)\)
-  * Primera discoteca en un avión comercial . \([ver](timeline/emotique-sl/works.md#david-guetta-la-primera-discoteca-en-un-avion-de-pasajeros)\)
-  * proyectos europeos junto con el Franhoffer 2006 y 2007. \([ver](timeline/emotique-sl/#proyectos-europeos)\)
+  * Primera discoteca en un avión comercial . \([ver](timeline/empresas/emotique-sl/works.md#david-guetta-la-primera-discoteca-en-un-avion-de-pasajeros)\)
+  * proyectos europeos junto con el Franhoffer 2006 y 2007. \([ver](timeline/empresas/emotique-sl/#proyectos-europeos)\)
 * **MediaFlow Events S.L.**
   * Software de mapping de alto rendimiento. \([ver](programming/mediaflow.md)\)
-  * Proyección de una de las cúpulas mas grandes del Mundo \(WTC Sao Paulo\). \([ver](timeline/mediaflow-events-sl/works.md#dome-world-trade-center-sao-paulo)\)
+  * Proyección de una de las cúpulas mas grandes del Mundo \(WTC Sao Paulo\). \([ver](timeline/empresas/mediaflow-events-sl/works.md#dome-world-trade-center-sao-paulo)\)
 * **Nexcommunity Media S.L.**
-  * Primer Mapping de la Puerta del Sol \([ver](timeline/nexcommunity-sl/works.md#mapping-puerta-del-sol-fin-de-anos)\)
-  * Primer Mapping del Palacio Real de Madrid en el Día de la Hispanidad en Directo. \([ver](timeline/nexcommunity-sl/works.md#dia-de-la-hispanidad-mapping-palacio-real-madrid)\)
-  * El Videowall Interactivo más grande del Mundo \(en su momento\). \([ver](timeline/nexcommunity-sl/works.md#video-wall-interactivo-ryath-trison)\)
+  * Primer Mapping de la Puerta del Sol \([ver](timeline/empresas/nexcommunity-sl/works.md#mapping-puerta-del-sol-fin-de-anos)\)
+  * Primer Mapping del Palacio Real de Madrid en el Día de la Hispanidad en Directo. \([ver](timeline/empresas/nexcommunity-sl/works.md#dia-de-la-hispanidad-mapping-palacio-real-madrid)\)
+  * El Videowall Interactivo más grande del Mundo \(en su momento\). \([ver](timeline/empresas/nexcommunity-sl/works.md#video-wall-interactivo-ryath-trison)\)
 * **Nexcode S.L.**
   * Nexwarp v0, software de mapping hackeando el s.o. \([ver](programming/nexwarp.md)\)
   * Nexwarp v1, software de mapping y gestión de contenidos junto con Panasonic \([ver](programming/nexwarp.md#new-concept-2-0)\)
 
 ### **2017 –  actual** - Shine
 
-Nodall Systems es una startup que se crea junto al grupo hotelero español Hotusa S.A. \(70%\), dedicada a la conceptualización y creación del producto Shine, un sistema audiovisual que transforma las habitaciones en SMART ROOMS . \([ver más](timeline/nodall-systems-sl/), o ir a la [web](http://www.shinesmartroom.com/)\)
+Nodall Systems es una startup que se crea junto al grupo hotelero español Hotusa S.A. \(70%\), dedicada a la conceptualización y creación del producto Shine, un sistema audiovisual que transforma las habitaciones en SMART ROOMS . \([ver más](timeline/empresas/nodall-systems-sl/), o ir a la [web](http://www.shinesmartroom.com/)\)
 
 ## Contacto
 
