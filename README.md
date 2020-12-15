@@ -41,8 +41,6 @@ Nacido en 1978, de padre físico teórico y madre trabajadora social, con estudi
 
 Nodall Systems es una startup que se crea junto al grupo hotelero español Hotusa S.A. \(70%\), dedicada a la conceptualización y creación del producto Shine, un sistema audiovisual que transforma las habitaciones en SMART ROOMS . \([ver más](timeline/empresas/nodall-systems-sl/), o ir a la [web](http://www.shinesmartroom.com/)\)
 
-### 2020-2021 - Postgrado - Técnicas cuantitativas para los mercados financieros \(UPC\) 
-
 ## Contacto
 
 | Email | juan.coll@nex-group.io |
